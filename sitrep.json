@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 17, 2026 · 1:21 PM CT",
- "requestsLast24h": 23,
- "intakes": 132,
- "people": 415,
- "medical": 63,
+ "verified_as_of": "Oct 17, 2026 · 1:28 PM CT",
+ "requestsLast24h": 25,
+ "intakes": 134,
+ "people": 417,
+ "medical": 65,
  "veterans": 20,
- "firstResponders": 16,
+ "firstResponders": 17,
  "resources": 459,
  "siteReady": 39,
  "canTow": 41,
- "own": 82,
+ "own": 83,
  "insured": 42,
- "veteranFr": 30,
+ "veteranFr": 31,
  "hours": [
   {
    "hour": "02",
@@ -71,7 +71,7 @@
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 12
+   "count": 14
   },
   {
    "hour": "14",
@@ -145,11 +145,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 82,
+   "count": 83,
    "towns": [
     {
      "town": "Milton",
-     "count": 59
+     "count": 60
     },
     {
      "town": "Pace",
@@ -211,11 +211,15 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 5,
+   "count": 6,
    "towns": [
     {
      "town": "Florida",
      "count": 2
+    },
+    {
+     "town": "Westville",
+     "count": 1
     },
     {
      "town": "Flomaton",
@@ -233,15 +237,16 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 83,
+  "unassigned": 6,
   "Escambia County": 36,
-  "Santa Rosa County": 82,
   "Walton County": 5,
-  "unassigned": 5,
   "Okaloosa County": 4
  },
  "towns": {
+  "Milton": 60,
+  "Westville": 1,
   "Pensacola": 32,
-  "Milton": 59,
   "Jay": 7,
   "Gulf Breeze": 2,
   "Navarre": 3,
@@ -262,7 +267,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 21
+   "count": 23
   },
   {
    "label": "2",
@@ -292,7 +297,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 58,
+   "households": 60,
    "rigs": 59
   },
   {
@@ -320,8 +325,8 @@
  },
  "signals": [
   "867 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "132 families asking for help — 415 people",
-  "63 households with medical conditions"
+  "134 families asking for help — 417 people",
+  "65 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -329,6 +334,32 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.93937,
+   "lon": -87.12228,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.83318,
+   "lon": -85.921,
+   "town": "Westville",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.45546,
    "lon": -87.29452,
