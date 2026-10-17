@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 17, 2026 · 2:39 PM CT",
+ "verified_as_of": "Oct 17, 2026 · 3:42 PM CT",
  "requestsLast24h": 27,
- "intakes": 138,
- "people": 427,
- "medical": 67,
- "veterans": 20,
+ "intakes": 140,
+ "people": 436,
+ "medical": 68,
+ "veterans": 21,
  "firstResponders": 17,
  "resources": 459,
  "siteReady": 39,
  "canTow": 43,
  "own": 85,
- "insured": 44,
- "veteranFr": 31,
+ "insured": 45,
+ "veteranFr": 32,
  "hours": [
   {
    "hour": "02",
@@ -81,7 +81,7 @@
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 30
+   "count": 32
   },
   {
    "hour": "16",
@@ -145,11 +145,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 86,
+   "count": 87,
    "towns": [
     {
      "town": "Milton",
-     "count": 61
+     "count": 62
     },
     {
      "town": "Pace",
@@ -211,11 +211,11 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 7,
+   "count": 8,
    "towns": [
     {
      "town": "Florida",
-     "count": 2
+     "count": 3
     },
     {
      "town": "Freeport",
@@ -241,14 +241,15 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 86,
-  "unassigned": 7,
+  "Santa Rosa County": 87,
+  "unassigned": 8,
   "Escambia County": 36,
   "Walton County": 5,
   "Okaloosa County": 4
  },
  "towns": {
-  "Milton": 61,
+  "Milton": 62,
+  "unresolved": 4,
   "Jay": 8,
   "Freeport": 1,
   "Pace": 11,
@@ -258,7 +259,6 @@
   "Navarre": 3,
   "DeFuniak Springs": 3,
   "Cantonment": 3,
-  "unresolved": 3,
   "Fort Walton Beach": 1,
   "Flomaton": 1,
   "Baker": 1,
@@ -280,7 +280,7 @@
   },
   {
    "label": "3",
-   "count": 23
+   "count": 24
   },
   {
    "label": "4",
@@ -292,7 +292,7 @@
   },
   {
    "label": "6",
-   "count": 11
+   "count": 12
   },
   {
    "label": "7",
@@ -307,7 +307,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 72,
+   "households": 74,
    "rigs": 400
   },
   {
@@ -322,16 +322,16 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 869,
+ "daDestroyedMajor": 870,
  "daBreakdown": {
   "fdem": 348,
   "escambia_ia": 366,
-  "red_cross": 155
+  "red_cross": 156
  },
  "signals": [
-  "869 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "138 families asking for help — 427 people",
-  "67 households with medical conditions"
+  "870 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "140 families asking for help — 436 people",
+  "68 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -339,6 +339,30 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.62678,
+   "lon": -87.0614,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59634,
+   "lon": -87.0613,
+   "town": "Florida",
+   "county": "",
+   "n": 3,
+   "recv": "Oct 17",
+   "flags": [],
+   "da": null
+  },
   {
    "lat": 30.4351,
    "lon": -87.24284,
