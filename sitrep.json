@@ -1,14 +1,14 @@
 {
- "verified_as_of": "Oct 17, 2026 · 2:28 PM CT",
- "requestsLast24h": 26,
- "intakes": 137,
- "people": 425,
- "medical": 66,
+ "verified_as_of": "Oct 17, 2026 · 2:39 PM CT",
+ "requestsLast24h": 27,
+ "intakes": 138,
+ "people": 427,
+ "medical": 67,
  "veterans": 20,
  "firstResponders": 17,
  "resources": 459,
  "siteReady": 39,
- "canTow": 42,
+ "canTow": 43,
  "own": 85,
  "insured": 44,
  "veteranFr": 31,
@@ -76,7 +76,7 @@
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 2
+   "count": 3
   },
   {
    "hour": "15",
@@ -145,11 +145,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 85,
+   "count": 86,
    "towns": [
     {
      "town": "Milton",
-     "count": 60
+     "count": 61
     },
     {
      "town": "Pace",
@@ -241,17 +241,17 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 85,
+  "Santa Rosa County": 86,
   "unassigned": 7,
   "Escambia County": 36,
   "Walton County": 5,
   "Okaloosa County": 4
  },
  "towns": {
+  "Milton": 61,
   "Jay": 8,
   "Freeport": 1,
   "Pace": 11,
-  "Milton": 60,
   "Westville": 1,
   "Pensacola": 32,
   "Gulf Breeze": 2,
@@ -276,7 +276,7 @@
   },
   {
    "label": "2",
-   "count": 39
+   "count": 40
   },
   {
    "label": "3",
@@ -302,7 +302,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 62,
+   "households": 63,
    "rigs": 59
   },
   {
@@ -330,8 +330,8 @@
  },
  "signals": [
   "869 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "137 families asking for help — 425 people",
-  "66 households with medical conditions"
+  "138 families asking for help — 427 people",
+  "67 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -339,6 +339,19 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.4351,
+   "lon": -87.24284,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": null
+  },
   {
    "lat": 30.91894,
    "lon": -87.16061,
