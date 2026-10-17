@@ -1,15 +1,15 @@
 {
- "verified_as_of": "Oct 17, 2026 · 12:41 PM CT",
- "requestsLast24h": 27,
- "intakes": 131,
- "people": 414,
- "medical": 62,
+ "verified_as_of": "Oct 17, 2026 · 12:53 PM CT",
+ "requestsLast24h": 26,
+ "intakes": 132,
+ "people": 415,
+ "medical": 63,
  "veterans": 20,
  "firstResponders": 16,
  "resources": 459,
  "siteReady": 39,
  "canTow": 41,
- "own": 81,
+ "own": 82,
  "insured": 42,
  "veteranFr": 30,
  "hours": [
@@ -66,7 +66,7 @@
   {
    "hour": "12",
    "label": "12 PM",
-   "count": 3
+   "count": 4
   },
   {
    "hour": "13",
@@ -127,11 +127,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 35,
+   "count": 36,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 31
+     "count": 32
     },
     {
      "town": "Cantonment",
@@ -233,36 +233,36 @@
   }
  ],
  "countyCounts": {
+  "Escambia County": 36,
+  "Okaloosa County": 4,
   "Santa Rosa County": 82,
-  "Escambia County": 35,
   "Walton County": 5,
-  "unassigned": 5,
-  "Okaloosa County": 4
+  "unassigned": 5
  },
  "towns": {
-  "Milton": 59,
-  "Jay": 7,
-  "Gulf Breeze": 2,
-  "Pensacola": 31,
-  "Navarre": 3,
-  "DeFuniak Springs": 3,
-  "Cantonment": 3,
-  "unresolved": 3,
-  "Pace": 10,
-  "Fort Walton Beach": 1,
-  "Flomaton": 1,
-  "Baker": 1,
-  "Ensley": 1,
   "Allentown": 1,
+  "Baker": 1,
   "Brewton": 1,
+  "Cantonment": 3,
   "Castleberry": 1,
+  "Crestview": 2,
+  "DeFuniak Springs": 3,
+  "Ensley": 1,
+  "Flomaton": 1,
+  "Fort Walton Beach": 1,
+  "Gulf Breeze": 2,
+  "Jay": 7,
+  "Milton": 59,
+  "Navarre": 3,
+  "Pace": 10,
+  "Pensacola": 32,
   "Santa Rosa Beach": 1,
-  "Crestview": 2
+  "unresolved": 3
  },
  "sizes": [
   {
    "label": "1",
-   "count": 20
+   "count": 21
   },
   {
    "label": "2",
@@ -292,7 +292,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 57,
+   "households": 58,
    "rigs": 59
   },
   {
@@ -314,14 +314,14 @@
  },
  "daDestroyedMajor": 866,
  "daBreakdown": {
-  "fdem": 348,
   "escambia_ia": 366,
+  "fdem": 348,
   "red_cross": 152
  },
  "signals": [
   "866 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "131 families asking for help — 414 people",
-  "62 households with medical conditions"
+  "132 families asking for help — 415 people",
+  "63 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -329,6 +329,19 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.45546,
+   "lon": -87.29452,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.89489,
    "lon": -87.04778,
