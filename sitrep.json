@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 17, 2026 · 2:12 PM CT",
+ "verified_as_of": "Oct 17, 2026 · 2:28 PM CT",
  "requestsLast24h": 26,
  "intakes": 137,
  "people": 425,
@@ -322,14 +322,14 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 868,
+ "daDestroyedMajor": 869,
  "daBreakdown": {
   "fdem": 348,
   "escambia_ia": 366,
-  "red_cross": 154
+  "red_cross": 155
  },
  "signals": [
-  "868 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "869 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
   "137 families asking for help — 425 people",
   "66 households with medical conditions"
  ],
