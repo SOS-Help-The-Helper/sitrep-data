@@ -1,6 +1,6 @@
 {
- "verified_as_of": "Oct 17, 2026 · 12:53 PM CT",
- "requestsLast24h": 26,
+ "verified_as_of": "Oct 17, 2026 · 1:05 PM CT",
+ "requestsLast24h": 24,
  "intakes": 132,
  "people": 415,
  "medical": 63,
@@ -234,30 +234,30 @@
  ],
  "countyCounts": {
   "Escambia County": 36,
-  "Okaloosa County": 4,
   "Santa Rosa County": 82,
   "Walton County": 5,
-  "unassigned": 5
+  "unassigned": 5,
+  "Okaloosa County": 4
  },
  "towns": {
-  "Allentown": 1,
-  "Baker": 1,
-  "Brewton": 1,
-  "Cantonment": 3,
-  "Castleberry": 1,
-  "Crestview": 2,
-  "DeFuniak Springs": 3,
-  "Ensley": 1,
-  "Flomaton": 1,
-  "Fort Walton Beach": 1,
-  "Gulf Breeze": 2,
-  "Jay": 7,
-  "Milton": 59,
-  "Navarre": 3,
-  "Pace": 10,
   "Pensacola": 32,
+  "Milton": 59,
+  "Jay": 7,
+  "Gulf Breeze": 2,
+  "Navarre": 3,
+  "DeFuniak Springs": 3,
+  "Cantonment": 3,
+  "unresolved": 3,
+  "Pace": 10,
+  "Fort Walton Beach": 1,
+  "Flomaton": 1,
+  "Baker": 1,
+  "Ensley": 1,
+  "Allentown": 1,
+  "Brewton": 1,
+  "Castleberry": 1,
   "Santa Rosa Beach": 1,
-  "unresolved": 3
+  "Crestview": 2
  },
  "sizes": [
   {
@@ -314,8 +314,8 @@
  },
  "daDestroyedMajor": 866,
  "daBreakdown": {
-  "escambia_ia": 366,
   "fdem": 348,
+  "escambia_ia": 366,
   "red_cross": 152
  },
  "signals": [
