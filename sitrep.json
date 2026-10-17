@@ -1,15 +1,15 @@
 {
- "verified_as_of": "Oct 17, 2026 · 4:42 PM CT",
- "requestsLast24h": 25,
- "intakes": 140,
- "people": 436,
- "medical": 68,
+ "verified_as_of": "Oct 17, 2026 · 5:00 PM CT",
+ "requestsLast24h": 26,
+ "intakes": 141,
+ "people": 438,
+ "medical": 69,
  "veterans": 21,
  "firstResponders": 17,
  "resources": 459,
  "siteReady": 39,
  "canTow": 43,
- "own": 85,
+ "own": 86,
  "insured": 45,
  "veteranFr": 32,
  "hours": [
@@ -86,7 +86,7 @@
   {
    "hour": "16",
    "label": "4 PM",
-   "count": 9
+   "count": 10
   },
   {
    "hour": "17",
@@ -145,11 +145,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 87,
+   "count": 88,
    "towns": [
     {
      "town": "Milton",
-     "count": 62
+     "count": 63
     },
     {
      "town": "Pace",
@@ -241,14 +241,14 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 87,
+  "Santa Rosa County": 88,
   "unassigned": 8,
   "Escambia County": 36,
   "Walton County": 5,
   "Okaloosa County": 4
  },
  "towns": {
-  "Milton": 62,
+  "Milton": 63,
   "unresolved": 4,
   "Jay": 8,
   "Freeport": 1,
@@ -276,7 +276,7 @@
   },
   {
    "label": "2",
-   "count": 40
+   "count": 41
   },
   {
    "label": "3",
@@ -302,7 +302,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 63,
+   "households": 64,
    "rigs": 59
   },
   {
@@ -330,8 +330,8 @@
  },
  "signals": [
   "871 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "140 families asking for help — 436 people",
-  "68 households with medical conditions"
+  "141 families asking for help — 438 people",
+  "69 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -339,6 +339,19 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.68778,
+   "lon": -87.05046,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.62678,
    "lon": -87.0614,
