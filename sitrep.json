@@ -1,0 +1,3755 @@
+{
+ "verified_as_of": "Oct 17, 2026 · 6:37 AM CT",
+ "requestsLast24h": 89,
+ "intakes": 117,
+ "people": 380,
+ "medical": 53,
+ "veterans": 18,
+ "firstResponders": 13,
+ "resources": 459,
+ "siteReady": 39,
+ "canTow": 37,
+ "own": 71,
+ "insured": 40,
+ "veteranFr": 27,
+ "hours": [
+  {
+   "hour": "02",
+   "label": "2 AM",
+   "count": 1
+  },
+  {
+   "hour": "03",
+   "label": "3 AM",
+   "count": 0
+  },
+  {
+   "hour": "04",
+   "label": "4 AM",
+   "count": 0
+  },
+  {
+   "hour": "05",
+   "label": "5 AM",
+   "count": 0
+  },
+  {
+   "hour": "06",
+   "label": "6 AM",
+   "count": 1
+  },
+  {
+   "hour": "07",
+   "label": "7 AM",
+   "count": 0
+  },
+  {
+   "hour": "08",
+   "label": "8 AM",
+   "count": 0
+  },
+  {
+   "hour": "09",
+   "label": "9 AM",
+   "count": 0
+  },
+  {
+   "hour": "10",
+   "label": "10 AM",
+   "count": 17
+  },
+  {
+   "hour": "11",
+   "label": "11 AM",
+   "count": 3
+  },
+  {
+   "hour": "12",
+   "label": "12 PM",
+   "count": 0
+  },
+  {
+   "hour": "13",
+   "label": "1 PM",
+   "count": 12
+  },
+  {
+   "hour": "14",
+   "label": "2 PM",
+   "count": 0
+  },
+  {
+   "hour": "15",
+   "label": "3 PM",
+   "count": 30
+  },
+  {
+   "hour": "16",
+   "label": "4 PM",
+   "count": 9
+  },
+  {
+   "hour": "17",
+   "label": "5 PM",
+   "count": 29
+  },
+  {
+   "hour": "18",
+   "label": "6 PM",
+   "count": 4
+  },
+  {
+   "hour": "19",
+   "label": "7 PM",
+   "count": 4
+  },
+  {
+   "hour": "20",
+   "label": "8 PM",
+   "count": 2
+  },
+  {
+   "hour": "21",
+   "label": "9 PM",
+   "count": 1
+  },
+  {
+   "hour": "22",
+   "label": "10 PM",
+   "count": 3
+  },
+  {
+   "hour": "23",
+   "label": "11 PM",
+   "count": 1
+  }
+ ],
+ "counties": [
+  {
+   "county": "Escambia County",
+   "count": 29,
+   "towns": [
+    {
+     "town": "Pensacola",
+     "count": 31
+    },
+    {
+     "town": "Cantonment",
+     "count": 3
+    },
+    {
+     "town": "Ensley",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "county": "Santa Rosa County",
+   "count": 75,
+   "towns": [
+    {
+     "town": "Milton",
+     "count": 59
+    },
+    {
+     "town": "Pace",
+     "count": 10
+    },
+    {
+     "town": "Jay",
+     "count": 7
+    },
+    {
+     "town": "Navarre",
+     "count": 3
+    },
+    {
+     "town": "Gulf Breeze",
+     "count": 2
+    },
+    {
+     "town": "Allentown",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "county": "Okaloosa County",
+   "count": 4,
+   "towns": [
+    {
+     "town": "Crestview",
+     "count": 2
+    },
+    {
+     "town": "Fort Walton Beach",
+     "count": 1
+    },
+    {
+     "town": "Baker",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "county": "Walton County",
+   "count": 4,
+   "towns": [
+    {
+     "town": "DeFuniak Springs",
+     "count": 3
+    },
+    {
+     "town": "Santa Rosa Beach",
+     "count": 1
+    },
+    {
+     "town": "Once de Lien",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "county": "County not yet assigned",
+   "count": 5,
+   "towns": [
+    {
+     "town": "Florida",
+     "count": 2
+    },
+    {
+     "town": "Flomaton",
+     "count": 1
+    },
+    {
+     "town": "Brewton",
+     "count": 1
+    },
+    {
+     "town": "Castleberry",
+     "count": 1
+    }
+   ]
+  }
+ ],
+ "countyCounts": {
+  "Escambia County": 29,
+  "Okaloosa County": 4,
+  "Santa Rosa County": 75,
+  "Walton County": 4,
+  "unassigned": 5
+ },
+ "towns": {
+  "Allentown": 1,
+  "Baker": 1,
+  "Brewton": 1,
+  "Cantonment": 2,
+  "Castleberry": 1,
+  "Crestview": 2,
+  "DeFuniak Springs": 2,
+  "Ensley": 1,
+  "Flomaton": 1,
+  "Fort Walton Beach": 1,
+  "Gulf Breeze": 1,
+  "Jay": 6,
+  "Milton": 55,
+  "Navarre": 2,
+  "Pace": 10,
+  "Pensacola": 26,
+  "Santa Rosa Beach": 1,
+  "unresolved": 3
+ },
+ "sizes": [
+  {
+   "label": "1",
+   "count": 14
+  },
+  {
+   "label": "2",
+   "count": 35
+  },
+  {
+   "label": "3",
+   "count": 21
+  },
+  {
+   "label": "4",
+   "count": 18
+  },
+  {
+   "label": "5",
+   "count": 16
+  },
+  {
+   "label": "6",
+   "count": 10
+  },
+  {
+   "label": "7",
+   "count": 3
+  }
+ ],
+ "bands": [
+  {
+   "label": "Sleeps 2 — households of 1–2 people",
+   "households": 49,
+   "rigs": 59
+  },
+  {
+   "label": "Sleeps 4–6 — households of 3–6 people",
+   "households": 65,
+   "rigs": 400
+  },
+  {
+   "label": "Sleeps 7+ — households of 7 or more",
+   "households": 3,
+   "rigs": 0
+  }
+ ],
+ "fleet": {
+  "accessible": 59,
+  "sleep2": 59,
+  "sleep4_6": 400,
+  "total": 459
+ },
+ "daDestroyedMajor": 856,
+ "daBreakdown": {
+  "escambia_ia": 366,
+  "fdem": 348,
+  "red_cross": 142
+ },
+ "signals": [
+  "856 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "117 families asking for help — 380 people",
+  "53 households with medical conditions"
+ ],
+ "action": [
+  "459 rigs standing by",
+  "39 families site-ready for immediate placement",
+  "All intakes being vetted; rigs assigned starting with destroyed homes"
+ ],
+ "pins": [
+  {
+   "lat": 30.89489,
+   "lon": -87.04778,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 17",
+   "flags": [
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62702,
+   "lon": -87.03836,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.91894,
+   "lon": -87.16061,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 17",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.39262,
+   "lon": -87.05422,
+   "town": "Gulf Breeze",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 17",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44618,
+   "lon": -87.24507,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.68006,
+   "lon": -87.05192,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43345,
+   "lon": -87.26339,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.49913,
+   "lon": -87.30609,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.39866,
+   "lon": -86.93179,
+   "town": "Navarre",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.47053,
+   "lon": -87.2227,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41478,
+   "lon": -87.25727,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 17",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.71567,
+   "lon": -86.13282,
+   "town": "DeFuniak Springs",
+   "county": "Walton",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.53815,
+   "lon": -87.32925,
+   "town": "Cantonment",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45554,
+   "lon": -87.24427,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.39681,
+   "lon": -87.27026,
+   "town": "Florida",
+   "county": "",
+   "n": 4,
+   "recv": "Oct 17",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62939,
+   "lon": -87.11936,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63409,
+   "lon": -87.04957,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43143,
+   "lon": -86.65005,
+   "town": "Fort Walton Beach",
+   "county": "Okaloosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.64453,
+   "lon": -87.05486,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42232,
+   "lon": -87.26652,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.68312,
+   "lon": -87.04832,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59399,
+   "lon": -87.14493,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.55511,
+   "lon": -87.25654,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.48986,
+   "lon": -87.2533,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Can tow"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.46462,
+   "lon": -87.26394,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.52067,
+   "lon": -87.25833,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62941,
+   "lon": -87.12084,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63887,
+   "lon": -87.04505,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.66711,
+   "lon": -87.07274,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59493,
+   "lon": -87.14574,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60547,
+   "lon": -87.33602,
+   "town": "Cantonment",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 31.03515,
+   "lon": -87.18544,
+   "town": "Flomaton",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.40356,
+   "lon": -87.00154,
+   "town": "Gulf Breeze",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62854,
+   "lon": -87.01919,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.57632,
+   "lon": -87.29578,
+   "town": "Cantonment",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.60297,
+   "lon": -87.07053,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.70116,
+   "lon": -86.19468,
+   "town": "DeFuniak Springs",
+   "county": "Walton",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60917,
+   "lon": -87.17467,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.47053,
+   "lon": -87.2227,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.62003,
+   "lon": -86.98339,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.89434,
+   "lon": -86.83563,
+   "town": "Baker",
+   "county": "Okaloosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43865,
+   "lon": -87.31675,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.52125,
+   "lon": -87.25535,
+   "town": "Ensley",
+   "county": "Escambia",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.51731,
+   "lon": -87.17596,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.62954,
+   "lon": -86.96015,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.38102,
+   "lon": -87.3076,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60545,
+   "lon": -87.11974,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.64567,
+   "lon": -86.96316,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58434,
+   "lon": -87.12574,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.68006,
+   "lon": -87.05193,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Can tow"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.59631,
+   "lon": -87.06051,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.7705,
+   "lon": -87.05854,
+   "town": "Allentown",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 31.13584,
+   "lon": -87.06193,
+   "town": "Brewton",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 31.26966,
+   "lon": -87.11584,
+   "town": "Castleberry",
+   "county": "",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43345,
+   "lon": -87.26339,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.43637,
+   "lon": -87.24641,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.75839,
+   "lon": -86.26463,
+   "town": "DeFuniak Springs",
+   "county": "Walton",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.53208,
+   "lon": -87.21491,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60054,
+   "lon": -87.13058,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.62979,
+   "lon": -87.05015,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41136,
+   "lon": -86.22053,
+   "town": "Santa Rosa Beach",
+   "county": "Walton",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.61935,
+   "lon": -87.17255,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45547,
+   "lon": -87.33079,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.50725,
+   "lon": -87.18911,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.79161,
+   "lon": -87.01464,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.68574,
+   "lon": -87.04791,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.50126,
+   "lon": -87.21219,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Insured"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.4071,
+   "lon": -87.22855,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.54297,
+   "lon": -87.23935,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62845,
+   "lon": -86.99585,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43058,
+   "lon": -86.91543,
+   "town": "Navarre",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59527,
+   "lon": -86.99709,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44565,
+   "lon": -86.86846,
+   "town": "Navarre",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.53731,
+   "lon": -87.26082,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.62166,
+   "lon": -87.06563,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59321,
+   "lon": -86.98908,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.89168,
+   "lon": -87.06413,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43944,
+   "lon": -87.26827,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 7,
+   "recv": "Oct 16",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.64524,
+   "lon": -86.95496,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58166,
+   "lon": -87.0375,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.95011,
+   "lon": -87.04406,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.92698,
+   "lon": -87.31081,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.55105,
+   "lon": -87.01789,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58484,
+   "lon": -87.12585,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42109,
+   "lon": -87.2527,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.625,
+   "lon": -87.12708,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.59777,
+   "lon": -87.05742,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.75151,
+   "lon": -86.57486,
+   "town": "Crestview",
+   "county": "Okaloosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44261,
+   "lon": -87.27465,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58191,
+   "lon": -87.05486,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 7,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58977,
+   "lon": -87.10232,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58488,
+   "lon": -87.05226,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.73679,
+   "lon": -87.03465,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45727,
+   "lon": -87.29266,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.90786,
+   "lon": -87.03946,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.54155,
+   "lon": -87.2623,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.54237,
+   "lon": -87.2786,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62938,
+   "lon": -87.04184,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.79752,
+   "lon": -86.4121,
+   "town": "Crestview",
+   "county": "Okaloosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58334,
+   "lon": -87.05377,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43117,
+   "lon": -85.983,
+   "town": "Once de Lien",
+   "county": "Walton",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60054,
+   "lon": -87.13058,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.67995,
+   "lon": -87.05194,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [],
+   "da": "Affected"
+  },
+  {
+   "lat": 30.62589,
+   "lon": -87.05127,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59628,
+   "lon": -87.06498,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62915,
+   "lon": -87.12085,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.65531,
+   "lon": -86.89019,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62364,
+   "lon": -86.96941,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 7,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.98854,
+   "lon": -87.13252,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.55048,
+   "lon": -87.25608,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.65114,
+   "lon": -87.12773,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63714,
+   "lon": -86.99952,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.79454,
+   "lon": -87.24384,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 16",
+   "flags": [
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.86083,
+   "lon": -87.22625,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.41625,
+   "lon": -87.28235,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.63335,
+   "lon": -87.13818,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.90625,
+   "lon": -87.03433,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62969,
+   "lon": -87.11935,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.51268,
+   "lon": -87.08911,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59435,
+   "lon": -87.07423,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.51148,
+   "lon": -87.09044,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.97747,
+   "lon": -87.11094,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63027,
+   "lon": -87.08844,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.47053,
+   "lon": -87.2227,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59812,
+   "lon": -87.0813,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.48159,
+   "lon": -87.299,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.64044,
+   "lon": -87.07151,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.61934,
+   "lon": -87.03778,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59081,
+   "lon": -87.03231,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  }
+ ],
+ "damageLayers": {
+  "cell_deg": 0.02,
+  "cell_format": "[lat, lon, fdem_destroyed, fdem_major, escambia_destroyed, escambia_major, partner_destroyed, partner_major]",
+  "cells": [
+   [
+    30.32,
+    -87.48,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.32,
+    -87.44,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.34,
+    -87.12,
+    1,
+    0,
+    1,
+    3,
+    0,
+    0
+   ],
+   [
+    30.34,
+    -87.1,
+    1,
+    3,
+    0,
+    12,
+    0,
+    0
+   ],
+   [
+    30.36,
+    -87.36,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.38,
+    -87.32,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.38,
+    -87.3,
+    1,
+    2,
+    0,
+    3,
+    0,
+    0
+   ],
+   [
+    30.38,
+    -87.28,
+    1,
+    3,
+    0,
+    6,
+    0,
+    0
+   ],
+   [
+    30.38,
+    -87.26,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.38,
+    -87.08,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.38,
+    -86.9,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.38,
+    -84.24,
+    0,
+    6,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -87.32,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -87.3,
+    0,
+    4,
+    0,
+    8,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -87.28,
+    0,
+    2,
+    0,
+    3,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -87.26,
+    0,
+    2,
+    0,
+    5,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -87.24,
+    1,
+    4,
+    0,
+    1,
+    0,
+    1
+   ],
+   [
+    30.4,
+    -87.06,
+    0,
+    8,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -87.04,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -87.02,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -87.0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.4,
+    -86.98,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.4,
+    -86.6,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.42,
+    -87.32,
+    0,
+    2,
+    0,
+    4,
+    0,
+    0
+   ],
+   [
+    30.42,
+    -87.3,
+    2,
+    6,
+    2,
+    17,
+    3,
+    5
+   ],
+   [
+    30.42,
+    -87.28,
+    0,
+    0,
+    0,
+    11,
+    0,
+    0
+   ],
+   [
+    30.42,
+    -87.26,
+    0,
+    7,
+    1,
+    20,
+    0,
+    5
+   ],
+   [
+    30.42,
+    -87.24,
+    2,
+    12,
+    1,
+    3,
+    2,
+    5
+   ],
+   [
+    30.42,
+    -87.22,
+    4,
+    7,
+    0,
+    1,
+    1,
+    0
+   ],
+   [
+    30.42,
+    -87.2,
+    4,
+    4,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.42,
+    -87.18,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.42,
+    -86.98,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.42,
+    -86.78,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.42,
+    -86.64,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.42,
+    -86.62,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2
+   ],
+   [
+    30.44,
+    -87.32,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -87.3,
+    0,
+    1,
+    0,
+    3,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -87.28,
+    0,
+    1,
+    0,
+    3,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -87.26,
+    0,
+    0,
+    0,
+    1,
+    7,
+    3
+   ],
+   [
+    30.44,
+    -87.24,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -87.22,
+    1,
+    5,
+    1,
+    1,
+    0,
+    2
+   ],
+   [
+    30.44,
+    -87.2,
+    4,
+    11,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -87.18,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -86.92,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -86.9,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   [
+    30.44,
+    -86.66,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -86.64,
+    0,
+    3,
+    0,
+    0,
+    2,
+    0
+   ],
+   [
+    30.44,
+    -86.12,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.44,
+    -86.06,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.46,
+    -87.34,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0
+   ],
+   [
+    30.46,
+    -87.32,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.46,
+    -87.3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.46,
+    -87.28,
+    0,
+    0,
+    0,
+    3,
+    1,
+    0
+   ],
+   [
+    30.46,
+    -87.26,
+    0,
+    0,
+    0,
+    8,
+    1,
+    2
+   ],
+   [
+    30.46,
+    -87.24,
+    0,
+    0,
+    0,
+    4,
+    0,
+    2
+   ],
+   [
+    30.46,
+    -87.22,
+    0,
+    6,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.46,
+    -87.2,
+    0,
+    9,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.46,
+    -87.18,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.46,
+    -87.16,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.46,
+    -86.4,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.46,
+    -86.38,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.48,
+    -87.32,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   [
+    30.48,
+    -87.3,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+   ],
+   [
+    30.48,
+    -87.28,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   [
+    30.48,
+    -87.26,
+    1,
+    0,
+    1,
+    2,
+    0,
+    0
+   ],
+   [
+    30.48,
+    -87.24,
+    0,
+    0,
+    0,
+    10,
+    0,
+    1
+   ],
+   [
+    30.48,
+    -87.22,
+    3,
+    4,
+    1,
+    2,
+    1,
+    0
+   ],
+   [
+    30.48,
+    -87.18,
+    2,
+    1,
+    0,
+    3,
+    0,
+    0
+   ],
+   [
+    30.5,
+    -87.32,
+    0,
+    0,
+    0,
+    0,
+    1,
+    3
+   ],
+   [
+    30.5,
+    -87.28,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   [
+    30.5,
+    -87.26,
+    0,
+    0,
+    0,
+    10,
+    6,
+    5
+   ],
+   [
+    30.5,
+    -87.24,
+    0,
+    0,
+    0,
+    12,
+    1,
+    2
+   ],
+   [
+    30.5,
+    -87.22,
+    1,
+    2,
+    1,
+    2,
+    0,
+    0
+   ],
+   [
+    30.5,
+    -87.2,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.5,
+    -87.18,
+    0,
+    1,
+    0,
+    2,
+    0,
+    1
+   ],
+   [
+    30.5,
+    -87.16,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.5,
+    -86.2,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.52,
+    -87.32,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   [
+    30.52,
+    -87.28,
+    0,
+    0,
+    0,
+    6,
+    2,
+    3
+   ],
+   [
+    30.52,
+    -87.26,
+    0,
+    8,
+    0,
+    9,
+    1,
+    3
+   ],
+   [
+    30.52,
+    -87.24,
+    0,
+    0,
+    0,
+    4,
+    0,
+    1
+   ],
+   [
+    30.52,
+    -87.22,
+    1,
+    1,
+    1,
+    8,
+    0,
+    2
+   ],
+   [
+    30.52,
+    -87.2,
+    1,
+    2,
+    2,
+    9,
+    0,
+    0
+   ],
+   [
+    30.52,
+    -87.08,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.52,
+    -86.46,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   [
+    30.54,
+    -87.32,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   [
+    30.54,
+    -87.3,
+    0,
+    0,
+    1,
+    4,
+    0,
+    0
+   ],
+   [
+    30.54,
+    -87.28,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.54,
+    -87.26,
+    3,
+    8,
+    5,
+    7,
+    3,
+    6
+   ],
+   [
+    30.54,
+    -87.24,
+    0,
+    5,
+    0,
+    51,
+    0,
+    0
+   ],
+   [
+    30.54,
+    -87.22,
+    0,
+    1,
+    0,
+    8,
+    0,
+    0
+   ],
+   [
+    30.54,
+    -87.2,
+    0,
+    3,
+    0,
+    9,
+    0,
+    0
+   ],
+   [
+    30.54,
+    -87.12,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.54,
+    -87.1,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.56,
+    -87.42,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.56,
+    -87.32,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0
+   ],
+   [
+    30.56,
+    -87.3,
+    0,
+    0,
+    0,
+    7,
+    0,
+    0
+   ],
+   [
+    30.56,
+    -87.28,
+    0,
+    0,
+    3,
+    4,
+    0,
+    0
+   ],
+   [
+    30.56,
+    -87.26,
+    0,
+    0,
+    0,
+    5,
+    0,
+    0
+   ],
+   [
+    30.56,
+    -87.14,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.56,
+    -87.12,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.56,
+    -87.1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.58,
+    -87.32,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   [
+    30.58,
+    -87.3,
+    0,
+    0,
+    0,
+    5,
+    1,
+    1
+   ],
+   [
+    30.58,
+    -87.28,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0
+   ],
+   [
+    30.58,
+    -87.26,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.58,
+    -87.14,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2
+   ],
+   [
+    30.58,
+    -87.1,
+    0,
+    4,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.58,
+    -87.08,
+    3,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.58,
+    -87.06,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2
+   ],
+   [
+    30.58,
+    -87.04,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.58,
+    -87.0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.6,
+    -87.34,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.6,
+    -87.3,
+    0,
+    0,
+    1,
+    3,
+    0,
+    0
+   ],
+   [
+    30.6,
+    -87.28,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   [
+    30.6,
+    -87.18,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.6,
+    -87.16,
+    2,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.6,
+    -87.14,
+    0,
+    0,
+    0,
+    0,
+    1,
+    3
+   ],
+   [
+    30.6,
+    -87.1,
+    3,
+    0,
+    0,
+    0,
+    0,
+    7
+   ],
+   [
+    30.6,
+    -87.08,
+    3,
+    4,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.6,
+    -87.06,
+    0,
+    1,
+    0,
+    0,
+    0,
+    2
+   ],
+   [
+    30.6,
+    -87.04,
+    0,
+    5,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.6,
+    -87.02,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.62,
+    -87.16,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.62,
+    -87.14,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.62,
+    -87.12,
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.62,
+    -87.08,
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.62,
+    -87.06,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.62,
+    -87.04,
+    3,
+    5,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.62,
+    -87.02,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.62,
+    -86.98,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.62,
+    -86.96,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.64,
+    -87.32,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ],
+   [
+    30.64,
+    -87.04,
+    3,
+    12,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.64,
+    -87.0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.66,
+    -87.08,
+    1,
+    2,
+    0,
+    0,
+    2,
+    1
+   ],
+   [
+    30.66,
+    -87.04,
+    0,
+    6,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.68,
+    -87.08,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.68,
+    -87.06,
+    3,
+    3,
+    0,
+    0,
+    2,
+    4
+   ],
+   [
+    30.68,
+    -87.04,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.7,
+    -87.08,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.7,
+    -86.68,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2
+   ],
+   [
+    30.72,
+    -87.08,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.72,
+    -86.76,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.72,
+    -86.1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.74,
+    -87.1,
+    0,
+    6,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.74,
+    -87.08,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.74,
+    -86.14,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.76,
+    -87.1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.76,
+    -86.58,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.76,
+    -86.56,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.78,
+    -86.58,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   [
+    30.8,
+    -86.16,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.82,
+    -87.04,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.82,
+    -86.54,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.84,
+    -87.06,
+    2,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   [
+    30.84,
+    -86.98,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   [
+    30.86,
+    -87.06,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.86,
+    -87.04,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   [
+    30.9,
+    -87.02,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.94,
+    -87.2,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.94,
+    -87.16,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.94,
+    -87.12,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   [
+    30.94,
+    -87.06,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    30.98,
+    -87.12,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    31.0,
+    -87.1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ]
+  ],
+  "county_counts": {
+   "escambia": {
+    "Escambia": {
+     "destroyed": 25,
+     "major": 341,
+     "total": 366
+    }
+   },
+   "fdem": {
+    "Escambia": {
+     "destroyed": 35,
+     "major": 147,
+     "total": 182
+    },
+    "Okaloosa": {
+     "destroyed": 1,
+     "major": 10,
+     "total": 11
+    },
+    "Santa Rosa": {
+     "destroyed": 38,
+     "major": 109,
+     "total": 147
+    },
+    "Walton": {
+     "destroyed": 3,
+     "major": 5,
+     "total": 8
+    }
+   },
+   "partner": {
+    "Escambia": {
+     "destroyed": 31,
+     "major": 54,
+     "total": 85
+    },
+    "Okaloosa": {
+     "destroyed": 3,
+     "major": 8,
+     "total": 11
+    },
+    "Santa Rosa": {
+     "destroyed": 11,
+     "major": 33,
+     "total": 44
+    },
+    "Walton": {
+     "destroyed": 0,
+     "major": 2,
+     "total": 2
+    }
+   }
+  }
+ }
+}
