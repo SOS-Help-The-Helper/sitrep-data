@@ -1,16 +1,16 @@
 {
- "verified_as_of": "Oct 17, 2026 · 2:02 PM CT",
- "requestsLast24h": 25,
- "intakes": 135,
- "people": 421,
- "medical": 65,
+ "verified_as_of": "Oct 17, 2026 · 2:12 PM CT",
+ "requestsLast24h": 26,
+ "intakes": 137,
+ "people": 425,
+ "medical": 66,
  "veterans": 20,
  "firstResponders": 17,
  "resources": 459,
  "siteReady": 39,
- "canTow": 41,
- "own": 84,
- "insured": 43,
+ "canTow": 42,
+ "own": 85,
+ "insured": 44,
  "veteranFr": 31,
  "hours": [
   {
@@ -76,7 +76,7 @@
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 0
+   "count": 2
   },
   {
    "hour": "15",
@@ -145,7 +145,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 84,
+   "count": 85,
    "towns": [
     {
      "town": "Milton",
@@ -157,7 +157,7 @@
     },
     {
      "town": "Jay",
-     "count": 7
+     "count": 8
     },
     {
      "town": "Navarre",
@@ -211,11 +211,15 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 6,
+   "count": 7,
    "towns": [
     {
      "town": "Florida",
      "count": 2
+    },
+    {
+     "town": "Freeport",
+     "count": 1
     },
     {
      "town": "Westville",
@@ -237,18 +241,19 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 84,
-  "unassigned": 6,
+  "Santa Rosa County": 85,
+  "unassigned": 7,
   "Escambia County": 36,
   "Walton County": 5,
   "Okaloosa County": 4
  },
  "towns": {
+  "Jay": 8,
+  "Freeport": 1,
   "Pace": 11,
   "Milton": 60,
   "Westville": 1,
   "Pensacola": 32,
-  "Jay": 7,
   "Gulf Breeze": 2,
   "Navarre": 3,
   "DeFuniak Springs": 3,
@@ -271,7 +276,7 @@
   },
   {
    "label": "2",
-   "count": 37
+   "count": 39
   },
   {
    "label": "3",
@@ -297,7 +302,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 60,
+   "households": 62,
    "rigs": 59
   },
   {
@@ -325,8 +330,8 @@
  },
  "signals": [
   "868 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "135 families asking for help — 421 people",
-  "65 households with medical conditions"
+  "137 families asking for help — 425 people",
+  "66 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -334,6 +339,32 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.91894,
+   "lon": -87.16061,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 17",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.4807,
+   "lon": -86.12751,
+   "town": "Freeport",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.60419,
    "lon": -87.16721,
