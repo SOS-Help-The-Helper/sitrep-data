@@ -1,16 +1,16 @@
 {
- "verified_as_of": "Oct 17, 2026 · 1:37 PM CT",
- "requestsLast24h": 24,
- "intakes": 134,
- "people": 417,
+ "verified_as_of": "Oct 17, 2026 · 1:52 PM CT",
+ "requestsLast24h": 25,
+ "intakes": 135,
+ "people": 421,
  "medical": 65,
  "veterans": 20,
  "firstResponders": 17,
  "resources": 459,
  "siteReady": 39,
  "canTow": 41,
- "own": 83,
- "insured": 42,
+ "own": 84,
+ "insured": 43,
  "veteranFr": 31,
  "hours": [
   {
@@ -71,7 +71,7 @@
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 14
+   "count": 15
   },
   {
    "hour": "14",
@@ -145,7 +145,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 83,
+   "count": 84,
    "towns": [
     {
      "town": "Milton",
@@ -153,7 +153,7 @@
     },
     {
      "town": "Pace",
-     "count": 10
+     "count": 11
     },
     {
      "town": "Jay",
@@ -237,13 +237,14 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 83,
+  "Santa Rosa County": 84,
   "unassigned": 6,
   "Escambia County": 36,
   "Walton County": 5,
   "Okaloosa County": 4
  },
  "towns": {
+  "Pace": 11,
   "Milton": 60,
   "Westville": 1,
   "Pensacola": 32,
@@ -253,7 +254,6 @@
   "DeFuniak Springs": 3,
   "Cantonment": 3,
   "unresolved": 3,
-  "Pace": 10,
   "Fort Walton Beach": 1,
   "Flomaton": 1,
   "Baker": 1,
@@ -279,7 +279,7 @@
   },
   {
    "label": "4",
-   "count": 21
+   "count": 22
   },
   {
    "label": "5",
@@ -302,7 +302,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 71,
+   "households": 72,
    "rigs": 400
   },
   {
@@ -325,7 +325,7 @@
  },
  "signals": [
   "867 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "134 families asking for help — 417 people",
+  "135 families asking for help — 421 people",
   "65 households with medical conditions"
  ],
  "action": [
@@ -334,6 +334,19 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.60419,
+   "lon": -87.16721,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 17",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.93937,
    "lon": -87.12228,
