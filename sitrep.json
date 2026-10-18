@@ -1,15 +1,15 @@
 {
- "verified_as_of": "Oct 18, 2026 · 3:46 PM CT",
+ "verified_as_of": "Oct 18, 2026 · 4:00 PM CT",
  "requestsLast24h": 15,
- "intakes": 252,
- "people": 711,
- "medical": 142,
+ "intakes": 254,
+ "people": 716,
+ "medical": 143,
  "veterans": 32,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
- "canTow": 76,
- "own": 147,
+ "canTow": 77,
+ "own": 148,
  "insured": 68,
  "veteranFr": 49,
  "hours": [
@@ -91,7 +91,7 @@
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 34
+   "count": 36
   },
   {
    "hour": "16",
@@ -137,11 +137,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 65,
+   "count": 66,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 59
+     "count": 60
     },
     {
      "town": "Cantonment",
@@ -155,7 +155,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 133,
+   "count": 134,
    "towns": [
     {
      "town": "Milton",
@@ -291,18 +291,18 @@
   }
  ],
  "countyCounts": {
+  "Escambia County": 66,
+  "Santa Rosa County": 134,
   "unassigned": 36,
-  "Santa Rosa County": 133,
-  "Escambia County": 65,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
-  "unresolved": 31,
+  "Pensacola": 60,
+  "unresolved": 32,
   "Lane. Gulf Breeze": 1,
   "Sunray St Milton": 1,
   "Jay": 11,
-  "Pensacola": 59,
   "Pace": 15,
   "Milton": 94,
   "Fort Walton Beach": 4,
@@ -330,7 +330,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 63
+   "count": 64
   },
   {
    "label": "2",
@@ -342,7 +342,7 @@
   },
   {
    "label": "4",
-   "count": 35
+   "count": 36
   },
   {
    "label": "5",
@@ -360,12 +360,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 131,
+   "households": 132,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 116,
+   "households": 117,
    "rigs": 400
   },
   {
@@ -388,8 +388,8 @@
  },
  "signals": [
   "879 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "252 families asking for help — 711 people",
-  "142 households with medical conditions"
+  "254 families asking for help — 716 people",
+  "143 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -397,6 +397,31 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.52584,
+   "lon": -87.32303,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.68255,
+   "lon": -86.83798,
+   "town": "Florida",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.54272,
    "lon": -87.26064,
