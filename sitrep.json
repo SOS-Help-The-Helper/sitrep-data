@@ -1,16 +1,16 @@
 {
- "verified_as_of": "Oct 18, 2026 · 4:00 PM CT",
- "requestsLast24h": 15,
- "intakes": 254,
- "people": 716,
- "medical": 143,
+ "verified_as_of": "Oct 18, 2026 · 4:22 PM CT",
+ "requestsLast24h": 16,
+ "intakes": 255,
+ "people": 720,
+ "medical": 144,
  "veterans": 32,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
- "canTow": 77,
- "own": 148,
- "insured": 68,
+ "canTow": 78,
+ "own": 149,
+ "insured": 69,
  "veteranFr": 49,
  "hours": [
   {
@@ -96,7 +96,7 @@
   {
    "hour": "16",
    "label": "4 PM",
-   "count": 10
+   "count": 11
   },
   {
    "hour": "17",
@@ -155,7 +155,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 134,
+   "count": 135,
    "towns": [
     {
      "town": "Milton",
@@ -175,7 +175,7 @@
     },
     {
      "town": "Florida",
-     "count": 3
+     "count": 4
     },
     {
      "town": "Gulf Breeze",
@@ -249,7 +249,7 @@
    "towns": [
     {
      "town": "Florida",
-     "count": 27
+     "count": 28
     },
     {
      "town": "Ponce De Leon",
@@ -291,15 +291,15 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 135,
   "Escambia County": 66,
-  "Santa Rosa County": 134,
   "unassigned": 36,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
+  "unresolved": 33,
   "Pensacola": 60,
-  "unresolved": 32,
   "Lane. Gulf Breeze": 1,
   "Sunray St Milton": 1,
   "Jay": 11,
@@ -342,7 +342,7 @@
   },
   {
    "label": "4",
-   "count": 36
+   "count": 37
   },
   {
    "label": "5",
@@ -365,7 +365,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 117,
+   "households": 118,
    "rigs": 400
   },
   {
@@ -380,16 +380,16 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 879,
+ "daDestroyedMajor": 880,
  "daBreakdown": {
   "fdem": 323,
   "escambia_ia": 366,
-  "red_cross": 190
+  "red_cross": 191
  },
  "signals": [
-  "879 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "254 families asking for help — 716 people",
-  "143 households with medical conditions"
+  "880 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "255 families asking for help — 720 people",
+  "144 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -397,6 +397,21 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.83909,
+   "lon": -87.06162,
+   "town": "Florida",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.52584,
    "lon": -87.32303,
