@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 18, 2026 · 6:23 PM CT",
- "requestsLast24h": 17,
- "intakes": 258,
- "people": 727,
+ "verified_as_of": "Oct 18, 2026 · 6:37 PM CT",
+ "requestsLast24h": 18,
+ "intakes": 259,
+ "people": 731,
  "medical": 144,
- "veterans": 32,
+ "veterans": 33,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
  "canTow": 79,
- "own": 152,
- "insured": 70,
- "veteranFr": 49,
+ "own": 153,
+ "insured": 71,
+ "veteranFr": 50,
  "hours": [
   {
    "hour": "00",
@@ -106,7 +106,7 @@
   {
    "hour": "18",
    "label": "6 PM",
-   "count": 4
+   "count": 5
   },
   {
    "hour": "19",
@@ -137,7 +137,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 66,
+   "count": 67,
    "towns": [
     {
      "town": "Pensacola",
@@ -295,13 +295,14 @@
   }
  ],
  "countyCounts": {
+  "Escambia County": 67,
   "Santa Rosa County": 137,
   "unassigned": 37,
-  "Escambia County": 66,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
+  "Excelsior Drive Pensacola": 1,
   "unresolved": 36,
   "Pensacola": 60,
   "Lane. Gulf Breeze": 1,
@@ -346,7 +347,7 @@
   },
   {
    "label": "4",
-   "count": 37
+   "count": 38
   },
   {
    "label": "5",
@@ -369,7 +370,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 119,
+   "households": 120,
    "rigs": 400
   },
   {
@@ -392,7 +393,7 @@
  },
  "signals": [
   "882 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "258 families asking for help — 727 people",
+  "259 families asking for help — 731 people",
   "144 households with medical conditions"
  ],
  "action": [
@@ -401,6 +402,20 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.51071,
+   "lon": -87.19341,
+   "town": "Excelsior Drive Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.38268,
    "lon": -87.12924,
