@@ -1,18 +1,28 @@
 {
- "verified_as_of": "Oct 18, 2026 · 2:39 AM CT",
- "requestsLast24h": 18,
- "intakes": 144,
- "people": 444,
- "medical": 71,
- "veterans": 22,
- "firstResponders": 17,
+ "verified_as_of": "Oct 18, 2026 · 4:01 AM CT",
+ "requestsLast24h": 65,
+ "intakes": 242,
+ "people": 685,
+ "medical": 136,
+ "veterans": 30,
+ "firstResponders": 25,
  "resources": 459,
- "siteReady": 39,
- "canTow": 45,
- "own": 88,
- "insured": 46,
- "veteranFr": 33,
+ "siteReady": 81,
+ "canTow": 72,
+ "own": 140,
+ "insured": 68,
+ "veteranFr": 46,
  "hours": [
+  {
+   "hour": "00",
+   "label": "12 AM",
+   "count": 1
+  },
+  {
+   "hour": "01",
+   "label": "1 AM",
+   "count": 0
+  },
   {
    "hour": "02",
    "label": "2 AM",
@@ -21,7 +31,7 @@
   {
    "hour": "03",
    "label": "3 AM",
-   "count": 0
+   "count": 97
   },
   {
    "hour": "04",
@@ -127,15 +137,15 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 36,
+   "count": 65,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 32
+     "count": 59
     },
     {
      "town": "Cantonment",
-     "count": 3
+     "count": 5
     },
     {
      "town": "Ensley",
@@ -145,27 +155,27 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 89,
+   "count": 128,
    "towns": [
     {
      "town": "Milton",
-     "count": 64
+     "count": 94
     },
     {
      "town": "Pace",
-     "count": 11
+     "count": 15
     },
     {
      "town": "Jay",
-     "count": 8
+     "count": 10
     },
     {
      "town": "Navarre",
-     "count": 3
+     "count": 5
     },
     {
      "town": "Gulf Breeze",
-     "count": 2
+     "count": 3
     },
     {
      "town": "Allentown",
@@ -175,14 +185,26 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 4,
+   "count": 12,
    "towns": [
     {
-     "town": "Crestview",
-     "count": 2
+     "town": "Fort Walton Beach",
+     "count": 4
     },
     {
-     "town": "Fort Walton Beach",
+     "town": "Crestview",
+     "count": 4
+    },
+    {
+     "town": "Shalimar",
+     "count": 1
+    },
+    {
+     "town": "Mary Esther",
+     "count": 1
+    },
+    {
+     "town": "Florida",
      "count": 1
     },
     {
@@ -193,7 +215,7 @@
   },
   {
    "county": "Walton County",
-   "count": 5,
+   "count": 6,
    "towns": [
     {
      "town": "DeFuniak Springs",
@@ -201,7 +223,7 @@
     },
     {
      "town": "Santa Rosa Beach",
-     "count": 1
+     "count": 2
     },
     {
      "town": "Once de Lien",
@@ -211,11 +233,23 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 10,
+   "count": 31,
    "towns": [
     {
      "town": "Florida",
-     "count": 4
+     "count": 22
+    },
+    {
+     "town": "Ponce De Leon",
+     "count": 1
+    },
+    {
+     "town": "Vernon",
+     "count": 1
+    },
+    {
+     "town": "Graceville",
+     "count": 1
     },
     {
      "town": "Chiefland",
@@ -245,79 +279,84 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 89,
-  "unassigned": 10,
-  "Escambia County": 36,
-  "Walton County": 5,
-  "Okaloosa County": 4
+  "unassigned": 31,
+  "Escambia County": 65,
+  "Santa Rosa County": 128,
+  "Okaloosa County": 12,
+  "Walton County": 6
  },
  "towns": {
-  "Milton": 64,
+  "unresolved": 24,
+  "Pensacola": 59,
+  "Pace": 15,
+  "Milton": 94,
+  "Jay": 10,
+  "Fort Walton Beach": 4,
+  "Crestview": 4,
+  "Santa Rosa Beach": 2,
+  "Navarre": 5,
+  "Shalimar": 1,
+  "Ponce De Leon": 1,
+  "Cantonment": 5,
+  "Gulf Breeze": 3,
+  "Mary Esther": 1,
+  "Vernon": 1,
+  "Graceville": 1,
   "Chiefland": 1,
-  "unresolved": 5,
-  "Jay": 8,
   "Freeport": 1,
-  "Pace": 11,
   "Westville": 1,
-  "Pensacola": 32,
-  "Gulf Breeze": 2,
-  "Navarre": 3,
   "DeFuniak Springs": 3,
-  "Cantonment": 3,
-  "Fort Walton Beach": 1,
   "Flomaton": 1,
   "Baker": 1,
   "Ensley": 1,
   "Allentown": 1,
   "Brewton": 1,
-  "Castleberry": 1,
-  "Santa Rosa Beach": 1,
-  "Crestview": 2
+  "Castleberry": 1
  },
  "sizes": [
   {
    "label": "1",
-   "count": 25
+   "count": 61
   },
   {
    "label": "2",
-   "count": 41
+   "count": 63
   },
   {
    "label": "3",
-   "count": 24
+   "count": 42
   },
   {
    "label": "4",
-   "count": 23
+   "count": 35
   },
   {
    "label": "5",
-   "count": 16
+   "count": 19
   },
   {
    "label": "6",
-   "count": 12
+   "count": 17
   },
   {
    "label": "7",
-   "count": 3
+   "count": 5
   }
  ],
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 66,
+   "households": 124,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 75,
+   "households": 113,
    "rigs": 400
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
-   "households": 3,
+   "households": 5,
    "rigs": 0
   }
  ],
@@ -335,15 +374,1193 @@
  },
  "signals": [
   "872 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "144 families asking for help — 444 people",
-  "71 households with medical conditions"
+  "242 families asking for help — 685 people",
+  "136 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
-  "39 families site-ready for immediate placement",
+  "81 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.43524,
+   "lon": -87.26452,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.43297,
+   "lon": -87.23642,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59443,
+   "lon": -87.09798,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45212,
+   "lon": -87.24279,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59572,
+   "lon": -87.05773,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62972,
+   "lon": -86.95715,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43442,
+   "lon": -87.22816,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.94977,
+   "lon": -87.04407,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.64689,
+   "lon": -87.12305,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.47169,
+   "lon": -87.22436,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.70251,
+   "lon": -86.97853,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.47169,
+   "lon": -87.22436,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42215,
+   "lon": -87.30159,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59016,
+   "lon": -87.09542,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.5934,
+   "lon": -87.09594,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62258,
+   "lon": -87.02291,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.40576,
+   "lon": -86.61884,
+   "town": "Fort Walton Beach",
+   "county": "Okaloosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.77454,
+   "lon": -87.09283,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 7,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.53487,
+   "lon": -87.25523,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.50581,
+   "lon": -87.25946,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60224,
+   "lon": -87.10107,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63717,
+   "lon": -86.99957,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.64507,
+   "lon": -87.07269,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.34664,
+   "lon": -86.2308,
+   "town": "Santa Rosa Beach",
+   "county": "Walton",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.42794,
+   "lon": -87.29398,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.40083,
+   "lon": -87.25175,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41455,
+   "lon": -87.29574,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.46742,
+   "lon": -87.32568,
+   "town": "Florida",
+   "county": "",
+   "n": 6,
+   "recv": "Oct 18",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.40454,
+   "lon": -86.92719,
+   "town": "Navarre",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.74262,
+   "lon": -87.04285,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41992,
+   "lon": -87.30593,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 6,
+   "recv": "Oct 18",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58614,
+   "lon": -86.99293,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44561,
+   "lon": -86.55134,
+   "town": "Shalimar",
+   "county": "Okaloosa",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.52008,
+   "lon": -87.28825,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.51092,
+   "lon": -87.23513,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.77038,
+   "lon": -87.05477,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.66076,
+   "lon": -87.05236,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44143,
+   "lon": -87.21434,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.54155,
+   "lon": -87.2623,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42131,
+   "lon": -87.21691,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.51964,
+   "lon": -87.31543,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42131,
+   "lon": -87.21691,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 6,
+   "recv": "Oct 18",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.58905,
+   "lon": -87.06225,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59159,
+   "lon": -87.11576,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41455,
+   "lon": -87.29574,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.81783,
+   "lon": -86.49918,
+   "town": "Crestview",
+   "county": "Okaloosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59138,
+   "lon": -85.99086,
+   "town": "Ponce De Leon",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45167,
+   "lon": -87.2099,
+   "town": "Florida",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60543,
+   "lon": -87.34444,
+   "town": "Cantonment",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.31414,
+   "lon": -85.76066,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43345,
+   "lon": -87.26339,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.54602,
+   "lon": -87.32608,
+   "town": "Cantonment",
+   "county": "Escambia",
+   "n": 5,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43242,
+   "lon": -86.87032,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62979,
+   "lon": -87.05015,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.70391,
+   "lon": -86.99026,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41726,
+   "lon": -87.25896,
+   "town": "Florida",
+   "county": "",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Veteran / First responder",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.79194,
+   "lon": -87.01553,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.6067,
+   "lon": -87.15243,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62879,
+   "lon": -87.08859,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42362,
+   "lon": -87.21832,
+   "town": "Florida",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59211,
+   "lon": -87.03303,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.64734,
+   "lon": -86.95486,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.61746,
+   "lon": -87.0448,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59735,
+   "lon": -86.99007,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42745,
+   "lon": -86.88088,
+   "town": "Navarre",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.39413,
+   "lon": -87.04895,
+   "town": "Gulf Breeze",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41193,
+   "lon": -86.71607,
+   "town": "Mary Esther",
+   "county": "Okaloosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62355,
+   "lon": -85.71843,
+   "town": "Vernon",
+   "county": "",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.4901,
+   "lon": -87.25643,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62029,
+   "lon": -86.89477,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.61473,
+   "lon": -87.16652,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63241,
+   "lon": -87.03969,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.49343,
+   "lon": -87.21063,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.6766,
+   "lon": -86.60377,
+   "town": "Florida",
+   "county": "Okaloosa",
+   "n": 7,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.96356,
+   "lon": -85.54554,
+   "town": "Graceville",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.48923,
+   "lon": -87.21021,
+   "town": "Florida",
+   "county": "",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.65024,
+   "lon": -87.05045,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.68876,
+   "lon": -87.05101,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43231,
+   "lon": -87.29726,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.4176,
+   "lon": -87.26549,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.55775,
+   "lon": -87.11645,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42741,
+   "lon": -86.63841,
+   "town": "Fort Walton Beach",
+   "county": "Okaloosa",
+   "n": 5,
+   "recv": "Oct 18",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.4755,
+   "lon": -87.26165,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42743,
+   "lon": -86.63838,
+   "town": "Fort Walton Beach",
+   "county": "Okaloosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62605,
+   "lon": -86.89816,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.98011,
+   "lon": -87.03553,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63503,
+   "lon": -87.13036,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.48282,
+   "lon": -87.29405,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42586,
+   "lon": -87.24903,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
   {
    "lat": 30.59145,
    "lon": -87.06064,
