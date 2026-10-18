@@ -1,15 +1,15 @@
 {
- "verified_as_of": "Oct 18, 2026 · 4:57 PM CT",
+ "verified_as_of": "Oct 18, 2026 · 5:11 PM CT",
  "requestsLast24h": 16,
- "intakes": 256,
- "people": 723,
+ "intakes": 257,
+ "people": 725,
  "medical": 144,
  "veterans": 32,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
  "canTow": 79,
- "own": 150,
+ "own": 151,
  "insured": 70,
  "veteranFr": 49,
  "hours": [
@@ -101,7 +101,7 @@
   {
    "hour": "17",
    "label": "5 PM",
-   "count": 29
+   "count": 30
   },
   {
    "hour": "18",
@@ -155,7 +155,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 135,
+   "count": 136,
    "towns": [
     {
      "town": "Milton",
@@ -170,12 +170,12 @@
      "count": 11
     },
     {
-     "town": "Navarre",
+     "town": "Florida",
      "count": 5
     },
     {
-     "town": "Florida",
-     "count": 4
+     "town": "Navarre",
+     "count": 5
     },
     {
      "town": "Gulf Breeze",
@@ -291,14 +291,14 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 136,
   "unassigned": 37,
-  "Santa Rosa County": 135,
   "Escambia County": 66,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
-  "unresolved": 34,
+  "unresolved": 35,
   "Pensacola": 60,
   "Lane. Gulf Breeze": 1,
   "Sunray St Milton": 1,
@@ -334,7 +334,7 @@
   },
   {
    "label": "2",
-   "count": 68
+   "count": 69
   },
   {
    "label": "3",
@@ -360,7 +360,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 132,
+   "households": 133,
    "rigs": 59
   },
   {
@@ -380,15 +380,15 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 880,
+ "daDestroyedMajor": 881,
  "daBreakdown": {
   "fdem": 323,
   "escambia_ia": 366,
-  "red_cross": 191
+  "red_cross": 192
  },
  "signals": [
-  "880 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "256 families asking for help — 723 people",
+  "881 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "257 families asking for help — 725 people",
   "144 households with medical conditions"
  ],
  "action": [
@@ -397,6 +397,18 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.40267,
+   "lon": -86.99974,
+   "town": "Florida",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.6133,
    "lon": -87.16512,
