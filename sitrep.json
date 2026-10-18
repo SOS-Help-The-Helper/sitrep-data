@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 18, 2026 · 7:43 AM CT",
+ "verified_as_of": "Oct 18, 2026 · 7:55 AM CT",
  "requestsLast24h": 39,
- "intakes": 242,
- "people": 685,
- "medical": 136,
+ "intakes": 243,
+ "people": 691,
+ "medical": 137,
  "veterans": 30,
- "firstResponders": 25,
+ "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
- "canTow": 72,
- "own": 140,
+ "canTow": 73,
+ "own": 141,
  "insured": 68,
- "veteranFr": 46,
+ "veteranFr": 47,
  "hours": [
   {
    "hour": "00",
@@ -51,7 +51,7 @@
   {
    "hour": "07",
    "label": "7 AM",
-   "count": 2
+   "count": 3
   },
   {
    "hour": "08",
@@ -155,7 +155,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 128,
+   "count": 129,
    "towns": [
     {
      "town": "Milton",
@@ -167,7 +167,7 @@
     },
     {
      "town": "Jay",
-     "count": 10
+     "count": 11
     },
     {
      "town": "Navarre",
@@ -279,18 +279,18 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 129,
   "unassigned": 31,
   "Escambia County": 65,
-  "Santa Rosa County": 128,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
+  "Jay": 11,
   "unresolved": 24,
   "Pensacola": 59,
   "Pace": 15,
   "Milton": 94,
-  "Jay": 10,
   "Fort Walton Beach": 4,
   "Crestview": 4,
   "Santa Rosa Beach": 2,
@@ -336,7 +336,7 @@
   },
   {
    "label": "6",
-   "count": 17
+   "count": 18
   },
   {
    "label": "7",
@@ -351,7 +351,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 113,
+   "households": 114,
    "rigs": 400
   },
   {
@@ -374,8 +374,8 @@
  },
  "signals": [
   "872 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "242 families asking for help — 685 people",
-  "136 households with medical conditions"
+  "243 families asking for help — 691 people",
+  "137 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -383,6 +383,21 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.888,
+   "lon": -86.97101,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.43524,
    "lon": -87.26452,
