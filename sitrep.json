@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 18, 2026 · 8:52 AM CT",
- "requestsLast24h": 32,
- "intakes": 243,
- "people": 691,
- "medical": 137,
- "veterans": 30,
+ "verified_as_of": "Oct 18, 2026 · 1:50 PM CT",
+ "requestsLast24h": 21,
+ "intakes": 250,
+ "people": 707,
+ "medical": 141,
+ "veterans": 32,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
- "canTow": 73,
- "own": 141,
+ "canTow": 74,
+ "own": 145,
  "insured": 68,
- "veteranFr": 47,
+ "veteranFr": 49,
  "hours": [
   {
    "hour": "00",
@@ -61,7 +61,7 @@
   {
    "hour": "09",
    "label": "9 AM",
-   "count": 4
+   "count": 5
   },
   {
    "hour": "10",
@@ -71,17 +71,17 @@
   {
    "hour": "11",
    "label": "11 AM",
-   "count": 5
+   "count": 6
   },
   {
    "hour": "12",
    "label": "12 PM",
-   "count": 4
+   "count": 7
   },
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 15
+   "count": 17
   },
   {
    "hour": "14",
@@ -155,7 +155,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 129,
+   "count": 133,
    "towns": [
     {
      "town": "Milton",
@@ -179,6 +179,14 @@
     },
     {
      "town": "Florida",
+     "count": 2
+    },
+    {
+     "town": "Lane. Gulf Breeze",
+     "count": 1
+    },
+    {
+     "town": "Sunray St Milton",
      "count": 1
     },
     {
@@ -237,11 +245,11 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 31,
+   "count": 34,
    "towns": [
     {
      "town": "Florida",
-     "count": 22
+     "count": 25
     },
     {
      "town": "Ponce De Leon",
@@ -283,15 +291,17 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 129,
-  "unassigned": 31,
+  "unassigned": 34,
+  "Santa Rosa County": 133,
   "Escambia County": 65,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
+  "unresolved": 29,
+  "Lane. Gulf Breeze": 1,
+  "Sunray St Milton": 1,
   "Jay": 11,
-  "unresolved": 24,
   "Pensacola": 59,
   "Pace": 15,
   "Milton": 94,
@@ -320,15 +330,15 @@
  "sizes": [
   {
    "label": "1",
-   "count": 61
-  },
-  {
-   "label": "2",
    "count": 63
   },
   {
+   "label": "2",
+   "count": 66
+  },
+  {
    "label": "3",
-   "count": 42
+   "count": 43
   },
   {
    "label": "4",
@@ -336,7 +346,7 @@
   },
   {
    "label": "5",
-   "count": 19
+   "count": 20
   },
   {
    "label": "6",
@@ -350,12 +360,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 124,
+   "households": 129,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 114,
+   "households": 116,
    "rigs": 400
   },
   {
@@ -370,16 +380,16 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 872,
+ "daDestroyedMajor": 879,
  "daBreakdown": {
-  "fdem": 348,
+  "fdem": 323,
   "escambia_ia": 366,
-  "red_cross": 158
+  "red_cross": 190
  },
  "signals": [
-  "872 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "243 families asking for help — 691 people",
-  "137 households with medical conditions"
+  "879 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "250 families asking for help — 707 people",
+  "141 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -387,6 +397,68 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.50314,
+   "lon": -87.19151,
+   "town": "Florida",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44815,
+   "lon": -87.21161,
+   "town": "Florida",
+   "county": "",
+   "n": 5,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.5982,
+   "lon": -87.10847,
+   "town": "Florida",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.39824,
+   "lon": -86.99871,
+   "town": "Lane. Gulf Breeze",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.64451,
+   "lon": -87.03894,
+   "town": "Sunray St Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.78349,
    "lon": -87.00158,
