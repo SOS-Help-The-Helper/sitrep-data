@@ -178,6 +178,10 @@
      "count": 3
     },
     {
+     "town": "Florida",
+     "count": 1
+    },
+    {
      "town": "Allentown",
      "count": 1
     }
@@ -383,6 +387,20 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.78349,
+   "lon": -87.00158,
+   "town": "Florida",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.888,
    "lon": -86.97101,
