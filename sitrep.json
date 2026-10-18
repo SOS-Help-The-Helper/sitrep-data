@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 18, 2026 · 5:54 PM CT",
+ "verified_as_of": "Oct 18, 2026 · 6:23 PM CT",
  "requestsLast24h": 17,
  "intakes": 258,
  "people": 727,
@@ -146,6 +146,10 @@
     {
      "town": "Cantonment",
      "count": 5
+    },
+    {
+     "town": "Excelsior Drive Pensacola",
+     "count": 1
     },
     {
      "town": "Ensley",
@@ -380,14 +384,14 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 881,
+ "daDestroyedMajor": 882,
  "daBreakdown": {
   "fdem": 323,
   "escambia_ia": 366,
-  "red_cross": 192
+  "red_cross": 193
  },
  "signals": [
-  "881 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "882 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
   "258 families asking for help — 727 people",
   "144 households with medical conditions"
  ],
