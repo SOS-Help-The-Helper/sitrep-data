@@ -1,15 +1,15 @@
 {
- "verified_as_of": "Oct 18, 2026 · 3:31 PM CT",
- "requestsLast24h": 13,
- "intakes": 250,
- "people": 707,
- "medical": 141,
+ "verified_as_of": "Oct 18, 2026 · 3:46 PM CT",
+ "requestsLast24h": 15,
+ "intakes": 252,
+ "people": 711,
+ "medical": 142,
  "veterans": 32,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
- "canTow": 74,
- "own": 145,
+ "canTow": 76,
+ "own": 147,
  "insured": 68,
  "veteranFr": 49,
  "hours": [
@@ -91,7 +91,7 @@
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 32
+   "count": 34
   },
   {
    "hour": "16",
@@ -174,12 +174,12 @@
      "count": 5
     },
     {
-     "town": "Gulf Breeze",
+     "town": "Florida",
      "count": 3
     },
     {
-     "town": "Florida",
-     "count": 2
+     "town": "Gulf Breeze",
+     "count": 3
     },
     {
      "town": "Lane. Gulf Breeze",
@@ -245,11 +245,11 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 34,
+   "count": 36,
    "towns": [
     {
      "town": "Florida",
-     "count": 25
+     "count": 27
     },
     {
      "town": "Ponce De Leon",
@@ -291,14 +291,14 @@
   }
  ],
  "countyCounts": {
-  "unassigned": 34,
+  "unassigned": 36,
   "Santa Rosa County": 133,
   "Escambia County": 65,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
-  "unresolved": 29,
+  "unresolved": 31,
   "Lane. Gulf Breeze": 1,
   "Sunray St Milton": 1,
   "Jay": 11,
@@ -334,7 +334,7 @@
   },
   {
    "label": "2",
-   "count": 66
+   "count": 68
   },
   {
    "label": "3",
@@ -360,7 +360,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 129,
+   "households": 131,
    "rigs": 59
   },
   {
@@ -388,8 +388,8 @@
  },
  "signals": [
   "879 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "250 families asking for help — 707 people",
-  "141 households with medical conditions"
+  "252 families asking for help — 711 people",
+  "142 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -397,6 +397,33 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.54272,
+   "lon": -87.26064,
+   "town": "Florida",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.66618,
+   "lon": -86.13129,
+   "town": "Florida",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.50314,
    "lon": -87.19151,
