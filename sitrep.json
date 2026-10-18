@@ -1,14 +1,14 @@
 {
- "verified_as_of": "Oct 17, 2026 · 9:21 PM CT",
- "requestsLast24h": 26,
- "intakes": 142,
- "people": 439,
+ "verified_as_of": "Oct 17, 2026 · 9:31 PM CT",
+ "requestsLast24h": 27,
+ "intakes": 143,
+ "people": 443,
  "medical": 70,
  "veterans": 21,
  "firstResponders": 17,
  "resources": 459,
  "siteReady": 39,
- "canTow": 44,
+ "canTow": 45,
  "own": 87,
  "insured": 46,
  "veteranFr": 32,
@@ -111,7 +111,7 @@
   {
    "hour": "21",
    "label": "9 PM",
-   "count": 2
+   "count": 3
   },
   {
    "hour": "22",
@@ -211,7 +211,7 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 9,
+   "count": 10,
    "towns": [
     {
      "town": "Florida",
@@ -245,13 +245,14 @@
   }
  ],
  "countyCounts": {
-  "unassigned": 9,
+  "unassigned": 10,
   "Santa Rosa County": 88,
   "Escambia County": 36,
   "Walton County": 5,
   "Okaloosa County": 4
  },
  "towns": {
+  "Chiefland": 1,
   "unresolved": 5,
   "Milton": 63,
   "Jay": 8,
@@ -288,7 +289,7 @@
   },
   {
    "label": "4",
-   "count": 22
+   "count": 23
   },
   {
    "label": "5",
@@ -311,7 +312,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 74,
+   "households": 75,
    "rigs": 400
   },
   {
@@ -334,7 +335,7 @@
  },
  "signals": [
   "872 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "142 families asking for help — 439 people",
+  "143 families asking for help — 443 people",
   "70 households with medical conditions"
  ],
  "action": [
