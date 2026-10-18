@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 17, 2026 · 9:31 PM CT",
- "requestsLast24h": 27,
- "intakes": 143,
- "people": 443,
- "medical": 70,
- "veterans": 21,
+ "verified_as_of": "Oct 17, 2026 · 11:01 PM CT",
+ "requestsLast24h": 28,
+ "intakes": 144,
+ "people": 444,
+ "medical": 71,
+ "veterans": 22,
  "firstResponders": 17,
  "resources": 459,
  "siteReady": 39,
  "canTow": 45,
- "own": 87,
+ "own": 88,
  "insured": 46,
- "veteranFr": 32,
+ "veteranFr": 33,
  "hours": [
   {
    "hour": "02",
@@ -116,7 +116,7 @@
   {
    "hour": "22",
    "label": "10 PM",
-   "count": 3
+   "count": 4
   },
   {
    "hour": "23",
@@ -145,11 +145,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 88,
+   "count": 89,
    "towns": [
     {
      "town": "Milton",
-     "count": 63
+     "count": 64
     },
     {
      "town": "Pace",
@@ -245,16 +245,16 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 89,
   "unassigned": 10,
-  "Santa Rosa County": 88,
   "Escambia County": 36,
   "Walton County": 5,
   "Okaloosa County": 4
  },
  "towns": {
+  "Milton": 64,
   "Chiefland": 1,
   "unresolved": 5,
-  "Milton": 63,
   "Jay": 8,
   "Freeport": 1,
   "Pace": 11,
@@ -277,7 +277,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 24
+   "count": 25
   },
   {
    "label": "2",
@@ -307,7 +307,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 65,
+   "households": 66,
    "rigs": 59
   },
   {
@@ -335,8 +335,8 @@
  },
  "signals": [
   "872 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "143 families asking for help — 443 people",
-  "70 households with medical conditions"
+  "144 families asking for help — 444 people",
+  "71 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -344,6 +344,20 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.59145,
+   "lon": -87.06064,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 17",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.50052,
    "lon": -87.25463,
