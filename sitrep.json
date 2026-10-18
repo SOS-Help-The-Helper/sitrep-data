@@ -655,7 +655,7 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.50581,
@@ -668,7 +668,7 @@
     "Medical",
     "Owns home"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.60224,
@@ -821,7 +821,7 @@
    "flags": [
     "Medical"
    ],
-   "da": null
+   "da": "Major damage"
   },
   {
    "lat": 30.44561,
@@ -965,7 +965,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": "Affected"
   },
   {
    "lat": 30.59159,
@@ -1069,7 +1069,7 @@
    "flags": [
     "Medical"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.54602,
@@ -1167,7 +1167,7 @@
    "flags": [
     "Medical"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.62879,
@@ -1182,7 +1182,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": "Major damage"
   },
   {
    "lat": 30.42362,
@@ -1380,7 +1380,7 @@
     "Medical",
     "Owns home"
    ],
-   "da": null
+   "da": "Major damage"
   },
   {
    "lat": 30.6766,
@@ -1475,7 +1475,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": "Major damage"
   },
   {
    "lat": 30.55775,
@@ -1489,7 +1489,7 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": "Major damage"
   },
   {
    "lat": 30.42741,
@@ -1512,7 +1512,7 @@
     "Medical",
     "Site ready"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.42743,
@@ -1621,7 +1621,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.68778,
@@ -1634,7 +1634,7 @@
     "Medical",
     "Owns home"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.62678,
@@ -1722,7 +1722,7 @@
    "flags": [
     "Medical"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.83318,
@@ -1830,7 +1830,7 @@
     "Medical",
     "Veteran / First responder"
    ],
-   "da": null
+   "da": "Major damage"
   },
   {
    "lat": 30.43345,
@@ -1843,7 +1843,7 @@
     "Medical",
     "Owns home"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.49913,
@@ -1857,7 +1857,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.39866,
@@ -1882,7 +1882,7 @@
    "flags": [
     "Medical"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.41478,
@@ -1894,7 +1894,7 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.71567,
