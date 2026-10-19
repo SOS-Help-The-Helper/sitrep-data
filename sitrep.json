@@ -1,16 +1,16 @@
 {
- "verified_as_of": "Oct 19, 2026 · 6:18 AM CT",
+ "verified_as_of": "Oct 19, 2026 · 6:52 AM CT",
  "requestsLast24h": 12,
- "intakes": 261,
- "people": 737,
+ "intakes": 262,
+ "people": 738,
  "medical": 145,
  "veterans": 33,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
- "canTow": 79,
- "own": 154,
- "insured": 71,
+ "canTow": 80,
+ "own": 155,
+ "insured": 72,
  "veteranFr": 50,
  "hours": [
   {
@@ -46,7 +46,7 @@
   {
    "hour": "06",
    "label": "6 AM",
-   "count": 1
+   "count": 2
   },
   {
    "hour": "07",
@@ -249,11 +249,11 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 38,
+   "count": 39,
    "towns": [
     {
      "town": "Florida",
-     "count": 29
+     "count": 30
     },
     {
      "town": "Ponce De Leon",
@@ -295,14 +295,14 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 39,
   "Santa Rosa County": 138,
-  "unassigned": 38,
   "Escambia County": 67,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
-  "unresolved": 38,
+  "unresolved": 39,
   "Excelsior Drive Pensacola": 1,
   "Pensacola": 60,
   "Lane. Gulf Breeze": 1,
@@ -335,7 +335,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 64
+   "count": 65
   },
   {
    "label": "2",
@@ -365,7 +365,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 135,
+   "households": 136,
    "rigs": 59
   },
   {
@@ -393,7 +393,7 @@
  },
  "signals": [
   "901 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "261 families asking for help — 737 people",
+  "262 families asking for help — 738 people",
   "145 households with medical conditions"
  ],
  "action": [
@@ -404,6 +404,20 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.66603,
+   "lon": -87.04654,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 19",
+   "flags": [
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.6235,
    "lon": -87.08622,
