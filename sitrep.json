@@ -1,16 +1,16 @@
 {
- "verified_as_of": "Oct 19, 2026 · 9:33 AM CT",
- "requestsLast24h": 7,
- "intakes": 263,
- "people": 745,
- "medical": 145,
+ "verified_as_of": "Oct 19, 2026 · 3:14 PM CT",
+ "requestsLast24h": 8,
+ "intakes": 269,
+ "people": 760,
+ "medical": 147,
  "veterans": 34,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
- "canTow": 80,
- "own": 155,
- "insured": 72,
+ "canTow": 82,
+ "own": 159,
+ "insured": 73,
  "veteranFr": 51,
  "hours": [
   {
@@ -76,17 +76,17 @@
   {
    "hour": "12",
    "label": "12 PM",
-   "count": 7
+   "count": 9
   },
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 17
+   "count": 19
   },
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 3
+   "count": 5
   },
   {
    "hour": "15",
@@ -137,7 +137,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 67,
+   "count": 69,
    "towns": [
     {
      "town": "Pensacola",
@@ -146,6 +146,14 @@
     {
      "town": "Cantonment",
      "count": 5
+    },
+    {
+     "town": "Town not yet confirmed",
+     "count": 1
+    },
+    {
+     "town": "Mystic Ln Pensacola",
+     "count": 1
     },
     {
      "town": "Excelsior Drive Pensacola",
@@ -205,7 +213,7 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 12,
+   "count": 13,
    "towns": [
     {
      "town": "Fort Walton Beach",
@@ -214,6 +222,10 @@
     {
      "town": "Crestview",
      "count": 4
+    },
+    {
+     "town": "Town not yet confirmed",
+     "count": 1
     },
     {
      "town": "Shalimar",
@@ -253,11 +265,15 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 39,
+   "count": 42,
    "towns": [
     {
      "town": "Florida",
-     "count": 30
+     "count": 32
+    },
+    {
+     "town": "Town not yet confirmed",
+     "count": 1
     },
     {
      "town": "Ponce De Leon",
@@ -299,15 +315,16 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 42,
+  "Escambia County": 69,
+  "Okaloosa County": 13,
   "Santa Rosa County": 139,
-  "unassigned": 39,
-  "Escambia County": 67,
-  "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
+  "unresolved": 44,
+  "Mystic Ln Pensacola": 1,
   "Alex Dr Milton": 1,
-  "unresolved": 39,
   "Excelsior Drive Pensacola": 1,
   "Pensacola": 60,
   "Lane. Gulf Breeze": 1,
@@ -340,19 +357,19 @@
  "sizes": [
   {
    "label": "1",
-   "count": 65
+   "count": 67
   },
   {
    "label": "2",
-   "count": 71
+   "count": 72
   },
   {
    "label": "3",
-   "count": 44
+   "count": 45
   },
   {
    "label": "4",
-   "count": 39
+   "count": 41
   },
   {
    "label": "5",
@@ -370,12 +387,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 136,
+   "households": 139,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 121,
+   "households": 124,
    "rigs": 400
   },
   {
@@ -390,16 +407,16 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 904,
+ "daDestroyedMajor": 914,
  "daBreakdown": {
   "fdem": 342,
   "escambia_ia": 366,
-  "red_cross": 196
+  "red_cross": 206
  },
  "signals": [
-  "904 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "263 families asking for help — 745 people",
-  "145 households with medical conditions"
+  "914 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "269 families asking for help — 760 people",
+  "147 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -409,6 +426,80 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.42627,
+   "lon": -87.27174,
+   "town": "",
+   "county": "",
+   "n": 4,
+   "recv": "Oct 19",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.51575,
+   "lon": -87.19248,
+   "town": "",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 19",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41506,
+   "lon": -86.59948,
+   "town": "",
+   "county": "Okaloosa",
+   "n": 2,
+   "recv": "Oct 19",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.47822,
+   "lon": -87.29472,
+   "town": "Mystic Ln Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 19",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.40114,
+   "lon": -86.96353,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 19",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45546,
+   "lon": -87.25606,
+   "town": "Florida",
+   "county": "",
+   "n": 4,
+   "recv": "Oct 19",
+   "flags": [],
+   "da": null
+  },
   {
    "lat": 30.64308,
    "lon": -87.07392,
