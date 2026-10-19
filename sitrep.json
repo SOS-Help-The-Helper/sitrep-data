@@ -1,15 +1,15 @@
 {
- "verified_as_of": "Oct 18, 2026 · 7:04 PM CT",
- "requestsLast24h": 18,
- "intakes": 259,
- "people": 731,
- "medical": 144,
+ "verified_as_of": "Oct 18, 2026 · 7:22 PM CT",
+ "requestsLast24h": 19,
+ "intakes": 260,
+ "people": 733,
+ "medical": 145,
  "veterans": 33,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
  "canTow": 79,
- "own": 153,
+ "own": 154,
  "insured": 71,
  "veteranFr": 50,
  "hours": [
@@ -111,7 +111,7 @@
   {
    "hour": "19",
    "label": "7 PM",
-   "count": 4
+   "count": 5
   },
   {
    "hour": "20",
@@ -249,11 +249,11 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 37,
+   "count": 38,
    "towns": [
     {
      "town": "Florida",
-     "count": 28
+     "count": 29
     },
     {
      "town": "Ponce De Leon",
@@ -295,15 +295,15 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 38,
   "Escambia County": 67,
   "Santa Rosa County": 137,
-  "unassigned": 37,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
+  "unresolved": 37,
   "Excelsior Drive Pensacola": 1,
-  "unresolved": 36,
   "Pensacola": 60,
   "Lane. Gulf Breeze": 1,
   "Sunray St Milton": 1,
@@ -339,7 +339,7 @@
   },
   {
    "label": "2",
-   "count": 70
+   "count": 71
   },
   {
    "label": "3",
@@ -365,7 +365,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 134,
+   "households": 135,
    "rigs": 59
   },
   {
@@ -393,8 +393,8 @@
  },
  "signals": [
   "901 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "259 families asking for help — 731 people",
-  "144 households with medical conditions"
+  "260 families asking for help — 733 people",
+  "145 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -402,6 +402,19 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.60003,
+   "lon": -87.1012,
+   "town": "Florida",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.51071,
    "lon": -87.19341,
