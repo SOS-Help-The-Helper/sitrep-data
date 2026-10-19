@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 19, 2026 · 9:01 AM CT",
- "requestsLast24h": 8,
- "intakes": 262,
- "people": 738,
+ "verified_as_of": "Oct 19, 2026 · 9:33 AM CT",
+ "requestsLast24h": 7,
+ "intakes": 263,
+ "people": 745,
  "medical": 145,
- "veterans": 33,
+ "veterans": 34,
  "firstResponders": 26,
  "resources": 459,
  "siteReady": 81,
  "canTow": 80,
  "own": 155,
  "insured": 72,
- "veteranFr": 50,
+ "veteranFr": 51,
  "hours": [
   {
    "hour": "00",
@@ -61,7 +61,7 @@
   {
    "hour": "09",
    "label": "9 AM",
-   "count": 5
+   "count": 6
   },
   {
    "hour": "10",
@@ -159,7 +159,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 138,
+   "count": 139,
    "towns": [
     {
      "town": "Milton",
@@ -184,6 +184,10 @@
     {
      "town": "Gulf Breeze",
      "count": 3
+    },
+    {
+     "town": "Alex Dr Milton",
+     "count": 1
     },
     {
      "town": "Lane. Gulf Breeze",
@@ -295,13 +299,14 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 139,
   "unassigned": 39,
-  "Santa Rosa County": 138,
   "Escambia County": 67,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
+  "Alex Dr Milton": 1,
   "unresolved": 39,
   "Excelsior Drive Pensacola": 1,
   "Pensacola": 60,
@@ -359,7 +364,7 @@
   },
   {
    "label": "7",
-   "count": 5
+   "count": 6
   }
  ],
  "bands": [
@@ -375,7 +380,7 @@
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
-   "households": 5,
+   "households": 6,
    "rigs": 0
   }
  ],
@@ -385,15 +390,15 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 902,
+ "daDestroyedMajor": 904,
  "daBreakdown": {
   "fdem": 342,
   "escambia_ia": 366,
-  "red_cross": 194
+  "red_cross": 196
  },
  "signals": [
-  "902 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "262 families asking for help — 738 people",
+  "904 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "263 families asking for help — 745 people",
   "145 households with medical conditions"
  ],
  "action": [
@@ -404,6 +409,18 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.64308,
+   "lon": -87.07392,
+   "town": "Alex Dr Milton",
+   "county": "Santa Rosa",
+   "n": 7,
+   "recv": "Oct 19",
+   "flags": [
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
   {
    "lat": 30.66603,
    "lon": -87.04654,
