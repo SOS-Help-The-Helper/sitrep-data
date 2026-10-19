@@ -1,8 +1,8 @@
 {
- "verified_as_of": "Oct 18, 2026 · 7:22 PM CT",
- "requestsLast24h": 19,
- "intakes": 260,
- "people": 733,
+ "verified_as_of": "Oct 18, 2026 · 8:29 PM CT",
+ "requestsLast24h": 20,
+ "intakes": 261,
+ "people": 737,
  "medical": 145,
  "veterans": 33,
  "firstResponders": 26,
@@ -116,7 +116,7 @@
   {
    "hour": "20",
    "label": "8 PM",
-   "count": 2
+   "count": 3
   },
   {
    "hour": "21",
@@ -159,7 +159,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 137,
+   "count": 138,
    "towns": [
     {
      "town": "Milton",
@@ -175,7 +175,7 @@
     },
     {
      "town": "Florida",
-     "count": 6
+     "count": 7
     },
     {
      "town": "Navarre",
@@ -295,14 +295,14 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 138,
   "unassigned": 38,
   "Escambia County": 67,
-  "Santa Rosa County": 137,
   "Okaloosa County": 12,
   "Walton County": 6
  },
  "towns": {
-  "unresolved": 37,
+  "unresolved": 38,
   "Excelsior Drive Pensacola": 1,
   "Pensacola": 60,
   "Lane. Gulf Breeze": 1,
@@ -347,7 +347,7 @@
   },
   {
    "label": "4",
-   "count": 38
+   "count": 39
   },
   {
    "label": "5",
@@ -370,7 +370,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 120,
+   "households": 121,
    "rigs": 400
   },
   {
@@ -393,7 +393,7 @@
  },
  "signals": [
   "901 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "260 families asking for help — 733 people",
+  "261 families asking for help — 737 people",
   "145 households with medical conditions"
  ],
  "action": [
@@ -402,6 +402,16 @@
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "pins": [
+  {
+   "lat": 30.6235,
+   "lon": -87.08622,
+   "town": "Florida",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 18",
+   "flags": [],
+   "da": null
+  },
   {
    "lat": 30.60003,
    "lon": -87.1012,
