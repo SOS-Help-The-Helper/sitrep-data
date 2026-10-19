@@ -401,6 +401,8 @@
   "81 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
+ "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
+ "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
   {
    "lat": 30.6235,
