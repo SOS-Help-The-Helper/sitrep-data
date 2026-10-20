@@ -1,6 +1,56 @@
 {
  "verified_as_of": "Oct 20, 2026 · 3:37 PM CT",
  "requestsLast24h": 60,
+ "tiles": {
+  "people": 1232,
+  "requests": 457,
+  "resources": 359,
+  "delivered": 3
+ },
+ "metrics": [
+  {
+   "key": "uninsured",
+   "label": "Uninsured",
+   "count": 336,
+   "denominator": 457,
+   "pct": 73.5
+  },
+  {
+   "key": "medical",
+   "label": "With Medical Need",
+   "count": 242,
+   "denominator": 457,
+   "pct": 53.0
+  },
+  {
+   "key": "veteran",
+   "label": "Veteran",
+   "count": 64,
+   "denominator": 457,
+   "pct": 14.0
+  },
+  {
+   "key": "first_responder",
+   "label": "First Responders",
+   "count": 46,
+   "denominator": 457,
+   "pct": 10.1
+  },
+  {
+   "key": "site_ready",
+   "label": "Site Ready",
+   "count": 146,
+   "denominator": 457,
+   "pct": 31.9
+  }
+ ],
+ "chips": {
+  "uninsured_pct": 73.5,
+  "medical_pct": 53.0,
+  "veteran_pct": 14.0,
+  "first_responder_pct": 10.1,
+  "site_ready_pct": 31.9
+ },
  "intakes": 457,
  "people": 1232,
  "medical": 242,
@@ -141,98 +191,18 @@
    "towns": [
     {
      "town": "Pensacola",
-     "count": 71
-    },
-    {
-     "town": "Town not yet confirmed",
-     "count": 30
+     "count": 143
     },
     {
      "town": "Cantonment",
-     "count": 7
+     "count": 9
     },
     {
-     "town": "Brown Rd Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Lee Ln Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Giese Lane Pensacola",
+     "town": "Ludlow St Pensacola",
      "count": 1
     },
     {
      "town": "Century",
-     "count": 1
-    },
-    {
-     "town": "Ave Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Cody Lane Pensacola",
-     "count": 1
-    },
-    {
-     "town": "St Avenue Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Hart Dr Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Vera Street Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Hernandez St. Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Vernon Street Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Young St. Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Krasnosky Ave Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Hills Rd Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Park Dr Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Jamesville Rd. Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Patton Dr Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Altamont Rd Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Orange Ave. Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Mystic Ln Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Excelsior Drive Pensacola",
      "count": 1
     },
     {
@@ -247,150 +217,34 @@
    "towns": [
     {
      "town": "Milton",
-     "count": 104
-    },
-    {
-     "town": "Town not yet confirmed",
-     "count": 39
+     "count": 155
     },
     {
      "town": "Pace",
-     "count": 15
+     "count": 25
     },
     {
      "town": "Jay",
-     "count": 11
-    },
-    {
-     "town": "Florida",
-     "count": 7
-    },
-    {
-     "town": "Navarre",
-     "count": 5
+     "count": 20
     },
     {
      "town": "Gulf Breeze",
-     "count": 4
+     "count": 11
     },
     {
-     "town": "D Milton",
-     "count": 2
+     "town": "Navarre",
+     "count": 9
     },
     {
-     "town": "Yancy Dr. Pace",
+     "town": "Town not yet confirmed",
      "count": 1
     },
     {
-     "town": "Spring Street Pace",
+     "town": "Bristol",
      "count": 1
     },
     {
-     "town": "Baltic Ct Milton",
-     "count": 1
-    },
-    {
-     "town": "Blakmon Dr Jay",
-     "count": 1
-    },
-    {
-     "town": "Edgefield St. Pace",
-     "count": 1
-    },
-    {
-     "town": "Western Ln Milton",
-     "count": 1
-    },
-    {
-     "town": "Ridge Ave Milton",
-     "count": 1
-    },
-    {
-     "town": "City Rd Milton",
-     "count": 1
-    },
-    {
-     "town": "Logan Ln Jay",
-     "count": 1
-    },
-    {
-     "town": "Fairoaks Dr Pace",
-     "count": 1
-    },
-    {
-     "town": "Chumuckla Hwy Jay",
-     "count": 1
-    },
-    {
-     "town": "Blossom Rd. Milton",
-     "count": 1
-    },
-    {
-     "town": "Birch St. Milton",
-     "count": 1
-    },
-    {
-     "town": "Street Gulf Breeze",
-     "count": 1
-    },
-    {
-     "town": "Land Rd Milton",
-     "count": 1
-    },
-    {
-     "town": "Brown Road Milton",
-     "count": 1
-    },
-    {
-     "town": "Creek Drive Pace",
-     "count": 1
-    },
-    {
-     "town": "Santa Rosa County",
-     "count": 1
-    },
-    {
-     "town": "Sunbeam Street Milton",
-     "count": 1
-    },
-    {
-     "town": "Butternut Dr. Milton",
-     "count": 1
-    },
-    {
-     "town": "Whitfield Rd. Milton",
-     "count": 1
-    },
-    {
-     "town": "Circle Milton",
-     "count": 1
-    },
-    {
-     "town": "Mykell Dr Milton",
-     "count": 1
-    },
-    {
-     "town": "Lake Road. Munson.",
-     "count": 1
-    },
-    {
-     "town": "Butternut Dr Milton",
-     "count": 1
-    },
-    {
-     "town": "Wheel Cir Milton",
-     "count": 1
-    },
-    {
-     "town": "Alex Dr Milton",
-     "count": 1
-    },
-    {
-     "town": "Lane. Gulf Breeze",
-     "count": 1
-    },
-    {
-     "town": "Sunray St Milton",
+     "town": "Munson",
      "count": 1
     },
     {
@@ -404,28 +258,32 @@
    "count": 24,
    "towns": [
     {
-     "town": "Town not yet confirmed",
-     "count": 11
-    },
-    {
      "town": "Fort Walton Beach",
-     "count": 4
+     "count": 8
     },
     {
      "town": "Crestview",
-     "count": 4
+     "count": 6
     },
     {
-     "town": "Road Laurel Hill",
-     "count": 1
+     "town": "Town not yet confirmed",
+     "count": 2
     },
     {
-     "town": "Shalimar",
-     "count": 1
+     "town": "Niceville",
+     "count": 2
     },
     {
      "town": "Mary Esther",
-     "count": 1
+     "count": 2
+    },
+    {
+     "town": "Laurel Hill",
+     "count": 2
+    },
+    {
+     "town": "Shalimar",
+     "count": 2
     },
     {
      "town": "Florida",
@@ -443,23 +301,15 @@
    "towns": [
     {
      "town": "DeFuniak Springs",
-     "count": 3
+     "count": 6
+    },
+    {
+     "town": "Ponce De Leon",
+     "count": 2
     },
     {
      "town": "Santa Rosa Beach",
      "count": 2
-    },
-    {
-     "town": "Leon",
-     "count": 1
-    },
-    {
-     "town": "Rd Defuniak Springs",
-     "count": 1
-    },
-    {
-     "town": "Once de Lien",
-     "count": 1
     }
    ]
   }
@@ -626,6 +476,7 @@
  ],
  "action": [
   "359 rigs standing by",
+  "3 RVs delivered",
   "146 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
@@ -633,9 +484,166 @@
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
   {
+   "lat": 30.43345,
+   "lon": -87.26339,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.37356,
+   "lon": -86.32674,
+   "town": "Miramar Beach",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45649,
+   "lon": -87.26283,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42125,
+   "lon": -87.25267,
+   "town": "",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.96471,
+   "lon": -86.46709,
+   "town": "",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.61316,
+   "lon": -87.04236,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.76213,
+   "lon": -86.57051,
+   "town": "",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.48798,
+   "lon": -87.25026,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.49515,
+   "lon": -87.19924,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": "Major damage"
+  },
+  {
+   "lat": 30.61833,
+   "lon": -87.05602,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.46208,
+   "lon": -87.24942,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63241,
+   "lon": -87.03969,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 20",
+   "flags": [],
+   "da": null
+  },
+  {
    "lat": 30.37921,
    "lon": -87.29154,
-   "town": "Brown Rd Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -663,7 +671,7 @@
   {
    "lat": 30.5083,
    "lon": -87.39096,
-   "town": "Lee Ln Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -678,7 +686,7 @@
   {
    "lat": 30.62925,
    "lon": -87.1195,
-   "town": "Yancy Dr. Pace",
+   "town": "Pace",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -690,7 +698,7 @@
   {
    "lat": 30.52133,
    "lon": -87.2841,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -704,19 +712,19 @@
   {
    "lat": 30.67995,
    "lon": -87.05194,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 5,
    "recv": "Oct 20",
    "flags": [
     "Can tow"
    ],
-   "da": null
+   "da": "Affected"
   },
   {
    "lat": 30.672,
    "lon": -86.97471,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -730,7 +738,7 @@
   {
    "lat": 30.59817,
    "lon": -87.10729,
-   "town": "Spring Street Pace",
+   "town": "Pace",
    "county": "Santa Rosa",
    "n": 5,
    "recv": "Oct 20",
@@ -743,7 +751,7 @@
   {
    "lat": 30.50716,
    "lon": -86.43297,
-   "town": "",
+   "town": "Niceville",
    "county": "Okaloosa",
    "n": 2,
    "recv": "Oct 20",
@@ -772,7 +780,7 @@
   {
    "lat": 30.68152,
    "lon": -87.04588,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -785,7 +793,7 @@
   {
    "lat": 30.42131,
    "lon": -87.21691,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -812,7 +820,7 @@
   {
    "lat": 30.44926,
    "lon": -87.20941,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -826,7 +834,7 @@
   {
    "lat": 30.42131,
    "lon": -87.21691,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -840,7 +848,7 @@
   {
    "lat": 30.58399,
    "lon": -87.06403,
-   "town": "D Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -860,7 +868,7 @@
   {
    "lat": 30.46337,
    "lon": -87.24871,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 4,
    "recv": "Oct 20",
@@ -884,7 +892,7 @@
   {
    "lat": 30.58399,
    "lon": -87.06403,
-   "town": "D Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -894,7 +902,7 @@
   {
    "lat": 30.63847,
    "lon": -87.04711,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -907,7 +915,7 @@
   {
    "lat": 30.65765,
    "lon": -87.05238,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -919,7 +927,7 @@
   {
    "lat": 30.59016,
    "lon": -87.09542,
-   "town": "Baltic Ct Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -933,7 +941,7 @@
   {
    "lat": 30.40038,
    "lon": -87.33734,
-   "town": "Giese Lane Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 4,
    "recv": "Oct 20",
@@ -959,7 +967,7 @@
   {
    "lat": 30.60543,
    "lon": -87.34444,
-   "town": "",
+   "town": "Cantonment",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1074,7 +1082,7 @@
   {
    "lat": 30.75245,
    "lon": -86.56726,
-   "town": "",
+   "town": "Crestview",
    "county": "Okaloosa",
    "n": 1,
    "recv": "Oct 20",
@@ -1086,7 +1094,7 @@
   {
    "lat": 30.41358,
    "lon": -86.76253,
-   "town": "",
+   "town": "Mary Esther",
    "county": "Okaloosa",
    "n": 1,
    "recv": "Oct 20",
@@ -1114,7 +1122,7 @@
   {
    "lat": 30.42131,
    "lon": -87.21691,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1126,7 +1134,7 @@
   {
    "lat": 30.43143,
    "lon": -86.65005,
-   "town": "",
+   "town": "Fort Walton Beach",
    "county": "Okaloosa",
    "n": 4,
    "recv": "Oct 20",
@@ -1139,8 +1147,8 @@
   {
    "lat": 30.18417,
    "lon": -85.78662,
-   "town": "",
-   "county": "",
+   "town": "Panama City Beach",
+   "county": "Bay",
    "n": 4,
    "recv": "Oct 20",
    "flags": [
@@ -1152,7 +1160,7 @@
   {
    "lat": 30.94623,
    "lon": -87.14864,
-   "town": "Blakmon Dr Jay",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1166,7 +1174,7 @@
   {
    "lat": 30.83589,
    "lon": -87.11667,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -1180,7 +1188,7 @@
   {
    "lat": 30.86169,
    "lon": -87.04409,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -1192,7 +1200,7 @@
   {
    "lat": 30.6667,
    "lon": -87.0379,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -1205,8 +1213,8 @@
   {
    "lat": 30.41701,
    "lon": -87.24612,
-   "town": "",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
    "flags": [
@@ -1220,7 +1228,7 @@
   {
    "lat": 30.4926,
    "lon": -87.26159,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1233,7 +1241,7 @@
   {
    "lat": 30.54253,
    "lon": -87.26067,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1259,7 +1267,7 @@
   {
    "lat": 30.45661,
    "lon": -87.29506,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1272,7 +1280,7 @@
   {
    "lat": 30.44003,
    "lon": -87.25407,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1285,7 +1293,7 @@
   {
    "lat": 30.58045,
    "lon": -87.02991,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1297,7 +1305,7 @@
   {
    "lat": 30.42131,
    "lon": -87.21691,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -1324,7 +1332,7 @@
   {
    "lat": 30.41941,
    "lon": -87.29723,
-   "town": "Ave Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -1339,7 +1347,7 @@
   {
    "lat": 30.95896,
    "lon": -86.29757,
-   "town": "",
+   "town": "Laurel Hill",
    "county": "Okaloosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1351,7 +1359,7 @@
   {
    "lat": 30.50697,
    "lon": -87.23809,
-   "town": "Cody Lane Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -1365,7 +1373,7 @@
   {
    "lat": 30.40262,
    "lon": -87.30429,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -1380,7 +1388,7 @@
   {
    "lat": 30.41575,
    "lon": -87.28038,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1393,7 +1401,7 @@
   {
    "lat": 30.41437,
    "lon": -87.2964,
-   "town": "St Avenue Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -1405,7 +1413,7 @@
   {
    "lat": 30.6242,
    "lon": -86.96947,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1419,7 +1427,7 @@
   {
    "lat": 30.4525,
    "lon": -87.2163,
-   "town": "Hart Dr Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -1433,7 +1441,7 @@
   {
    "lat": 30.51455,
    "lon": -87.28021,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1461,7 +1469,7 @@
   {
    "lat": 30.58488,
    "lon": -87.1601,
-   "town": "Edgefield St. Pace",
+   "town": "Pace",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1474,7 +1482,7 @@
   {
    "lat": 30.51497,
    "lon": -87.25142,
-   "town": "Vera Street Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -1489,7 +1497,7 @@
   {
    "lat": 30.93937,
    "lon": -87.12228,
-   "town": "",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -1505,7 +1513,7 @@
   {
    "lat": 30.94683,
    "lon": -87.14808,
-   "town": "",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -1518,7 +1526,7 @@
   {
    "lat": 30.6366,
    "lon": -87.05314,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -1531,7 +1539,7 @@
   {
    "lat": 30.95364,
    "lon": -87.15271,
-   "town": "",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -1545,7 +1553,7 @@
   {
    "lat": 30.87932,
    "lon": -87.06573,
-   "town": "Western Ln Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -1555,7 +1563,7 @@
   {
    "lat": 30.88017,
    "lon": -86.50892,
-   "town": "Road Laurel Hill",
+   "town": "Laurel Hill",
    "county": "Okaloosa",
    "n": 1,
    "recv": "Oct 20",
@@ -1568,7 +1576,7 @@
   {
    "lat": 30.58861,
    "lon": -87.09164,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1582,7 +1590,7 @@
   {
    "lat": 30.4333,
    "lon": -87.24398,
-   "town": "Hernandez St. Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1594,7 +1602,7 @@
   {
    "lat": 30.41271,
    "lon": -87.28672,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -1608,7 +1616,7 @@
   {
    "lat": 30.49515,
    "lon": -87.21784,
-   "town": "Vernon Street Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 7,
    "recv": "Oct 20",
@@ -1634,7 +1642,7 @@
   {
    "lat": 30.44598,
    "lon": -87.24885,
-   "town": "Young St. Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -1649,8 +1657,8 @@
   {
    "lat": 30.68815,
    "lon": -86.18372,
-   "town": "",
-   "county": "",
+   "town": "DeFuniak Springs",
+   "county": "Walton",
    "n": 3,
    "recv": "Oct 20",
    "flags": [
@@ -1661,7 +1669,7 @@
   {
    "lat": 30.42276,
    "lon": -87.26367,
-   "town": "Krasnosky Ave Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1673,7 +1681,7 @@
   {
    "lat": 30.5918,
    "lon": -87.08596,
-   "town": "Ridge Ave Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -1687,8 +1695,8 @@
   {
    "lat": 30.42498,
    "lon": -87.24691,
-   "town": "",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
    "flags": [],
@@ -1697,7 +1705,7 @@
   {
    "lat": 30.58334,
    "lon": -87.05377,
-   "town": "",
+   "town": "Bristol",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1709,7 +1717,7 @@
   {
    "lat": 30.59545,
    "lon": -87.06501,
-   "town": "City Rd Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 7,
    "recv": "Oct 20",
@@ -1736,7 +1744,7 @@
   {
    "lat": 30.90724,
    "lon": -87.03269,
-   "town": "Logan Ln Jay",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1748,7 +1756,7 @@
   {
    "lat": 30.49447,
    "lon": -87.2795,
-   "town": "Hills Rd Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 5,
    "recv": "Oct 20",
@@ -1760,7 +1768,7 @@
   {
    "lat": 30.58568,
    "lon": -87.12418,
-   "town": "Fairoaks Dr Pace",
+   "town": "Pace",
    "county": "Santa Rosa",
    "n": 8,
    "recv": "Oct 20",
@@ -1773,7 +1781,7 @@
   {
    "lat": 30.78704,
    "lon": -87.20607,
-   "town": "Chumuckla Hwy Jay",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -1800,7 +1808,7 @@
   {
    "lat": 30.67317,
    "lon": -87.07952,
-   "town": "Blossom Rd. Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -1814,7 +1822,7 @@
   {
    "lat": 30.63659,
    "lon": -87.04564,
-   "town": "Birch St. Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -1828,7 +1836,7 @@
   {
    "lat": 30.40622,
    "lon": -86.99404,
-   "town": "Street Gulf Breeze",
+   "town": "Gulf Breeze",
    "county": "Santa Rosa",
    "n": 5,
    "recv": "Oct 20",
@@ -1851,7 +1859,7 @@
   {
    "lat": 30.88828,
    "lon": -87.00139,
-   "town": "Land Rd Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -1877,7 +1885,7 @@
   {
    "lat": 30.41232,
    "lon": -87.2873,
-   "town": "Park Dr Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 7,
    "recv": "Oct 20",
@@ -1889,7 +1897,7 @@
   {
    "lat": 30.63147,
    "lon": -87.31819,
-   "town": "",
+   "town": "Cantonment",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1903,8 +1911,8 @@
   {
    "lat": 30.61153,
    "lon": -87.16577,
-   "town": "",
-   "county": "",
+   "town": "Pace",
+   "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
    "flags": [
@@ -1917,7 +1925,7 @@
   {
    "lat": 30.46085,
    "lon": -87.28615,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -1929,7 +1937,7 @@
   {
    "lat": 30.51584,
    "lon": -87.2601,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 4,
    "recv": "Oct 20",
@@ -1941,7 +1949,7 @@
   {
    "lat": 30.44294,
    "lon": -87.27974,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -1954,7 +1962,7 @@
   {
    "lat": 30.62178,
    "lon": -86.06423,
-   "town": "Leon",
+   "town": "Ponce De Leon",
    "county": "Walton",
    "n": 3,
    "recv": "Oct 20",
@@ -1967,7 +1975,7 @@
   {
    "lat": 30.77048,
    "lon": -87.0586,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -2004,7 +2012,7 @@
   {
    "lat": 30.50277,
    "lon": -87.34795,
-   "town": "Jamesville Rd. Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -2017,7 +2025,7 @@
   {
    "lat": 30.63241,
    "lon": -87.03969,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 6,
    "recv": "Oct 20",
@@ -2031,7 +2039,7 @@
   {
    "lat": 30.58715,
    "lon": -86.9918,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2045,7 +2053,7 @@
   {
    "lat": 30.61727,
    "lon": -87.06288,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -2055,7 +2063,7 @@
   {
    "lat": 30.61354,
    "lon": -86.91505,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2068,7 +2076,7 @@
   {
    "lat": 30.67386,
    "lon": -87.01181,
-   "town": "Brown Road Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -2081,7 +2089,7 @@
   {
    "lat": 30.44292,
    "lon": -86.93942,
-   "town": "",
+   "town": "Navarre",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2093,7 +2101,7 @@
   {
    "lat": 30.44292,
    "lon": -86.93942,
-   "town": "",
+   "town": "Navarre",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2105,7 +2113,7 @@
   {
    "lat": 30.39398,
    "lon": -87.27971,
-   "town": "Patton Dr Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -2115,7 +2123,7 @@
   {
    "lat": 30.63241,
    "lon": -87.03969,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2125,7 +2133,7 @@
   {
    "lat": 30.93977,
    "lon": -87.06346,
-   "town": "",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 7,
    "recv": "Oct 20",
@@ -2138,7 +2146,7 @@
   {
    "lat": 30.9526,
    "lon": -87.151,
-   "town": "",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -2152,7 +2160,7 @@
   {
    "lat": 30.42131,
    "lon": -87.21691,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -2164,7 +2172,7 @@
   {
    "lat": 30.45077,
    "lon": -87.25254,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -2176,7 +2184,7 @@
   {
    "lat": 30.36129,
    "lon": -87.16834,
-   "town": "",
+   "town": "Gulf Breeze",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -2192,7 +2200,7 @@
   {
    "lat": 30.58887,
    "lon": -87.09593,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2204,7 +2212,7 @@
   {
    "lat": 30.61325,
    "lon": -87.16516,
-   "town": "Creek Drive Pace",
+   "town": "Pace",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2217,7 +2225,7 @@
   {
    "lat": 30.58263,
    "lon": -87.12579,
-   "town": "Santa Rosa County",
+   "town": "Pace",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2233,7 +2241,7 @@
   {
    "lat": 30.64025,
    "lon": -87.0358,
-   "town": "Sunbeam Street Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2248,7 +2256,7 @@
   {
    "lat": 30.95576,
    "lon": -87.14702,
-   "town": "",
+   "town": "Jay",
    "county": "Santa Rosa",
    "n": 7,
    "recv": "Oct 20",
@@ -2273,7 +2281,7 @@
   {
    "lat": 30.59511,
    "lon": -87.05821,
-   "town": "Butternut Dr. Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -2286,7 +2294,7 @@
   {
    "lat": 30.45842,
    "lon": -87.21852,
-   "town": "Altamont Rd Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -2299,7 +2307,7 @@
   {
    "lat": 30.86735,
    "lon": -87.03579,
-   "town": "Whitfield Rd. Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2312,7 +2320,7 @@
   {
    "lat": 30.46682,
    "lon": -87.26904,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -2325,7 +2333,7 @@
   {
    "lat": 30.41385,
    "lon": -86.63489,
-   "town": "",
+   "town": "Fort Walton Beach",
    "county": "Okaloosa",
    "n": 5,
    "recv": "Oct 20",
@@ -2340,7 +2348,7 @@
   {
    "lat": 30.39131,
    "lon": -87.28017,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -2352,7 +2360,7 @@
   {
    "lat": 30.7318,
    "lon": -87.18445,
-   "town": "",
+   "town": "Pace",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2366,7 +2374,7 @@
   {
    "lat": 30.43649,
    "lon": -86.91554,
-   "town": "",
+   "town": "Navarre",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -2383,7 +2391,7 @@
   {
    "lat": 30.63522,
    "lon": -87.06137,
-   "town": "Circle Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -2399,7 +2407,7 @@
   {
    "lat": 30.52808,
    "lon": -86.47366,
-   "town": "",
+   "town": "Niceville",
    "county": "Okaloosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2411,7 +2419,7 @@
   {
    "lat": 30.65114,
    "lon": -87.03981,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2423,7 +2431,7 @@
   {
    "lat": 30.51245,
    "lon": -87.04961,
-   "town": "Mykell Dr Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
@@ -2450,7 +2458,7 @@
   {
    "lat": 30.86036,
    "lon": -86.85272,
-   "town": "Lake Road. Munson.",
+   "town": "Munson",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2476,7 +2484,7 @@
   {
    "lat": 30.50003,
    "lon": -87.20477,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 6,
    "recv": "Oct 20",
@@ -2489,7 +2497,7 @@
   {
    "lat": 30.4602,
    "lon": -87.24163,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -2502,7 +2510,7 @@
   {
    "lat": 30.39469,
    "lon": -87.07314,
-   "town": "",
+   "town": "Gulf Breeze",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2514,7 +2522,7 @@
   {
    "lat": 30.43768,
    "lon": -86.57322,
-   "town": "",
+   "town": "Shalimar",
    "county": "Okaloosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2527,7 +2535,7 @@
   {
    "lat": 30.76703,
    "lon": -86.17874,
-   "town": "Rd Defuniak Springs",
+   "town": "DeFuniak Springs",
    "county": "Walton",
    "n": 1,
    "recv": "Oct 20",
@@ -2542,8 +2550,8 @@
   {
    "lat": 30.42817,
    "lon": -87.25309,
-   "town": "",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
    "flags": [],
@@ -2552,7 +2560,7 @@
   {
    "lat": 30.84278,
    "lon": -86.53153,
-   "town": "",
+   "town": "Crestview",
    "county": "Okaloosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2564,7 +2572,7 @@
   {
    "lat": 30.43898,
    "lon": -87.23625,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -2578,8 +2586,8 @@
   {
    "lat": 30.42776,
    "lon": -87.26165,
-   "town": "",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
    "flags": [
@@ -2591,7 +2599,7 @@
   {
    "lat": 30.52302,
    "lon": -87.26942,
-   "town": "Orange Ave. Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
@@ -2604,7 +2612,7 @@
   {
    "lat": 30.69206,
    "lon": -87.07239,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -2614,7 +2622,7 @@
   {
    "lat": 30.62969,
    "lon": -87.11935,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2626,7 +2634,7 @@
   {
    "lat": 30.61573,
    "lon": -87.06016,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 20",
@@ -2638,7 +2646,7 @@
   {
    "lat": 30.38313,
    "lon": -87.30595,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
@@ -2651,8 +2659,8 @@
   {
    "lat": 30.39745,
    "lon": -87.06292,
-   "town": "",
-   "county": "",
+   "town": "Gulf Breeze",
+   "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 20",
    "flags": [
@@ -2681,8 +2689,8 @@
   {
    "lat": 30.38262,
    "lon": -87.31451,
-   "town": "",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
    "flags": [
@@ -2695,7 +2703,7 @@
   {
    "lat": 30.59665,
    "lon": -86.93548,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 20",
@@ -2710,7 +2718,7 @@
   {
    "lat": 30.59676,
    "lon": -87.05673,
-   "town": "Butternut Dr Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2723,7 +2731,7 @@
   {
    "lat": 30.52804,
    "lon": -87.32167,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 20",
@@ -2737,7 +2745,7 @@
   {
    "lat": 30.59735,
    "lon": -86.99007,
-   "town": "Wheel Cir Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2749,8 +2757,8 @@
   {
    "lat": 30.44815,
    "lon": -87.21161,
-   "town": "",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 5,
    "recv": "Oct 20",
    "flags": [
@@ -2761,7 +2769,7 @@
   {
    "lat": 30.43989,
    "lon": -86.62871,
-   "town": "",
+   "town": "Fort Walton Beach",
    "county": "Okaloosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2774,7 +2782,7 @@
   {
    "lat": 30.59613,
    "lon": -87.0607,
-   "town": "",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 20",
@@ -2799,7 +2807,7 @@
   {
    "lat": 30.51575,
    "lon": -87.19248,
-   "town": "",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
    "recv": "Oct 19",
@@ -2812,7 +2820,7 @@
   {
    "lat": 30.41506,
    "lon": -86.59948,
-   "town": "",
+   "town": "Fort Walton Beach",
    "county": "Okaloosa",
    "n": 2,
    "recv": "Oct 19",
@@ -2824,7 +2832,7 @@
   {
    "lat": 30.47822,
    "lon": -87.29472,
-   "town": "Mystic Ln Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 3,
    "recv": "Oct 19",
@@ -2850,8 +2858,8 @@
   {
    "lat": 30.45546,
    "lon": -87.25606,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 4,
    "recv": "Oct 19",
    "flags": [],
@@ -2860,7 +2868,7 @@
   {
    "lat": 30.64308,
    "lon": -87.07392,
-   "town": "Alex Dr Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 7,
    "recv": "Oct 19",
@@ -2886,7 +2894,7 @@
   {
    "lat": 30.6235,
    "lon": -87.08622,
-   "town": "Florida",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 18",
@@ -2909,7 +2917,7 @@
   {
    "lat": 30.51071,
    "lon": -87.19341,
-   "town": "Excelsior Drive Pensacola",
+   "town": "Pensacola",
    "county": "Escambia",
    "n": 4,
    "recv": "Oct 18",
@@ -2923,7 +2931,7 @@
   {
    "lat": 30.38268,
    "lon": -87.12924,
-   "town": "Florida",
+   "town": "Gulf Breeze",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 18",
@@ -2935,7 +2943,7 @@
   {
    "lat": 30.40267,
    "lon": -86.99974,
-   "town": "Florida",
+   "town": "Gulf Breeze",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 18",
@@ -2947,8 +2955,8 @@
   {
    "lat": 30.6133,
    "lon": -87.16512,
-   "town": "Florida",
-   "county": "",
+   "town": "Milton",
+   "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 18",
    "flags": [
@@ -2961,7 +2969,7 @@
   {
    "lat": 30.83909,
    "lon": -87.06162,
-   "town": "Florida",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 4,
    "recv": "Oct 18",
@@ -2989,7 +2997,7 @@
   {
    "lat": 30.68255,
    "lon": -86.83798,
-   "town": "Florida",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 18",
@@ -3001,8 +3009,8 @@
   {
    "lat": 30.54272,
    "lon": -87.26064,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 18",
    "flags": [
@@ -3015,8 +3023,8 @@
   {
    "lat": 30.66618,
    "lon": -86.13129,
-   "town": "Florida",
-   "county": "",
+   "town": "DeFuniak Springs",
+   "county": "Walton",
    "n": 2,
    "recv": "Oct 18",
    "flags": [
@@ -3041,8 +3049,8 @@
   {
    "lat": 30.44815,
    "lon": -87.21161,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 5,
    "recv": "Oct 18",
    "flags": [
@@ -3053,7 +3061,7 @@
   {
    "lat": 30.5982,
    "lon": -87.10847,
-   "town": "Florida",
+   "town": "Pace",
    "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 18",
@@ -3065,7 +3073,7 @@
   {
    "lat": 30.39824,
    "lon": -86.99871,
-   "town": "Lane. Gulf Breeze",
+   "town": "Gulf Breeze",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 18",
@@ -3078,7 +3086,7 @@
   {
    "lat": 30.64451,
    "lon": -87.03894,
-   "town": "Sunray St Milton",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 18",
@@ -3090,7 +3098,7 @@
   {
    "lat": 30.78349,
    "lon": -87.00158,
-   "town": "Florida",
+   "town": "Milton",
    "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 18",
@@ -3242,7 +3250,7 @@
   {
    "lat": 30.70251,
    "lon": -86.97853,
-   "town": "Florida",
+   "town": "Munson",
    "county": "",
    "n": 1,
    "recv": "Oct 18",
@@ -3462,8 +3470,8 @@
   {
    "lat": 30.46742,
    "lon": -87.32568,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 6,
    "recv": "Oct 18",
    "flags": [
@@ -3553,8 +3561,8 @@
   {
    "lat": 30.51092,
    "lon": -87.23513,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 1,
    "recv": "Oct 18",
    "flags": [
@@ -3722,8 +3730,8 @@
   {
    "lat": 30.45167,
    "lon": -87.2099,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 18",
    "flags": [
@@ -3750,8 +3758,8 @@
   {
    "lat": 30.31414,
    "lon": -85.76066,
-   "town": "Florida",
-   "county": "",
+   "town": "Panama City",
+   "county": "Bay",
    "n": 1,
    "recv": "Oct 18",
    "flags": [
@@ -3790,8 +3798,8 @@
   {
    "lat": 30.43242,
    "lon": -86.87032,
-   "town": "Florida",
-   "county": "",
+   "town": "Navarre",
+   "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 18",
    "flags": [
@@ -3831,8 +3839,8 @@
   {
    "lat": 30.41726,
    "lon": -87.25896,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 4,
    "recv": "Oct 18",
    "flags": [
@@ -4114,8 +4122,8 @@
   {
    "lat": 30.48923,
    "lon": -87.21021,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 3,
    "recv": "Oct 18",
    "flags": [
@@ -4311,8 +4319,8 @@
   {
    "lat": 30.50052,
    "lon": -87.25463,
-   "town": "Florida",
-   "county": "",
+   "town": "Pensacola",
+   "county": "Escambia",
    "n": 1,
    "recv": "Oct 17",
    "flags": [
@@ -5696,7 +5704,8 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 19"
   },
   {
    "lat": 30.54237,
@@ -5754,7 +5763,7 @@
   {
    "lat": 30.43117,
    "lon": -85.983,
-   "town": "Once de Lien",
+   "town": "Ponce De Leon",
    "county": "Walton",
    "n": 1,
    "recv": "Oct 16",
@@ -6066,7 +6075,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 19"
   },
   {
    "lat": 30.47053,
@@ -6107,7 +6117,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 19"
   },
   {
    "lat": 30.64044,
