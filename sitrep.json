@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 20, 2026 · 1:58 PM CT",
- "requestsLast24h": 64,
- "intakes": 450,
- "people": 1216,
- "medical": 239,
- "veterans": 62,
+ "verified_as_of": "Oct 20, 2026 · 3:15 PM CT",
+ "requestsLast24h": 60,
+ "intakes": 456,
+ "people": 1231,
+ "medical": 241,
+ "veterans": 64,
  "firstResponders": 46,
  "resources": 459,
- "siteReady": 144,
- "canTow": 133,
- "own": 260,
- "insured": 118,
- "veteranFr": 92,
+ "siteReady": 146,
+ "canTow": 135,
+ "own": 265,
+ "insured": 120,
+ "veteranFr": 94,
  "hours": [
   {
    "hour": "00",
@@ -86,12 +86,12 @@
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 5
+   "count": 8
   },
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 36
+   "count": 39
   },
   {
    "hour": "16",
@@ -137,7 +137,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 127,
+   "count": 129,
    "towns": [
     {
      "town": "Pensacola",
@@ -145,11 +145,19 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 29
+     "count": 30
     },
     {
      "town": "Cantonment",
      "count": 7
+    },
+    {
+     "town": "Brown Rd Pensacola",
+     "count": 1
+    },
+    {
+     "town": "Lee Ln Pensacola",
+     "count": 1
     },
     {
      "town": "Giese Lane Pensacola",
@@ -235,15 +243,15 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 213,
+   "count": 217,
    "towns": [
     {
      "town": "Milton",
-     "count": 103
+     "count": 104
     },
     {
      "town": "Town not yet confirmed",
-     "count": 37
+     "count": 39
     },
     {
      "town": "Pace",
@@ -268,6 +276,10 @@
     {
      "town": "D Milton",
      "count": 2
+    },
+    {
+     "town": "Yancy Dr. Pace",
+     "count": 1
     },
     {
      "town": "Spring Street Pace",
@@ -507,17 +519,19 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 213,
+  "Santa Rosa County": 217,
+  "Escambia County": 129,
   "Okaloosa County": 24,
-  "Escambia County": 127,
   "unassigned": 77,
   "Bay County": 1,
   "Walton County": 8
  },
  "towns": {
+  "Milton": 104,
+  "Lee Ln Pensacola": 1,
+  "Yancy Dr. Pace": 1,
+  "unresolved": 155,
   "Spring Street Pace": 1,
-  "unresolved": 152,
-  "Milton": 103,
   "Freeport": 2,
   "D Milton": 2,
   "Pensacola": 71,
@@ -598,15 +612,15 @@
  "sizes": [
   {
    "label": "1",
-   "count": 130
+   "count": 131
   },
   {
    "label": "2",
-   "count": 117
+   "count": 120
   },
   {
    "label": "3",
-   "count": 76
+   "count": 77
   },
   {
    "label": "4",
@@ -614,7 +628,7 @@
   },
   {
    "label": "5",
-   "count": 32
+   "count": 33
   },
   {
    "label": "6",
@@ -632,12 +646,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 247,
+   "households": 251,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 190,
+   "households": 192,
    "rigs": 400
   },
   {
@@ -652,25 +666,79 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 934,
+ "daDestroyedMajor": 938,
  "daBreakdown": {
   "fdem": 342,
   "escambia_ia": 366,
-  "red_cross": 226
+  "red_cross": 230
  },
  "signals": [
-  "934 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "450 families asking for help — 1216 people",
-  "239 households with medical conditions"
+  "938 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "456 families asking for help — 1231 people",
+  "241 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
-  "144 families site-ready for immediate placement",
+  "146 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.67995,
+   "lon": -87.05194,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 20",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.672,
+   "lon": -86.97471,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59817,
+   "lon": -87.10729,
+   "town": "Spring Street Pace",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 20",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.50716,
+   "lon": -86.43297,
+   "town": "",
+   "county": "Okaloosa",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.55448,
    "lon": -87.10173,
