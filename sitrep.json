@@ -1,16 +1,16 @@
 {
- "verified_as_of": "Oct 20, 2026 · 3:15 PM CT",
+ "verified_as_of": "Oct 20, 2026 · 3:37 PM CT",
  "requestsLast24h": 60,
- "intakes": 456,
- "people": 1231,
- "medical": 241,
+ "intakes": 457,
+ "people": 1232,
+ "medical": 242,
  "veterans": 64,
  "firstResponders": 46,
  "resources": 459,
  "siteReady": 146,
  "canTow": 135,
- "own": 265,
- "insured": 120,
+ "own": 266,
+ "insured": 121,
  "veteranFr": 94,
  "hours": [
   {
@@ -91,7 +91,7 @@
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 39
+   "count": 40
   },
   {
    "hour": "16",
@@ -137,7 +137,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 129,
+   "count": 130,
    "towns": [
     {
      "town": "Pensacola",
@@ -519,14 +519,15 @@
   }
  ],
  "countyCounts": {
+  "Escambia County": 130,
   "Santa Rosa County": 217,
-  "Escambia County": 129,
   "Okaloosa County": 24,
   "unassigned": 77,
   "Bay County": 1,
   "Walton County": 8
  },
  "towns": {
+  "Brown Rd Pensacola": 1,
   "Milton": 104,
   "Lee Ln Pensacola": 1,
   "Yancy Dr. Pace": 1,
@@ -612,7 +613,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 131
+   "count": 132
   },
   {
    "label": "2",
@@ -646,7 +647,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 251,
+   "households": 252,
    "rigs": 59
   },
   {
@@ -674,8 +675,8 @@
  },
  "signals": [
   "938 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "456 families asking for help — 1231 people",
-  "241 households with medical conditions"
+  "457 families asking for help — 1232 people",
+  "242 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -685,6 +686,75 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.37921,
+   "lon": -87.29154,
+   "town": "Brown Rd Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.61764,
+   "lon": -86.89118,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.5083,
+   "lon": -87.39096,
+   "town": "Lee Ln Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62925,
+   "lon": -87.1195,
+   "town": "Yancy Dr. Pace",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.52133,
+   "lon": -87.2841,
+   "town": "",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.67995,
    "lon": -87.05194,
