@@ -462,60 +462,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "county": "County not yet assigned",
-   "count": 77,
-   "towns": [
-    {
-     "town": "Town not yet confirmed",
-     "count": 34
-    },
-    {
-     "town": "Florida",
-     "count": 32
-    },
-    {
-     "town": "Freeport",
-     "count": 2
-    },
-    {
-     "town": "Fort Lauderdale",
-     "count": 1
-    },
-    {
-     "town": "Ponce De Leon",
-     "count": 1
-    },
-    {
-     "town": "Vernon",
-     "count": 1
-    },
-    {
-     "town": "Graceville",
-     "count": 1
-    },
-    {
-     "town": "Chiefland",
-     "count": 1
-    },
-    {
-     "town": "Westville",
-     "count": 1
-    },
-    {
-     "town": "Flomaton",
-     "count": 1
-    },
-    {
-     "town": "Brewton",
-     "count": 1
-    },
-    {
-     "town": "Castleberry",
-     "count": 1
-    }
-   ]
   }
  ],
  "countyCounts": {
