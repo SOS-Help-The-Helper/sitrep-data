@@ -6,7 +6,7 @@
  "medical": 242,
  "veterans": 64,
  "firstResponders": 46,
- "resources": 459,
+ "resources": 359,
  "siteReady": 146,
  "canTow": 135,
  "own": 266,
@@ -653,7 +653,7 @@
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
    "households": 192,
-   "rigs": 400
+   "rigs": 300
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
@@ -664,8 +664,8 @@
  "fleet": {
   "accessible": 59,
   "sleep2": 59,
-  "sleep4_6": 400,
-  "total": 459
+  "sleep4_6": 300,
+  "total": 359
  },
  "daDestroyedMajor": 938,
  "daBreakdown": {
@@ -679,7 +679,7 @@
   "242 households with medical conditions"
  ],
  "action": [
-  "459 rigs standing by",
+  "359 rigs standing by",
   "146 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
