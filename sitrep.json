@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 19, 2026 · 3:14 PM CT",
- "requestsLast24h": 8,
- "intakes": 269,
- "people": 760,
- "medical": 147,
- "veterans": 34,
- "firstResponders": 26,
+ "verified_as_of": "Oct 20, 2026 · 3:56 AM CT",
+ "requestsLast24h": 14,
+ "intakes": 277,
+ "people": 778,
+ "medical": 151,
+ "veterans": 35,
+ "firstResponders": 27,
  "resources": 459,
  "siteReady": 81,
- "canTow": 82,
- "own": 159,
- "insured": 73,
- "veteranFr": 51,
+ "canTow": 86,
+ "own": 164,
+ "insured": 76,
+ "veteranFr": 52,
  "hours": [
   {
    "hour": "00",
@@ -31,7 +31,7 @@
   {
    "hour": "03",
    "label": "3 AM",
-   "count": 97
+   "count": 105
   },
   {
    "hour": "04",
@@ -137,7 +137,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 69,
+   "count": 70,
    "towns": [
     {
      "town": "Pensacola",
@@ -149,7 +149,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 1
+     "count": 2
     },
     {
      "town": "Mystic Ln Pensacola",
@@ -167,7 +167,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 139,
+   "count": 143,
    "towns": [
     {
      "town": "Milton",
@@ -194,6 +194,18 @@
      "count": 3
     },
     {
+     "town": "Town not yet confirmed",
+     "count": 2
+    },
+    {
+     "town": "Butternut Dr Milton",
+     "count": 1
+    },
+    {
+     "town": "Wheel Cir Milton",
+     "count": 1
+    },
+    {
      "town": "Alex Dr Milton",
      "count": 1
     },
@@ -213,7 +225,7 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 13,
+   "count": 14,
    "towns": [
     {
      "town": "Fort Walton Beach",
@@ -225,7 +237,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 1
+     "count": 2
     },
     {
      "town": "Shalimar",
@@ -265,7 +277,7 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 42,
+   "count": 44,
    "towns": [
     {
      "town": "Florida",
@@ -273,7 +285,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 1
+     "count": 3
     },
     {
      "town": "Ponce De Leon",
@@ -315,14 +327,16 @@
   }
  ],
  "countyCounts": {
-  "unassigned": 42,
-  "Escambia County": 69,
-  "Okaloosa County": 13,
-  "Santa Rosa County": 139,
+  "unassigned": 44,
+  "Santa Rosa County": 143,
+  "Escambia County": 70,
+  "Okaloosa County": 14,
   "Walton County": 6
  },
  "towns": {
-  "unresolved": 44,
+  "unresolved": 50,
+  "Butternut Dr Milton": 1,
+  "Wheel Cir Milton": 1,
   "Mystic Ln Pensacola": 1,
   "Alex Dr Milton": 1,
   "Excelsior Drive Pensacola": 1,
@@ -357,15 +371,15 @@
  "sizes": [
   {
    "label": "1",
-   "count": 67
+   "count": 69
   },
   {
    "label": "2",
-   "count": 72
+   "count": 76
   },
   {
    "label": "3",
-   "count": 45
+   "count": 46
   },
   {
    "label": "4",
@@ -373,7 +387,7 @@
   },
   {
    "label": "5",
-   "count": 20
+   "count": 21
   },
   {
    "label": "6",
@@ -387,12 +401,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 139,
+   "households": 145,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 124,
+   "households": 126,
    "rigs": 400
   },
   {
@@ -407,16 +421,16 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 914,
+ "daDestroyedMajor": 915,
  "daBreakdown": {
   "fdem": 342,
   "escambia_ia": 366,
-  "red_cross": 206
+  "red_cross": 207
  },
  "signals": [
-  "914 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "269 families asking for help — 760 people",
-  "147 households with medical conditions"
+  "915 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "277 families asking for help — 778 people",
+  "151 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -426,6 +440,111 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.38262,
+   "lon": -87.31451,
+   "town": "",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59665,
+   "lon": -86.93548,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59676,
+   "lon": -87.05673,
+   "town": "Butternut Dr Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.52804,
+   "lon": -87.32167,
+   "town": "",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59735,
+   "lon": -86.99007,
+   "town": "Wheel Cir Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44815,
+   "lon": -87.21161,
+   "town": "",
+   "county": "",
+   "n": 5,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43989,
+   "lon": -86.62871,
+   "town": "",
+   "county": "Okaloosa",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Can tow",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.59613,
+   "lon": -87.0607,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.42627,
    "lon": -87.27174,
