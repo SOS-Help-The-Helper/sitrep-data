@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 20, 2026 · 8:52 AM CT",
- "requestsLast24h": 10,
- "intakes": 279,
- "people": 786,
- "medical": 152,
+ "verified_as_of": "Oct 20, 2026 · 9:29 AM CT",
+ "requestsLast24h": 12,
+ "intakes": 281,
+ "people": 793,
+ "medical": 153,
  "veterans": 36,
- "firstResponders": 27,
+ "firstResponders": 28,
  "resources": 459,
  "siteReady": 81,
- "canTow": 87,
- "own": 166,
- "insured": 78,
- "veteranFr": 53,
+ "canTow": 88,
+ "own": 168,
+ "insured": 79,
+ "veteranFr": 54,
  "hours": [
   {
    "hour": "00",
@@ -61,7 +61,7 @@
   {
    "hour": "09",
    "label": "9 AM",
-   "count": 6
+   "count": 8
   },
   {
    "hour": "10",
@@ -137,7 +137,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 70,
+   "count": 71,
    "towns": [
     {
      "town": "Pensacola",
@@ -149,7 +149,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 2
+     "count": 3
     },
     {
      "town": "Mystic Ln Pensacola",
@@ -277,7 +277,7 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 45,
+   "count": 46,
    "towns": [
     {
      "town": "Florida",
@@ -285,7 +285,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 4
+     "count": 5
     },
     {
      "town": "Ponce De Leon",
@@ -327,14 +327,14 @@
   }
  ],
  "countyCounts": {
-  "unassigned": 45,
+  "Escambia County": 71,
+  "unassigned": 46,
   "Santa Rosa County": 144,
-  "Escambia County": 70,
   "Okaloosa County": 14,
   "Walton County": 6
  },
  "towns": {
-  "unresolved": 51,
+  "unresolved": 53,
   "Milton": 95,
   "Butternut Dr Milton": 1,
   "Wheel Cir Milton": 1,
@@ -379,11 +379,11 @@
   },
   {
    "label": "3",
-   "count": 47
+   "count": 48
   },
   {
    "label": "4",
-   "count": 41
+   "count": 42
   },
   {
    "label": "5",
@@ -406,7 +406,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 128,
+   "households": 130,
    "rigs": 400
   },
   {
@@ -421,16 +421,16 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 919,
+ "daDestroyedMajor": 921,
  "daBreakdown": {
   "fdem": 342,
   "escambia_ia": 366,
-  "red_cross": 211
+  "red_cross": 213
  },
  "signals": [
-  "919 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "279 families asking for help — 786 people",
-  "152 households with medical conditions"
+  "921 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "281 families asking for help — 793 people",
+  "153 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -440,6 +440,34 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.38313,
+   "lon": -87.30595,
+   "town": "",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.39745,
+   "lon": -87.06292,
+   "town": "",
+   "county": "",
+   "n": 4,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.57856,
    "lon": -87.09352,
