@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 20, 2026 · 5:21 AM CT",
+ "verified_as_of": "Oct 20, 2026 · 6:24 AM CT",
  "requestsLast24h": 12,
- "intakes": 277,
- "people": 778,
- "medical": 151,
- "veterans": 35,
+ "intakes": 278,
+ "people": 781,
+ "medical": 152,
+ "veterans": 36,
  "firstResponders": 27,
  "resources": 459,
  "siteReady": 81,
  "canTow": 86,
- "own": 164,
- "insured": 76,
- "veteranFr": 52,
+ "own": 165,
+ "insured": 77,
+ "veteranFr": 53,
  "hours": [
   {
    "hour": "00",
@@ -46,7 +46,7 @@
   {
    "hour": "06",
    "label": "6 AM",
-   "count": 2
+   "count": 3
   },
   {
    "hour": "07",
@@ -167,11 +167,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 143,
+   "count": 144,
    "towns": [
     {
      "town": "Milton",
-     "count": 94
+     "count": 95
     },
     {
      "town": "Pace",
@@ -327,13 +327,14 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 144,
   "unassigned": 44,
-  "Santa Rosa County": 143,
   "Escambia County": 70,
   "Okaloosa County": 14,
   "Walton County": 6
  },
  "towns": {
+  "Milton": 95,
   "unresolved": 50,
   "Butternut Dr Milton": 1,
   "Wheel Cir Milton": 1,
@@ -345,7 +346,6 @@
   "Sunray St Milton": 1,
   "Jay": 11,
   "Pace": 15,
-  "Milton": 94,
   "Fort Walton Beach": 4,
   "Crestview": 4,
   "Santa Rosa Beach": 2,
@@ -379,7 +379,7 @@
   },
   {
    "label": "3",
-   "count": 46
+   "count": 47
   },
   {
    "label": "4",
@@ -406,7 +406,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 126,
+   "households": 127,
    "rigs": 400
   },
   {
@@ -429,8 +429,8 @@
  },
  "signals": [
   "915 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "277 families asking for help — 778 people",
-  "151 households with medical conditions"
+  "278 families asking for help — 781 people",
+  "152 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
@@ -440,6 +440,21 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.57856,
+   "lon": -87.09352,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.38262,
    "lon": -87.31451,
