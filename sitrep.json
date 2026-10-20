@@ -1,17 +1,17 @@
 {
- "verified_as_of": "Oct 20, 2026 · 12:55 PM CT",
- "requestsLast24h": 65,
- "intakes": 442,
- "people": 1201,
- "medical": 233,
- "veterans": 60,
+ "verified_as_of": "Oct 20, 2026 · 1:58 PM CT",
+ "requestsLast24h": 64,
+ "intakes": 450,
+ "people": 1216,
+ "medical": 239,
+ "veterans": 62,
  "firstResponders": 46,
  "resources": 459,
- "siteReady": 142,
- "canTow": 132,
- "own": 254,
- "insured": 113,
- "veteranFr": 90,
+ "siteReady": 144,
+ "canTow": 133,
+ "own": 260,
+ "insured": 118,
+ "veteranFr": 92,
  "hours": [
   {
    "hour": "00",
@@ -76,12 +76,12 @@
   {
    "hour": "12",
    "label": "12 PM",
-   "count": 32
+   "count": 35
   },
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 19
+   "count": 24
   },
   {
    "hour": "14",
@@ -137,7 +137,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 124,
+   "count": 127,
    "towns": [
     {
      "town": "Pensacola",
@@ -145,7 +145,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 26
+     "count": 29
     },
     {
      "town": "Cantonment",
@@ -235,15 +235,15 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 210,
+   "count": 213,
    "towns": [
     {
      "town": "Milton",
-     "count": 102
+     "count": 103
     },
     {
      "town": "Town not yet confirmed",
-     "count": 36
+     "count": 37
     },
     {
      "town": "Pace",
@@ -268,6 +268,10 @@
     {
      "town": "D Milton",
      "count": 2
+    },
+    {
+     "town": "Spring Street Pace",
+     "count": 1
     },
     {
      "town": "Baltic Ct Milton",
@@ -385,11 +389,11 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 23,
+   "count": 24,
    "towns": [
     {
      "town": "Town not yet confirmed",
-     "count": 10
+     "count": 11
     },
     {
      "town": "Fort Walton Beach",
@@ -449,7 +453,7 @@
   },
   {
    "county": "County not yet assigned",
-   "count": 76,
+   "count": 77,
    "towns": [
     {
      "town": "Town not yet confirmed",
@@ -458,6 +462,10 @@
     {
      "town": "Florida",
      "count": 32
+    },
+    {
+     "town": "Freeport",
+     "count": 2
     },
     {
      "town": "Fort Lauderdale",
@@ -480,10 +488,6 @@
      "count": 1
     },
     {
-     "town": "Freeport",
-     "count": 1
-    },
-    {
      "town": "Westville",
      "count": 1
     },
@@ -503,17 +507,19 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 210,
-  "Escambia County": 124,
+  "Santa Rosa County": 213,
+  "Okaloosa County": 24,
+  "Escambia County": 127,
+  "unassigned": 77,
   "Bay County": 1,
-  "unassigned": 76,
-  "Okaloosa County": 23,
   "Walton County": 8
  },
  "towns": {
+  "Spring Street Pace": 1,
+  "unresolved": 152,
+  "Milton": 103,
+  "Freeport": 2,
   "D Milton": 2,
-  "Milton": 102,
-  "unresolved": 147,
   "Pensacola": 71,
   "Baltic Ct Milton": 1,
   "Giese Lane Pensacola": 1,
@@ -580,7 +586,6 @@
   "Vernon": 1,
   "Graceville": 1,
   "Chiefland": 1,
-  "Freeport": 1,
   "Westville": 1,
   "DeFuniak Springs": 3,
   "Flomaton": 1,
@@ -593,11 +598,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 126
+   "count": 130
   },
   {
    "label": "2",
-   "count": 114
+   "count": 117
   },
   {
    "label": "3",
@@ -609,7 +614,7 @@
   },
   {
    "label": "5",
-   "count": 31
+   "count": 32
   },
   {
    "label": "6",
@@ -627,12 +632,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 240,
+   "households": 247,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 189,
+   "households": 190,
    "rigs": 400
   },
   {
@@ -647,25 +652,107 @@
   "sleep4_6": 400,
   "total": 459
  },
- "daDestroyedMajor": 933,
+ "daDestroyedMajor": 934,
  "daBreakdown": {
   "fdem": 342,
   "escambia_ia": 366,
-  "red_cross": 225
+  "red_cross": 226
  },
  "signals": [
-  "933 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "442 families asking for help — 1201 people",
-  "233 households with medical conditions"
+  "934 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "450 families asking for help — 1216 people",
+  "239 households with medical conditions"
  ],
  "action": [
   "459 rigs standing by",
-  "142 families site-ready for immediate placement",
+  "144 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.55448,
+   "lon": -87.10173,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.68152,
+   "lon": -87.04588,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42131,
+   "lon": -87.21691,
+   "town": "",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44543,
+   "lon": -86.0671,
+   "town": "Freeport",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": "Destroyed"
+  },
+  {
+   "lat": 30.44926,
+   "lon": -87.20941,
+   "town": "",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42131,
+   "lon": -87.21691,
+   "town": "",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.58399,
    "lon": -87.06403,
@@ -674,7 +761,7 @@
    "n": 2,
    "recv": "Oct 20",
    "flags": [],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.60622,
@@ -718,7 +805,7 @@
    "n": 2,
    "recv": "Oct 20",
    "flags": [],
-   "da": null
+   "da": "Destroyed"
   },
   {
    "lat": 30.63847,
@@ -757,7 +844,7 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": "Affected"
   },
   {
    "lat": 30.40038,
