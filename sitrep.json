@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 20, 2026 · 3:37 PM CT",
- "requestsLast24h": 60,
+ "verified_as_of": "Oct 20, 2026 · 6:52 PM CT",
+ "requestsLast24h": 65,
  "tiles": {
-  "people": 1232,
-  "requests": 457,
+  "people": 1264,
+  "requests": 472,
   "resources": 359,
   "delivered": 3
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 336,
-   "denominator": 457,
-   "pct": 73.5
+   "count": 348,
+   "denominator": 472,
+   "pct": 73.7
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 242,
-   "denominator": 457,
-   "pct": 53.0
+   "count": 251,
+   "denominator": 472,
+   "pct": 53.2
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 64,
-   "denominator": 457,
-   "pct": 14.0
+   "count": 65,
+   "denominator": 472,
+   "pct": 13.8
   },
   {
    "key": "first_responder",
    "label": "First Responders",
-   "count": 46,
-   "denominator": 457,
-   "pct": 10.1
+   "count": 48,
+   "denominator": 472,
+   "pct": 10.2
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 146,
-   "denominator": 457,
-   "pct": 31.9
+   "count": 152,
+   "denominator": 472,
+   "pct": 32.2
   }
  ],
  "chips": {
-  "uninsured_pct": 73.5,
-  "medical_pct": 53.0,
-  "veteran_pct": 14.0,
-  "first_responder_pct": 10.1,
-  "site_ready_pct": 31.9
+  "uninsured_pct": 73.7,
+  "medical_pct": 53.2,
+  "veteran_pct": 13.8,
+  "first_responder_pct": 10.2,
+  "site_ready_pct": 32.2
  },
- "intakes": 457,
- "people": 1232,
- "medical": 242,
- "veterans": 64,
- "firstResponders": 46,
+ "intakes": 472,
+ "people": 1264,
+ "medical": 251,
+ "veterans": 65,
+ "firstResponders": 48,
  "resources": 359,
- "siteReady": 146,
- "canTow": 135,
- "own": 266,
- "insured": 121,
- "veteranFr": 94,
+ "siteReady": 152,
+ "canTow": 139,
+ "own": 275,
+ "insured": 124,
+ "veteranFr": 97,
  "hours": [
   {
    "hour": "00",
@@ -146,17 +146,17 @@
   {
    "hour": "16",
    "label": "4 PM",
-   "count": 12
+   "count": 16
   },
   {
    "hour": "17",
    "label": "5 PM",
-   "count": 31
+   "count": 32
   },
   {
    "hour": "18",
    "label": "6 PM",
-   "count": 5
+   "count": 15
   },
   {
    "hour": "19",
@@ -187,7 +187,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 130,
+   "count": 155,
    "towns": [
     {
      "town": "Pensacola",
@@ -213,7 +213,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 217,
+   "count": 225,
    "towns": [
     {
      "town": "Milton",
@@ -225,7 +225,7 @@
     },
     {
      "town": "Jay",
-     "count": 20
+     "count": 21
     },
     {
      "town": "Gulf Breeze",
@@ -255,7 +255,7 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 24,
+   "count": 26,
    "towns": [
     {
      "town": "Fort Walton Beach",
@@ -297,7 +297,7 @@
   },
   {
    "county": "Walton County",
-   "count": 8,
+   "count": 10,
    "towns": [
     {
      "town": "DeFuniak Springs",
@@ -315,90 +315,50 @@
   }
  ],
  "countyCounts": {
-  "Escambia County": 130,
-  "Santa Rosa County": 217,
-  "Okaloosa County": 24,
-  "unassigned": 77,
-  "Bay County": 1,
-  "Walton County": 8
+  "unassigned": 53,
+  "Santa Rosa County": 225,
+  "Escambia County": 155,
+  "Okaloosa County": 26,
+  "Bay County": 3,
+  "Walton County": 10
  },
  "towns": {
-  "Brown Rd Pensacola": 1,
-  "Milton": 104,
-  "Lee Ln Pensacola": 1,
-  "Yancy Dr. Pace": 1,
-  "unresolved": 155,
-  "Spring Street Pace": 1,
+  "unresolved": 37,
+  "Jay": 21,
+  "Ludlow St Pensacola": 1,
+  "Pensacola": 143,
+  "Miramar Beach": 1,
+  "Milton": 155,
+  "Pace": 25,
+  "Niceville": 2,
   "Freeport": 2,
-  "D Milton": 2,
-  "Pensacola": 71,
-  "Baltic Ct Milton": 1,
-  "Giese Lane Pensacola": 1,
-  "Panama City Beach": 1,
+  "Cantonment": 9,
+  "Panama City Beach": 2,
   "Fort Lauderdale": 1,
-  "Cantonment": 7,
-  "Gulf Breeze": 4,
+  "Gulf Breeze": 11,
   "Century": 1,
-  "Blakmon Dr Jay": 1,
-  "Ave Pensacola": 1,
-  "Cody Lane Pensacola": 1,
-  "St Avenue Pensacola": 1,
-  "Hart Dr Pensacola": 1,
-  "Edgefield St. Pace": 1,
-  "Vera Street Pensacola": 1,
-  "Western Ln Milton": 1,
-  "Road Laurel Hill": 1,
-  "Hernandez St. Pensacola": 1,
-  "Vernon Street Pensacola": 1,
-  "Young St. Pensacola": 1,
-  "Krasnosky Ave Pensacola": 1,
-  "Ridge Ave Milton": 1,
-  "City Rd Milton": 1,
-  "Logan Ln Jay": 1,
-  "Hills Rd Pensacola": 1,
-  "Fairoaks Dr Pace": 1,
-  "Chumuckla Hwy Jay": 1,
-  "Blossom Rd. Milton": 1,
-  "Birch St. Milton": 1,
-  "Street Gulf Breeze": 1,
-  "Land Rd Milton": 1,
-  "Park Dr Pensacola": 1,
-  "Leon": 1,
-  "Jamesville Rd. Pensacola": 1,
-  "Brown Road Milton": 1,
-  "Patton Dr Pensacola": 1,
-  "Creek Drive Pace": 1,
-  "Santa Rosa County": 1,
-  "Sunbeam Street Milton": 1,
-  "Butternut Dr. Milton": 1,
-  "Altamont Rd Pensacola": 1,
-  "Whitfield Rd. Milton": 1,
-  "Circle Milton": 1,
-  "Mykell Dr Milton": 1,
-  "Lake Road. Munson.": 1,
-  "Rd Defuniak Springs": 1,
-  "Orange Ave. Pensacola": 1,
-  "Butternut Dr Milton": 1,
-  "Wheel Cir Milton": 1,
-  "Mystic Ln Pensacola": 1,
-  "Alex Dr Milton": 1,
-  "Excelsior Drive Pensacola": 1,
-  "Lane. Gulf Breeze": 1,
-  "Sunray St Milton": 1,
-  "Jay": 11,
-  "Pace": 15,
-  "Fort Walton Beach": 4,
-  "Crestview": 4,
+  "Crestview": 6,
+  "Mary Esther": 2,
+  "Fort Walton Beach": 8,
+  "Beverly Hills": 1,
+  "Live Oak": 2,
+  "Laurel Hill": 2,
+  "DeFuniak Springs": 6,
+  "Altona": 1,
+  "Bristol": 1,
+  "North Redington Beach": 1,
+  "Jacksonville": 1,
+  "Ponce De Leon": 3,
+  "Navarre": 9,
+  "Munson": 2,
+  "Shalimar": 2,
   "Santa Rosa Beach": 2,
-  "Navarre": 5,
-  "Shalimar": 1,
-  "Ponce De Leon": 1,
-  "Mary Esther": 1,
+  "Panama City": 1,
+  "Cottondale": 1,
   "Vernon": 1,
   "Graceville": 1,
   "Chiefland": 1,
   "Westville": 1,
-  "DeFuniak Springs": 3,
   "Flomaton": 1,
   "Baker": 1,
   "Ensley": 1,
@@ -409,23 +369,23 @@
  "sizes": [
   {
    "label": "1",
-   "count": 132
+   "count": 139
   },
   {
    "label": "2",
-   "count": 120
+   "count": 122
   },
   {
    "label": "3",
-   "count": 77
+   "count": 81
   },
   {
    "label": "4",
-   "count": 60
+   "count": 61
   },
   {
    "label": "5",
-   "count": 33
+   "count": 34
   },
   {
    "label": "6",
@@ -443,12 +403,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 252,
+   "households": 261,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 192,
+   "households": 198,
    "rigs": 300
   },
   {
@@ -463,26 +423,40 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 938,
+ "daDestroyedMajor": 942,
  "daBreakdown": {
   "fdem": 342,
   "escambia_ia": 366,
-  "red_cross": 230
+  "red_cross": 234
  },
  "signals": [
-  "938 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "457 families asking for help — 1232 people",
-  "242 households with medical conditions"
+  "942 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "472 families asking for help — 1264 people",
+  "251 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "3 RVs delivered",
-  "146 families site-ready for immediate placement",
+  "152 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.49235,
+   "lon": -87.28478,
+   "town": "Ludlow St Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.43345,
    "lon": -87.26339,
