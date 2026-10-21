@@ -191,7 +191,7 @@
    "towns": [
     {
      "town": "Pensacola",
-     "count": 151
+     "count": 152
     },
     {
      "town": "Cantonment",
@@ -462,6 +462,21 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.46078,
+   "lon": -87.30799,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.41011,
    "lon": -87.25679,
@@ -6236,7 +6251,8 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 19"
   },
   {
    "lat": 30.54237,
@@ -6593,6 +6609,23 @@
    "da": null
   },
   {
+   "lat": 30.63027,
+   "lon": -87.08844,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 16",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null,
+   "delivered": "Oct 19"
+  },
+  {
    "lat": 30.59812,
    "lon": -87.0813,
    "town": "Milton",
@@ -6618,7 +6651,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 19"
   },
   {
    "lat": 30.59081,
