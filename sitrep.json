@@ -1,9 +1,9 @@
 {
- "verified_as_of": "2026-10-21T21:35:00.300982+00:00",
+ "verified_as_of": "Oct 21, 2026 · 6:19 PM CT",
  "requestsLast24h": 51,
  "tiles": {
-  "people": 1383,
-  "requests": 525,
+  "people": 1392,
+  "requests": 529,
   "resources": 359,
   "delivered": 3
  },
@@ -11,56 +11,56 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 397,
-   "denominator": 525,
+   "count": 400,
+   "denominator": 529,
    "pct": 75.6
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 283,
-   "denominator": 525,
+   "count": 285,
+   "denominator": 529,
    "pct": 53.9
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 76,
-   "denominator": 525,
-   "pct": 14.5
+   "denominator": 529,
+   "pct": 14.4
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 53,
-   "denominator": 525,
-   "pct": 10.1
+   "denominator": 529,
+   "pct": 10.0
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 167,
-   "denominator": 525,
-   "pct": 31.8
+   "count": 169,
+   "denominator": 529,
+   "pct": 31.9
   }
  ],
  "chips": {
   "uninsured_pct": 75.6,
   "medical_pct": 53.9,
-  "veteran_pct": 14.5,
-  "first_responder_pct": 10.1,
-  "site_ready_pct": 31.8
+  "veteran_pct": 14.4,
+  "first_responder_pct": 10.0,
+  "site_ready_pct": 31.9
  },
- "intakes": 525,
- "people": 1383,
- "medical": 283,
+ "intakes": 529,
+ "people": 1392,
+ "medical": 285,
  "veterans": 76,
  "firstResponders": 53,
  "resources": 359,
- "siteReady": 167,
- "canTow": 153,
- "own": 308,
- "insured": 128,
+ "siteReady": 169,
+ "canTow": 155,
+ "own": 309,
+ "insured": 129,
  "veteranFr": 112,
  "hours": [
   {
@@ -151,7 +151,7 @@
   {
    "hour": "17",
    "label": "5 PM",
-   "count": 32
+   "count": 36
   },
   {
    "hour": "18",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 175,
+   "count": 177,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 154
+     "count": 155
     },
     {
      "town": "Cantonment",
@@ -199,7 +199,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 6
+     "count": 7
     },
     {
      "town": "St Pensacola",
@@ -225,11 +225,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 241,
+   "count": 243,
    "towns": [
     {
      "town": "Milton",
-     "count": 165
+     "count": 167
     },
     {
      "town": "Pace",
@@ -335,18 +335,18 @@
   }
  ],
  "countyCounts": {
-  "Escambia County": 175,
-  "Santa Rosa County": 241,
+  "Escambia County": 177,
+  "Santa Rosa County": 243,
   "unassigned": 62,
   "Okaloosa County": 30,
   "Walton County": 12,
   "Bay County": 5
  },
  "towns": {
-  "Pensacola": 154,
-  "Milton": 165,
+  "unresolved": 56,
+  "Milton": 167,
+  "Pensacola": 155,
   "Pace": 26,
-  "unresolved": 55,
   "Navarre": 10,
   "St Pensacola": 1,
   "Crestview": 7,
@@ -393,7 +393,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 156
+   "count": 159
   },
   {
    "label": "2",
@@ -413,7 +413,7 @@
   },
   {
    "label": "6",
-   "count": 23
+   "count": 24
   },
   {
    "label": "7",
@@ -427,12 +427,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 298,
+   "households": 301,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 214,
+   "households": 215,
    "rigs": 300
   },
   {
@@ -455,18 +455,70 @@
  },
  "signals": [
   "1279 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "525 families asking for help — 1383 people",
-  "283 households with medical conditions"
+  "529 families asking for help — 1392 people",
+  "285 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "3 RVs delivered",
-  "167 families site-ready for immediate placement",
+  "169 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.52714,
+   "lon": -87.30568,
+   "town": "",
+   "county": "Escambia",
+   "n": 6,
+   "recv": "Oct 21",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.70124,
+   "lon": -86.97885,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.46462,
+   "lon": -87.26394,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62773,
+   "lon": -87.02477,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 21",
+   "flags": [
+    "Can tow",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.39967,
    "lon": -87.25711,
