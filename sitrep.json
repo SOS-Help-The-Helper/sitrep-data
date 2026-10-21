@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 20, 2026 · 9:07 PM CT",
+ "verified_as_of": "Oct 20, 2026 · 9:25 PM CT",
  "requestsLast24h": 66,
  "tiles": {
   "people": 1267,
@@ -195,7 +195,7 @@
     },
     {
      "town": "Cantonment",
-     "count": 9
+     "count": 10
     },
     {
      "town": "Cervantes St Pensacola",
@@ -432,14 +432,14 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 942,
+ "daDestroyedMajor": 941,
  "daBreakdown": {
   "fdem": 342,
   "escambia_ia": 366,
-  "red_cross": 234
+  "red_cross": 233
  },
  "signals": [
-  "942 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "941 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
   "474 families asking for help — 1267 people",
   "252 households with medical conditions"
  ],
