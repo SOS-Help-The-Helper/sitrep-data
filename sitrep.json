@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 20, 2026 · 6:52 PM CT",
+ "verified_as_of": "Oct 20, 2026 · 7:19 PM CT",
  "requestsLast24h": 65,
  "tiles": {
   "people": 1264,
@@ -443,6 +443,32 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.41414,
+   "lon": -87.25138,
+   "town": "",
+   "county": "",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.83095,
+   "lon": -87.13391,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.49235,
    "lon": -87.28478,
