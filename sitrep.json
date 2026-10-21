@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 21, 2026 · 1:31 PM CT",
- "requestsLast24h": 48,
+ "verified_as_of": "Oct 21, 2026 · 2:24 PM CT",
+ "requestsLast24h": 50,
  "tiles": {
-  "people": 1369,
-  "requests": 516,
+  "people": 1375,
+  "requests": 520,
   "resources": 359,
   "delivered": 3
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 388,
-   "denominator": 516,
-   "pct": 75.2
+   "count": 392,
+   "denominator": 520,
+   "pct": 75.4
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 276,
-   "denominator": 516,
-   "pct": 53.5
+   "count": 279,
+   "denominator": 520,
+   "pct": 53.7
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 72,
-   "denominator": 516,
-   "pct": 14.0
+   "count": 74,
+   "denominator": 520,
+   "pct": 14.2
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 53,
-   "denominator": 516,
-   "pct": 10.3
+   "denominator": 520,
+   "pct": 10.2
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 167,
-   "denominator": 516,
-   "pct": 32.4
+   "denominator": 520,
+   "pct": 32.1
   }
  ],
  "chips": {
-  "uninsured_pct": 75.2,
-  "medical_pct": 53.5,
-  "veteran_pct": 14.0,
-  "first_responder_pct": 10.3,
-  "site_ready_pct": 32.4
+  "uninsured_pct": 75.4,
+  "medical_pct": 53.7,
+  "veteran_pct": 14.2,
+  "first_responder_pct": 10.2,
+  "site_ready_pct": 32.1
  },
- "intakes": 516,
- "people": 1369,
- "medical": 276,
- "veterans": 72,
+ "intakes": 520,
+ "people": 1375,
+ "medical": 279,
+ "veterans": 74,
  "firstResponders": 53,
  "resources": 359,
  "siteReady": 167,
- "canTow": 151,
- "own": 302,
+ "canTow": 152,
+ "own": 304,
  "insured": 128,
- "veteranFr": 108,
+ "veteranFr": 110,
  "hours": [
   {
    "hour": "00",
@@ -131,12 +131,12 @@
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 26
+   "count": 27
   },
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 8
+   "count": 11
   },
   {
    "hour": "15",
@@ -187,7 +187,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 172,
+   "count": 173,
    "towns": [
     {
      "town": "Pensacola",
@@ -199,7 +199,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 5
+     "count": 6
     },
     {
      "town": "St Pensacola",
@@ -225,11 +225,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 235,
+   "count": 238,
    "towns": [
     {
      "town": "Milton",
-     "count": 162
+     "count": 163
     },
     {
      "town": "Pace",
@@ -245,11 +245,11 @@
     },
     {
      "town": "Navarre",
-     "count": 9
+     "count": 10
     },
     {
      "town": "Town not yet confirmed",
-     "count": 3
+     "count": 4
     },
     {
      "town": "Bristol",
@@ -335,18 +335,19 @@
   }
  ],
  "countyCounts": {
-  "Escambia County": 172,
-  "Santa Rosa County": 235,
+  "Santa Rosa County": 238,
+  "Escambia County": 173,
   "unassigned": 62,
   "Okaloosa County": 30,
   "Walton County": 12,
   "Bay County": 5
  },
  "towns": {
+  "Milton": 163,
+  "unresolved": 55,
+  "Navarre": 10,
   "St Pensacola": 1,
-  "Milton": 162,
   "Pensacola": 152,
-  "unresolved": 53,
   "Crestview": 7,
   "Mary Esther": 3,
   "Freeport": 3,
@@ -374,7 +375,6 @@
   "Bristol": 1,
   "North Redington Beach": 1,
   "Jacksonville": 1,
-  "Navarre": 9,
   "Munson": 2,
   "Shalimar": 2,
   "Santa Rosa Beach": 2,
@@ -393,11 +393,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 150
+   "count": 152
   },
   {
    "label": "2",
-   "count": 140
+   "count": 142
   },
   {
    "label": "3",
@@ -427,7 +427,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 290,
+   "households": 294,
    "rigs": 59
   },
   {
@@ -447,16 +447,16 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 1541,
+ "daDestroyedMajor": 1275,
  "daBreakdown": {
-  "fdem": 934,
+  "fdem": 665,
   "escambia_ia": 366,
-  "red_cross": 241
+  "red_cross": 244
  },
  "signals": [
-  "1541 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "516 families asking for help — 1369 people",
-  "276 households with medical conditions"
+  "1275 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "520 families asking for help — 1375 people",
+  "279 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -467,6 +467,58 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.60521,
+   "lon": -87.1687,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60521,
+   "lon": -87.1687,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.50277,
+   "lon": -87.34795,
+   "town": "",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.41611,
+   "lon": -86.81416,
+   "town": "Navarre",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 21",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
   {
    "lat": 30.54254,
    "lon": -87.26088,
