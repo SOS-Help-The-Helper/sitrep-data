@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 21, 2026 · 8:26 AM CT",
- "requestsLast24h": 43,
+ "verified_as_of": "Oct 21, 2026 · 9:15 AM CT",
+ "requestsLast24h": 38,
  "tiles": {
-  "people": 1295,
-  "requests": 488,
+  "people": 1299,
+  "requests": 489,
   "resources": 359,
   "delivered": 3
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 364,
-   "denominator": 488,
+   "count": 365,
+   "denominator": 489,
    "pct": 74.6
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 263,
-   "denominator": 488,
-   "pct": 53.9
+   "denominator": 489,
+   "pct": 53.8
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 67,
-   "denominator": 488,
+   "denominator": 489,
    "pct": 13.7
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 51,
-   "denominator": 488,
-   "pct": 10.5
+   "denominator": 489,
+   "pct": 10.4
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 160,
-   "denominator": 488,
-   "pct": 32.8
+   "count": 161,
+   "denominator": 489,
+   "pct": 32.9
   }
  ],
  "chips": {
   "uninsured_pct": 74.6,
-  "medical_pct": 53.9,
+  "medical_pct": 53.8,
   "veteran_pct": 13.7,
-  "first_responder_pct": 10.5,
-  "site_ready_pct": 32.8
+  "first_responder_pct": 10.4,
+  "site_ready_pct": 32.9
  },
- "intakes": 488,
- "people": 1295,
+ "intakes": 489,
+ "people": 1299,
  "medical": 263,
  "veterans": 67,
  "firstResponders": 51,
  "resources": 359,
- "siteReady": 160,
+ "siteReady": 161,
  "canTow": 143,
- "own": 283,
+ "own": 284,
  "insured": 124,
  "veteranFr": 101,
  "hours": [
@@ -106,7 +106,7 @@
   {
    "hour": "08",
    "label": "8 AM",
-   "count": 3
+   "count": 4
   },
   {
    "hour": "09",
@@ -191,7 +191,7 @@
    "towns": [
     {
      "town": "Pensacola",
-     "count": 144
+     "count": 145
     },
     {
      "town": "Cantonment",
@@ -221,7 +221,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 230,
+   "count": 231,
    "towns": [
     {
      "town": "Milton",
@@ -245,7 +245,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 2
+     "count": 3
     },
     {
      "town": "Bristol",
@@ -323,7 +323,7 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 230,
+  "Santa Rosa County": 231,
   "unassigned": 57,
   "Escambia County": 160,
   "Bay County": 5,
@@ -331,8 +331,8 @@
   "Walton County": 10
  },
  "towns": {
+  "unresolved": 44,
   "Milton": 158,
-  "unresolved": 43,
   "Ponce De Leon": 4,
   "Panama City": 2,
   "Leon": 1,
@@ -391,7 +391,7 @@
   },
   {
    "label": "4",
-   "count": 62
+   "count": 63
   },
   {
    "label": "5",
@@ -418,7 +418,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 200,
+   "households": 201,
    "rigs": 300
   },
   {
@@ -441,18 +441,31 @@
  },
  "signals": [
   "941 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "488 families asking for help — 1295 people",
+  "489 families asking for help — 1299 people",
   "263 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "3 RVs delivered",
-  "160 families site-ready for immediate placement",
+  "161 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.59539,
+   "lon": -87.05977,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 21",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.68007,
    "lon": -87.05194,
