@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 21, 2026 · 9:15 AM CT",
- "requestsLast24h": 38,
+ "verified_as_of": "Oct 21, 2026 · 9:35 AM CT",
+ "requestsLast24h": 37,
  "tiles": {
-  "people": 1299,
-  "requests": 489,
+  "people": 1300,
+  "requests": 490,
   "resources": 359,
   "delivered": 3
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 365,
-   "denominator": 489,
-   "pct": 74.6
+   "count": 366,
+   "denominator": 490,
+   "pct": 74.7
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 263,
-   "denominator": 489,
-   "pct": 53.8
+   "count": 264,
+   "denominator": 490,
+   "pct": 53.9
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 67,
-   "denominator": 489,
+   "denominator": 490,
    "pct": 13.7
   },
   {
    "key": "first_responder",
    "label": "First Responders",
-   "count": 51,
-   "denominator": 489,
-   "pct": 10.4
+   "count": 52,
+   "denominator": 490,
+   "pct": 10.6
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 161,
-   "denominator": 489,
+   "denominator": 490,
    "pct": 32.9
   }
  ],
  "chips": {
-  "uninsured_pct": 74.6,
-  "medical_pct": 53.8,
+  "uninsured_pct": 74.7,
+  "medical_pct": 53.9,
   "veteran_pct": 13.7,
-  "first_responder_pct": 10.4,
+  "first_responder_pct": 10.6,
   "site_ready_pct": 32.9
  },
- "intakes": 489,
- "people": 1299,
- "medical": 263,
+ "intakes": 490,
+ "people": 1300,
+ "medical": 264,
  "veterans": 67,
- "firstResponders": 51,
+ "firstResponders": 52,
  "resources": 359,
  "siteReady": 161,
  "canTow": 143,
- "own": 284,
+ "own": 285,
  "insured": 124,
- "veteranFr": 101,
+ "veteranFr": 102,
  "hours": [
   {
    "hour": "00",
@@ -111,7 +111,7 @@
   {
    "hour": "09",
    "label": "9 AM",
-   "count": 8
+   "count": 9
   },
   {
    "hour": "10",
@@ -187,7 +187,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 160,
+   "count": 161,
    "towns": [
     {
      "town": "Pensacola",
@@ -323,20 +323,20 @@
   }
  ],
  "countyCounts": {
+  "Escambia County": 161,
   "Santa Rosa County": 231,
   "unassigned": 57,
-  "Escambia County": 160,
   "Bay County": 5,
   "Okaloosa County": 26,
   "Walton County": 10
  },
  "towns": {
+  "Pensacola": 145,
   "unresolved": 44,
   "Milton": 158,
   "Ponce De Leon": 4,
   "Panama City": 2,
   "Leon": 1,
-  "Pensacola": 144,
   "Gulf Breeze": 12,
   "Cantonment": 10,
   "Cervantes St Pensacola": 1,
@@ -379,7 +379,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 145
+   "count": 146
   },
   {
    "label": "2",
@@ -413,7 +413,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 275,
+   "households": 276,
    "rigs": 59
   },
   {
@@ -433,16 +433,16 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 941,
+ "daDestroyedMajor": 1535,
  "daBreakdown": {
-  "fdem": 342,
+  "fdem": 934,
   "escambia_ia": 366,
-  "red_cross": 233
+  "red_cross": 235
  },
  "signals": [
-  "941 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "489 families asking for help — 1299 people",
-  "263 households with medical conditions"
+  "1535 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "490 families asking for help — 1300 people",
+  "264 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -453,6 +453,20 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.44528,
+   "lon": -87.2479,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.59539,
    "lon": -87.05977,
