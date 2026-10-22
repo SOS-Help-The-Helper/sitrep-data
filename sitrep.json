@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 22, 2026 · 5:22 PM CT",
- "requestsLast24h": 38,
+ "verified_as_of": "Oct 22, 2026 · 6:03 PM CT",
+ "requestsLast24h": 40,
  "tiles": {
-  "people": 1492,
-  "requests": 572,
+  "people": 1496,
+  "requests": 574,
   "resources": 359,
   "delivered": 3
  },
@@ -11,54 +11,54 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 439,
-   "denominator": 572,
-   "pct": 76.7
+   "count": 441,
+   "denominator": 574,
+   "pct": 76.8
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 314,
-   "denominator": 572,
-   "pct": 54.9
+   "denominator": 574,
+   "pct": 54.7
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 87,
-   "denominator": 572,
+   "denominator": 574,
    "pct": 15.2
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 57,
-   "denominator": 572,
-   "pct": 10.0
+   "denominator": 574,
+   "pct": 9.9
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 184,
-   "denominator": 572,
+   "count": 185,
+   "denominator": 574,
    "pct": 32.2
   }
  ],
  "chips": {
-  "uninsured_pct": 76.7,
-  "medical_pct": 54.9,
+  "uninsured_pct": 76.8,
+  "medical_pct": 54.7,
   "veteran_pct": 15.2,
-  "first_responder_pct": 10.0,
+  "first_responder_pct": 9.9,
   "site_ready_pct": 32.2
  },
- "intakes": 572,
- "people": 1492,
+ "intakes": 574,
+ "people": 1496,
  "medical": 314,
  "veterans": 87,
  "firstResponders": 57,
  "resources": 359,
- "siteReady": 184,
- "canTow": 164,
+ "siteReady": 185,
+ "canTow": 165,
  "own": 335,
  "insured": 133,
  "veteranFr": 123,
@@ -151,7 +151,7 @@
   {
    "hour": "17",
    "label": "5 PM",
-   "count": 36
+   "count": 38
   },
   {
    "hour": "18",
@@ -351,18 +351,19 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 72,
   "Santa Rosa County": 264,
   "Okaloosa County": 34,
-  "unassigned": 70,
   "Escambia County": 184,
   "Walton County": 15,
   "Bay County": 5
  },
  "towns": {
+  "Hollywood": 1,
+  "unresolved": 63,
   "Milton": 182,
   "Crestview": 11,
   "Freeport": 4,
-  "unresolved": 62,
   "Ft Walton Beach": 1,
   "Navarre": 11,
   "Pensacola": 160,
@@ -416,7 +417,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 176
+   "count": 177
   },
   {
    "label": "2",
@@ -424,7 +425,7 @@
   },
   {
    "label": "3",
-   "count": 92
+   "count": 93
   },
   {
    "label": "4",
@@ -450,12 +451,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 330,
+   "households": 331,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 228,
+   "households": 229,
    "rigs": 300
   },
   {
@@ -478,18 +479,28 @@
  },
  "signals": [
   "1303 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "572 families asking for help — 1492 people",
+  "574 families asking for help — 1496 people",
   "314 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "3 RVs delivered",
-  "184 families site-ready for immediate placement",
+  "185 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.61218,
+   "lon": -87.1679,
+   "town": "",
+   "county": "",
+   "n": 3,
+   "recv": "Oct 22",
+   "flags": [],
+   "da": null
+  },
   {
    "lat": 30.77048,
    "lon": -87.0586,
