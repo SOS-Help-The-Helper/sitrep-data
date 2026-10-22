@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 22, 2026 · 6:31 AM CT",
- "requestsLast24h": 40,
+ "verified_as_of": "Oct 22, 2026 · 7:09 AM CT",
+ "requestsLast24h": 30,
  "tiles": {
-  "people": 1411,
-  "requests": 539,
+  "people": 1413,
+  "requests": 540,
   "resources": 359,
   "delivered": 3
  },
@@ -11,54 +11,54 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 409,
-   "denominator": 539,
+   "count": 410,
+   "denominator": 540,
    "pct": 75.9
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 290,
-   "denominator": 539,
-   "pct": 53.8
+   "denominator": 540,
+   "pct": 53.7
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 79,
-   "denominator": 539,
-   "pct": 14.7
+   "denominator": 540,
+   "pct": 14.6
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 53,
-   "denominator": 539,
+   "denominator": 540,
    "pct": 9.8
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 170,
-   "denominator": 539,
-   "pct": 31.5
+   "count": 171,
+   "denominator": 540,
+   "pct": 31.7
   }
  ],
  "chips": {
   "uninsured_pct": 75.9,
-  "medical_pct": 53.8,
-  "veteran_pct": 14.7,
+  "medical_pct": 53.7,
+  "veteran_pct": 14.6,
   "first_responder_pct": 9.8,
-  "site_ready_pct": 31.5
+  "site_ready_pct": 31.7
  },
- "intakes": 539,
- "people": 1411,
+ "intakes": 540,
+ "people": 1413,
  "medical": 290,
  "veterans": 79,
  "firstResponders": 53,
  "resources": 359,
- "siteReady": 170,
- "canTow": 156,
+ "siteReady": 171,
+ "canTow": 157,
  "own": 316,
  "insured": 130,
  "veteranFr": 115,
@@ -96,7 +96,7 @@
   {
    "hour": "06",
    "label": "6 AM",
-   "count": 7
+   "count": 8
   },
   {
    "hour": "07",
@@ -343,17 +343,17 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 65,
   "Santa Rosa County": 249,
-  "unassigned": 64,
   "Escambia County": 179,
   "Okaloosa County": 30,
   "Walton County": 12,
   "Bay County": 5
  },
  "towns": {
+  "unresolved": 59,
   "Milton": 171,
   "Gloversville": 1,
-  "unresolved": 58,
   "Karen Drive Milton": 1,
   "Pace": 27,
   "Cross Street Pensacola": 1,
@@ -408,7 +408,7 @@
   },
   {
    "label": "2",
-   "count": 143
+   "count": 144
   },
   {
    "label": "3",
@@ -438,7 +438,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 307,
+   "households": 308,
    "rigs": 59
   },
   {
@@ -466,18 +466,31 @@
  },
  "signals": [
   "1279 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "539 families asking for help — 1411 people",
+  "540 families asking for help — 1413 people",
   "290 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "3 RVs delivered",
-  "170 families site-ready for immediate placement",
+  "171 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.7206,
+   "lon": -87.39139,
+   "town": "",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 22",
+   "flags": [
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
   {
    "lat": 30.61944,
    "lon": -87.03807,
