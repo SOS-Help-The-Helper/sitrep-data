@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 21, 2026 · 9:07 PM CT",
- "requestsLast24h": 51,
+ "verified_as_of": "Oct 21, 2026 · 11:42 PM CT",
+ "requestsLast24h": 53,
  "tiles": {
-  "people": 1402,
-  "requests": 534,
+  "people": 1406,
+  "requests": 536,
   "resources": 359,
   "delivered": 3
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 404,
-   "denominator": 534,
+   "count": 406,
+   "denominator": 536,
    "pct": 75.7
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 288,
-   "denominator": 534,
+   "count": 289,
+   "denominator": 536,
    "pct": 53.9
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 79,
-   "denominator": 534,
-   "pct": 14.8
+   "denominator": 536,
+   "pct": 14.7
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 53,
-   "denominator": 534,
+   "denominator": 536,
    "pct": 9.9
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 169,
-   "denominator": 534,
-   "pct": 31.6
+   "denominator": 536,
+   "pct": 31.5
   }
  ],
  "chips": {
   "uninsured_pct": 75.7,
   "medical_pct": 53.9,
-  "veteran_pct": 14.8,
+  "veteran_pct": 14.7,
   "first_responder_pct": 9.9,
-  "site_ready_pct": 31.6
+  "site_ready_pct": 31.5
  },
- "intakes": 534,
- "people": 1402,
- "medical": 288,
+ "intakes": 536,
+ "people": 1406,
+ "medical": 289,
  "veterans": 79,
  "firstResponders": 53,
  "resources": 359,
  "siteReady": 169,
  "canTow": 155,
- "own": 311,
+ "own": 313,
  "insured": 130,
  "veteranFr": 115,
  "hours": [
@@ -181,7 +181,7 @@
   {
    "hour": "23",
    "label": "11 PM",
-   "count": 1
+   "count": 3
   }
  ],
  "counties": [
@@ -229,7 +229,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 246,
+   "count": 247,
    "towns": [
     {
      "town": "Milton",
@@ -254,6 +254,10 @@
     {
      "town": "Town not yet confirmed",
      "count": 4
+    },
+    {
+     "town": "Karen Drive Milton",
+     "count": 1
     },
     {
      "town": "Bristol",
@@ -339,15 +343,16 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 63,
+  "Santa Rosa County": 247,
   "Escambia County": 179,
-  "Santa Rosa County": 246,
-  "unassigned": 62,
   "Okaloosa County": 30,
   "Walton County": 12,
   "Bay County": 5
  },
  "towns": {
-  "unresolved": 57,
+  "unresolved": 58,
+  "Karen Drive Milton": 1,
   "Pace": 27,
   "Cross Street Pensacola": 1,
   "Milton": 169,
@@ -398,7 +403,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 161
+   "count": 162
   },
   {
    "label": "2",
@@ -406,7 +411,7 @@
   },
   {
    "label": "3",
-   "count": 88
+   "count": 89
   },
   {
    "label": "4",
@@ -432,12 +437,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 304,
+   "households": 305,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 217,
+   "households": 218,
    "rigs": 300
   },
   {
@@ -460,8 +465,8 @@
  },
  "signals": [
   "1279 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "534 families asking for help — 1402 people",
-  "288 households with medical conditions"
+  "536 families asking for help — 1406 people",
+  "289 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -472,6 +477,18 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.63242,
+   "lon": -86.96449,
+   "town": "Karen Drive Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 21",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.45538,
    "lon": -87.291,
