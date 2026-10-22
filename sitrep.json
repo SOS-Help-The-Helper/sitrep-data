@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 22, 2026 · 1:22 PM CT",
+ "verified_as_of": "Oct 22, 2026 · 2:08 PM CT",
  "requestsLast24h": 33,
  "tiles": {
-  "people": 1474,
-  "requests": 563,
+  "people": 1476,
+  "requests": 565,
   "resources": 359,
   "delivered": 3
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 430,
-   "denominator": 563,
-   "pct": 76.4
+   "count": 432,
+   "denominator": 565,
+   "pct": 76.5
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 309,
-   "denominator": 563,
-   "pct": 54.9
+   "denominator": 565,
+   "pct": 54.7
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 87,
-   "denominator": 563,
-   "pct": 15.5
+   "denominator": 565,
+   "pct": 15.4
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 57,
-   "denominator": 563,
+   "denominator": 565,
    "pct": 10.1
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 184,
-   "denominator": 563,
-   "pct": 32.7
+   "denominator": 565,
+   "pct": 32.6
   }
  ],
  "chips": {
-  "uninsured_pct": 76.4,
-  "medical_pct": 54.9,
-  "veteran_pct": 15.5,
+  "uninsured_pct": 76.5,
+  "medical_pct": 54.7,
+  "veteran_pct": 15.4,
   "first_responder_pct": 10.1,
-  "site_ready_pct": 32.7
+  "site_ready_pct": 32.6
  },
- "intakes": 563,
- "people": 1474,
+ "intakes": 565,
+ "people": 1476,
  "medical": 309,
  "veterans": 87,
  "firstResponders": 57,
  "resources": 359,
  "siteReady": 184,
  "canTow": 164,
- "own": 329,
+ "own": 330,
  "insured": 133,
  "veteranFr": 123,
  "hours": [
@@ -131,7 +131,7 @@
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 27
+   "count": 29
   },
   {
    "hour": "14",
@@ -279,15 +279,15 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 30,
+   "count": 32,
    "towns": [
+    {
+     "town": "Crestview",
+     "count": 9
+    },
     {
      "town": "Fort Walton Beach",
      "count": 8
-    },
-    {
-     "town": "Crestview",
-     "count": 7
     },
     {
      "town": "Town not yet confirmed",
@@ -351,14 +351,15 @@
   }
  ],
  "countyCounts": {
+  "Okaloosa County": 32,
   "Santa Rosa County": 262,
   "Escambia County": 184,
   "unassigned": 67,
   "Walton County": 15,
-  "Okaloosa County": 30,
   "Bay County": 5
  },
  "towns": {
+  "Crestview": 9,
   "Navarre": 11,
   "Pensacola": 160,
   "Cantonement": 1,
@@ -372,7 +373,6 @@
   "Karen Drive Milton": 1,
   "Cross Street Pensacola": 1,
   "St Pensacola": 1,
-  "Crestview": 7,
   "Mary Esther": 3,
   "Freeport": 3,
   "Holt": 1,
@@ -415,7 +415,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 171
+   "count": 173
   },
   {
    "label": "2",
@@ -449,7 +449,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 323,
+   "households": 325,
    "rigs": 59
   },
   {
@@ -469,15 +469,15 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 1290,
+ "daDestroyedMajor": 1293,
  "daBreakdown": {
   "fdem": 665,
   "escambia_ia": 366,
-  "red_cross": 259
+  "red_cross": 262
  },
  "signals": [
-  "1290 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "563 families asking for help — 1474 people",
+  "1293 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "565 families asking for help — 1476 people",
   "309 households with medical conditions"
  ],
  "action": [
@@ -489,6 +489,28 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.77085,
+   "lon": -86.58492,
+   "town": "Crestview",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Oct 22",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.76213,
+   "lon": -86.57051,
+   "town": "Crestview",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Oct 22",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.39866,
    "lon": -86.93179,
