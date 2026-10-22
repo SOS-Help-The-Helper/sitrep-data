@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 22, 2026 · 4:36 PM CT",
- "requestsLast24h": 36,
+ "verified_as_of": "Oct 22, 2026 · 5:22 PM CT",
+ "requestsLast24h": 38,
  "tiles": {
-  "people": 1486,
-  "requests": 570,
+  "people": 1492,
+  "requests": 572,
   "resources": 359,
   "delivered": 3
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 437,
-   "denominator": 570,
+   "count": 439,
+   "denominator": 572,
    "pct": 76.7
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 313,
-   "denominator": 570,
+   "count": 314,
+   "denominator": 572,
    "pct": 54.9
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 87,
-   "denominator": 570,
-   "pct": 15.3
+   "denominator": 572,
+   "pct": 15.2
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 57,
-   "denominator": 570,
+   "denominator": 572,
    "pct": 10.0
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 184,
-   "denominator": 570,
-   "pct": 32.3
+   "denominator": 572,
+   "pct": 32.2
   }
  ],
  "chips": {
   "uninsured_pct": 76.7,
   "medical_pct": 54.9,
-  "veteran_pct": 15.3,
+  "veteran_pct": 15.2,
   "first_responder_pct": 10.0,
-  "site_ready_pct": 32.3
+  "site_ready_pct": 32.2
  },
- "intakes": 570,
- "people": 1486,
- "medical": 313,
+ "intakes": 572,
+ "people": 1492,
+ "medical": 314,
  "veterans": 87,
  "firstResponders": 57,
  "resources": 359,
  "siteReady": 184,
  "canTow": 164,
- "own": 333,
+ "own": 335,
  "insured": 133,
  "veteranFr": 123,
  "hours": [
@@ -146,7 +146,7 @@
   {
    "hour": "16",
    "label": "4 PM",
-   "count": 18
+   "count": 20
   },
   {
    "hour": "17",
@@ -229,11 +229,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 262,
+   "count": 264,
    "towns": [
     {
      "town": "Milton",
-     "count": 180
+     "count": 182
     },
     {
      "town": "Pace",
@@ -351,14 +351,15 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 264,
   "Okaloosa County": 34,
   "unassigned": 70,
-  "Santa Rosa County": 262,
   "Escambia County": 184,
   "Walton County": 15,
   "Bay County": 5
  },
  "towns": {
+  "Milton": 182,
   "Crestview": 11,
   "Freeport": 4,
   "unresolved": 62,
@@ -367,7 +368,6 @@
   "Pensacola": 160,
   "Cantonement": 1,
   "Santa Rosa": 1,
-  "Milton": 180,
   "Pace": 28,
   "PDL": 2,
   "Ponce De Leon": 5,
@@ -416,7 +416,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 175
+   "count": 176
   },
   {
    "label": "2",
@@ -432,7 +432,7 @@
   },
   {
    "label": "5",
-   "count": 39
+   "count": 40
   },
   {
    "label": "6",
@@ -450,12 +450,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 329,
+   "households": 330,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 227,
+   "households": 228,
    "rigs": 300
   },
   {
@@ -470,16 +470,16 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 1299,
+ "daDestroyedMajor": 1303,
  "daBreakdown": {
   "fdem": 665,
   "escambia_ia": 366,
-  "red_cross": 268
+  "red_cross": 272
  },
  "signals": [
-  "1299 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "570 families asking for help — 1486 people",
-  "313 households with medical conditions"
+  "1303 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "572 families asking for help — 1492 people",
+  "314 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -490,6 +490,31 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.77048,
+   "lon": -87.0586,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 22",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.67396,
+   "lon": -86.98589,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.4807,
    "lon": -86.12751,
