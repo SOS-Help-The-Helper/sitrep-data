@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 22, 2026 · 9:35 AM CT",
- "requestsLast24h": 28,
+ "verified_as_of": "Oct 22, 2026 · 10:23 AM CT",
+ "requestsLast24h": 30,
  "tiles": {
-  "people": 1432,
-  "requests": 547,
+  "people": 1450,
+  "requests": 553,
   "resources": 359,
   "delivered": 3
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 417,
-   "denominator": 547,
-   "pct": 76.2
+   "count": 421,
+   "denominator": 553,
+   "pct": 76.1
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 296,
-   "denominator": 547,
-   "pct": 54.1
+   "count": 302,
+   "denominator": 553,
+   "pct": 54.6
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 80,
-   "denominator": 547,
-   "pct": 14.6
+   "count": 83,
+   "denominator": 553,
+   "pct": 15.0
   },
   {
    "key": "first_responder",
    "label": "First Responders",
-   "count": 53,
-   "denominator": 547,
-   "pct": 9.7
+   "count": 55,
+   "denominator": 553,
+   "pct": 9.9
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 174,
-   "denominator": 547,
-   "pct": 31.8
+   "count": 178,
+   "denominator": 553,
+   "pct": 32.2
   }
  ],
  "chips": {
-  "uninsured_pct": 76.2,
-  "medical_pct": 54.1,
-  "veteran_pct": 14.6,
-  "first_responder_pct": 9.7,
-  "site_ready_pct": 31.8
+  "uninsured_pct": 76.1,
+  "medical_pct": 54.6,
+  "veteran_pct": 15.0,
+  "first_responder_pct": 9.9,
+  "site_ready_pct": 32.2
  },
- "intakes": 547,
- "people": 1432,
- "medical": 296,
- "veterans": 80,
- "firstResponders": 53,
+ "intakes": 553,
+ "people": 1450,
+ "medical": 302,
+ "veterans": 83,
+ "firstResponders": 55,
  "resources": 359,
- "siteReady": 174,
- "canTow": 160,
- "own": 320,
- "insured": 130,
- "veteranFr": 116,
+ "siteReady": 178,
+ "canTow": 161,
+ "own": 323,
+ "insured": 132,
+ "veteranFr": 119,
  "hours": [
   {
    "hour": "00",
@@ -116,7 +116,7 @@
   {
    "hour": "10",
    "label": "10 AM",
-   "count": 25
+   "count": 31
   },
   {
    "hour": "11",
@@ -229,11 +229,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 255,
+   "count": 257,
    "towns": [
     {
      "town": "Milton",
-     "count": 176
+     "count": 178
     },
     {
      "town": "Pace",
@@ -321,7 +321,7 @@
   },
   {
    "county": "Walton County",
-   "count": 12,
+   "count": 15,
    "towns": [
     {
      "town": "DeFuniak Springs",
@@ -329,6 +329,10 @@
     },
     {
      "town": "Ponce De Leon",
+     "count": 3
+    },
+    {
+     "town": "PDL",
      "count": 2
     },
     {
@@ -343,16 +347,18 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 255,
+  "Walton County": 15,
+  "Santa Rosa County": 257,
+  "unassigned": 66,
   "Escambia County": 180,
-  "unassigned": 65,
   "Okaloosa County": 30,
-  "Walton County": 12,
   "Bay County": 5
  },
  "towns": {
-  "Milton": 176,
-  "unresolved": 60,
+  "PDL": 2,
+  "Milton": 178,
+  "Ponce De Leon": 5,
+  "unresolved": 61,
   "Pensacola": 156,
   "Gloversville": 1,
   "Karen Drive Milton": 1,
@@ -365,7 +371,6 @@
   "Freeport": 3,
   "Holt": 1,
   "DeFuniak Springs": 7,
-  "Ponce De Leon": 4,
   "Panama City": 2,
   "Leon": 1,
   "Gulf Breeze": 12,
@@ -404,15 +409,15 @@
  "sizes": [
   {
    "label": "1",
-   "count": 166
+   "count": 167
   },
   {
    "label": "2",
-   "count": 147
+   "count": 149
   },
   {
    "label": "3",
-   "count": 91
+   "count": 92
   },
   {
    "label": "4",
@@ -420,7 +425,7 @@
   },
   {
    "label": "5",
-   "count": 35
+   "count": 37
   },
   {
    "label": "6",
@@ -438,12 +443,12 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 313,
+   "households": 316,
    "rigs": 59
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 220,
+   "households": 223,
    "rigs": 300
   },
   {
@@ -458,26 +463,96 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 1281,
+ "daDestroyedMajor": 1285,
  "daBreakdown": {
   "fdem": 665,
   "escambia_ia": 366,
-  "red_cross": 250
+  "red_cross": 254
  },
  "signals": [
-  "1281 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "547 families asking for help — 1432 people",
-  "296 households with medical conditions"
+  "1285 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "553 families asking for help — 1450 people",
+  "302 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "3 RVs delivered",
-  "174 families site-ready for immediate placement",
+  "178 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.84583,
+   "lon": -87.06154,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43426,
+   "lon": -85.97804,
+   "town": "Ponce De Leon",
+   "county": "Walton",
+   "n": 2,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42743,
+   "lon": -86.63838,
+   "town": "",
+   "county": "",
+   "n": 3,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.84583,
+   "lon": -87.06154,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43426,
+   "lon": -85.97804,
+   "town": "PDL",
+   "county": "Walton",
+   "n": 2,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Site ready"
+   ],
+   "da": null
+  },
   {
    "lat": 30.62604,
    "lon": -86.96478,
