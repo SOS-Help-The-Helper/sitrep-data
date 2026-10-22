@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 21, 2026 · 11:42 PM CT",
+ "verified_as_of": "Oct 22, 2026 · 12:11 AM CT",
  "requestsLast24h": 53,
  "tiles": {
-  "people": 1406,
-  "requests": 536,
+  "people": 1409,
+  "requests": 537,
   "resources": 359,
   "delivered": 3
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 406,
-   "denominator": 536,
-   "pct": 75.7
+   "count": 407,
+   "denominator": 537,
+   "pct": 75.8
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 289,
-   "denominator": 536,
-   "pct": 53.9
+   "count": 290,
+   "denominator": 537,
+   "pct": 54.0
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 79,
-   "denominator": 536,
+   "denominator": 537,
    "pct": 14.7
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 53,
-   "denominator": 536,
+   "denominator": 537,
    "pct": 9.9
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 169,
-   "denominator": 536,
+   "denominator": 537,
    "pct": 31.5
   }
  ],
  "chips": {
-  "uninsured_pct": 75.7,
-  "medical_pct": 53.9,
+  "uninsured_pct": 75.8,
+  "medical_pct": 54.0,
   "veteran_pct": 14.7,
   "first_responder_pct": 9.9,
   "site_ready_pct": 31.5
  },
- "intakes": 536,
- "people": 1406,
- "medical": 289,
+ "intakes": 537,
+ "people": 1409,
+ "medical": 290,
  "veterans": 79,
  "firstResponders": 53,
  "resources": 359,
  "siteReady": 169,
  "canTow": 155,
- "own": 313,
+ "own": 314,
  "insured": 130,
  "veteranFr": 115,
  "hours": [
@@ -181,7 +181,7 @@
   {
    "hour": "23",
    "label": "11 PM",
-   "count": 3
+   "count": 4
   }
  ],
  "counties": [
@@ -343,7 +343,7 @@
   }
  ],
  "countyCounts": {
-  "unassigned": 63,
+  "unassigned": 64,
   "Santa Rosa County": 247,
   "Escambia County": 179,
   "Okaloosa County": 30,
@@ -351,6 +351,7 @@
   "Bay County": 5
  },
  "towns": {
+  "Gloversville": 1,
   "unresolved": 58,
   "Karen Drive Milton": 1,
   "Pace": 27,
@@ -411,7 +412,7 @@
   },
   {
    "label": "3",
-   "count": 89
+   "count": 90
   },
   {
    "label": "4",
@@ -442,7 +443,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 218,
+   "households": 219,
    "rigs": 300
   },
   {
@@ -465,8 +466,8 @@
  },
  "signals": [
   "1279 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "536 families asking for help — 1406 people",
-  "289 households with medical conditions"
+  "537 families asking for help — 1409 people",
+  "290 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
