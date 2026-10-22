@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 22, 2026 · 2:21 PM CT",
+ "verified_as_of": "Oct 22, 2026 · 2:34 PM CT",
  "requestsLast24h": 34,
  "tiles": {
   "people": 1477,
@@ -489,6 +489,19 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.76213,
+   "lon": -86.57051,
+   "town": "Crestview",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.77085,
    "lon": -86.58492,
