@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 23, 2026 · 4:36 PM CT",
+ "verified_as_of": "Oct 23, 2026 · 5:04 PM CT",
  "requestsLast24h": 22,
  "tiles": {
   "people": 1557,
@@ -471,14 +471,14 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 1317,
+ "daDestroyedMajor": 1318,
  "daBreakdown": {
   "fdem": 665,
   "escambia_ia": 366,
-  "red_cross": 286
+  "red_cross": 287
  },
  "signals": [
-  "1317 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "1318 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
   "603 families asking for help — 1557 people",
   "332 households with medical conditions"
  ],
@@ -491,6 +491,16 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.52523,
+   "lon": -87.08723,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 23",
+   "flags": [],
+   "da": null
+  },
   {
    "lat": 30.61417,
    "lon": -87.16892,
