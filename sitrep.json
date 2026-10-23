@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 22, 2026 · 7:28 PM CT",
- "requestsLast24h": 41,
+ "verified_as_of": "Oct 22, 2026 · 8:37 PM CT",
+ "requestsLast24h": 42,
  "tiles": {
-  "people": 1502,
-  "requests": 578,
+  "people": 1503,
+  "requests": 579,
   "resources": 359,
   "delivered": 3
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 444,
-   "denominator": 578,
-   "pct": 76.8
+   "count": 445,
+   "denominator": 579,
+   "pct": 76.9
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 316,
-   "denominator": 578,
-   "pct": 54.7
+   "denominator": 579,
+   "pct": 54.6
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 87,
-   "denominator": 578,
-   "pct": 15.1
+   "denominator": 579,
+   "pct": 15.0
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 58,
-   "denominator": 578,
+   "denominator": 579,
    "pct": 10.0
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 185,
-   "denominator": 578,
+   "denominator": 579,
    "pct": 32.0
   }
  ],
  "chips": {
-  "uninsured_pct": 76.8,
-  "medical_pct": 54.7,
-  "veteran_pct": 15.1,
+  "uninsured_pct": 76.9,
+  "medical_pct": 54.6,
+  "veteran_pct": 15.0,
   "first_responder_pct": 10.0,
   "site_ready_pct": 32.0
  },
- "intakes": 578,
- "people": 1502,
+ "intakes": 579,
+ "people": 1503,
  "medical": 316,
  "veterans": 87,
  "firstResponders": 58,
  "resources": 359,
  "siteReady": 185,
  "canTow": 166,
- "own": 335,
+ "own": 336,
  "insured": 134,
  "veteranFr": 124,
  "hours": [
@@ -166,7 +166,7 @@
   {
    "hour": "20",
    "label": "8 PM",
-   "count": 7
+   "count": 8
   },
   {
    "hour": "21",
@@ -229,11 +229,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 266,
+   "count": 267,
    "towns": [
     {
      "town": "Milton",
-     "count": 184
+     "count": 185
     },
     {
      "town": "Pace",
@@ -351,7 +351,7 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 266,
+  "Santa Rosa County": 267,
   "Escambia County": 185,
   "Walton County": 16,
   "unassigned": 72,
@@ -359,7 +359,7 @@
   "Bay County": 5
  },
  "towns": {
-  "Milton": 184,
+  "Milton": 185,
   "Pensacola": 161,
   "Ponce De Leon": 6,
   "Hollywood": 1,
@@ -417,7 +417,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 179
+   "count": 180
   },
   {
    "label": "2",
@@ -451,7 +451,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 335,
+   "households": 336,
    "rigs": 59
   },
   {
@@ -479,7 +479,7 @@
  },
  "signals": [
   "1304 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "578 families asking for help — 1502 people",
+  "579 families asking for help — 1503 people",
   "316 households with medical conditions"
  ],
  "action": [
@@ -491,6 +491,18 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.49802,
+   "lon": -87.06418,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 22",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.6513,
    "lon": -87.05,
