@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 22, 2026 · 10:11 PM CT",
+ "verified_as_of": "Oct 22, 2026 · 10:51 PM CT",
  "requestsLast24h": 45,
  "tiles": {
-  "people": 1507,
-  "requests": 582,
+  "people": 1510,
+  "requests": 583,
   "resources": 359,
   "delivered": 3
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 448,
-   "denominator": 582,
+   "count": 449,
+   "denominator": 583,
    "pct": 77.0
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 319,
-   "denominator": 582,
-   "pct": 54.8
+   "denominator": 583,
+   "pct": 54.7
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 87,
-   "denominator": 582,
+   "denominator": 583,
    "pct": 14.9
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 58,
-   "denominator": 582,
-   "pct": 10.0
+   "denominator": 583,
+   "pct": 9.9
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 186,
-   "denominator": 582,
-   "pct": 32.0
+   "denominator": 583,
+   "pct": 31.9
   }
  ],
  "chips": {
   "uninsured_pct": 77.0,
-  "medical_pct": 54.8,
+  "medical_pct": 54.7,
   "veteran_pct": 14.9,
-  "first_responder_pct": 10.0,
-  "site_ready_pct": 32.0
+  "first_responder_pct": 9.9,
+  "site_ready_pct": 31.9
  },
- "intakes": 582,
- "people": 1507,
+ "intakes": 583,
+ "people": 1510,
  "medical": 319,
  "veterans": 87,
  "firstResponders": 58,
  "resources": 359,
  "siteReady": 186,
  "canTow": 168,
- "own": 338,
+ "own": 339,
  "insured": 134,
  "veteranFr": 124,
  "hours": [
@@ -176,7 +176,7 @@
   {
    "hour": "22",
    "label": "10 PM",
-   "count": 12
+   "count": 13
   },
   {
    "hour": "23",
@@ -229,7 +229,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 269,
+   "count": 270,
    "towns": [
     {
      "town": "Milton",
@@ -245,7 +245,7 @@
     },
     {
      "town": "Gulf Breeze",
-     "count": 12
+     "count": 13
     },
     {
      "town": "Navarre",
@@ -351,14 +351,15 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 270,
   "Escambia County": 186,
-  "Santa Rosa County": 269,
   "Walton County": 16,
   "unassigned": 72,
   "Okaloosa County": 34,
   "Bay County": 5
  },
  "towns": {
+  "Gulf Breeze": 13,
   "Pensacola": 162,
   "Pace": 29,
   "Milton": 186,
@@ -381,7 +382,6 @@
   "DeFuniak Springs": 7,
   "Panama City": 2,
   "Leon": 1,
-  "Gulf Breeze": 12,
   "Cantonment": 10,
   "Cervantes St Pensacola": 1,
   "Jay": 21,
@@ -425,7 +425,7 @@
   },
   {
    "label": "3",
-   "count": 93
+   "count": 94
   },
   {
    "label": "4",
@@ -456,7 +456,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 229,
+   "households": 230,
    "rigs": 300
   },
   {
@@ -479,7 +479,7 @@
  },
  "signals": [
   "1304 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "582 families asking for help — 1507 people",
+  "583 families asking for help — 1510 people",
   "319 households with medical conditions"
  ],
  "action": [
@@ -491,6 +491,18 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.4062,
+   "lon": -86.98892,
+   "town": "Gulf Breeze",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 22",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.41297,
    "lon": -87.25368,
