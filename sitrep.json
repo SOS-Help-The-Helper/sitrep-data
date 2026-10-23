@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 22, 2026 · 9:17 PM CT",
+ "verified_as_of": "Oct 22, 2026 · 9:49 PM CT",
  "requestsLast24h": 44,
  "tiles": {
   "people": 1506,
@@ -491,6 +491,19 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.62117,
+   "lon": -87.15616,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": null
+  },
   {
    "lat": 30.57905,
    "lon": -87.05164,
