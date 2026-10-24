@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 24, 2026 · 3:17 PM CT",
- "requestsLast24h": 17,
+ "verified_as_of": "Oct 24, 2026 · 4:26 PM CT",
+ "requestsLast24h": 18,
  "tiles": {
-  "people": 1605,
-  "requests": 621,
+  "people": 1614,
+  "requests": 622,
   "resources": 359,
   "delivered": 10
  },
@@ -12,56 +12,56 @@
    "key": "uninsured",
    "label": "Uninsured",
    "count": 479,
-   "denominator": 621,
-   "pct": 77.1
+   "denominator": 622,
+   "pct": 77.0
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 342,
-   "denominator": 621,
-   "pct": 55.1
+   "denominator": 622,
+   "pct": 55.0
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 94,
-   "denominator": 621,
-   "pct": 15.1
+   "count": 95,
+   "denominator": 622,
+   "pct": 15.3
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 66,
-   "denominator": 621,
+   "denominator": 622,
    "pct": 10.6
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 199,
-   "denominator": 621,
-   "pct": 32.0
+   "count": 200,
+   "denominator": 622,
+   "pct": 32.2
   }
  ],
  "chips": {
-  "uninsured_pct": 77.1,
-  "medical_pct": 55.1,
-  "veteran_pct": 15.1,
+  "uninsured_pct": 77.0,
+  "medical_pct": 55.0,
+  "veteran_pct": 15.3,
   "first_responder_pct": 10.6,
-  "site_ready_pct": 32.0
+  "site_ready_pct": 32.2
  },
- "intakes": 621,
- "people": 1605,
+ "intakes": 622,
+ "people": 1614,
  "medical": 342,
- "veterans": 94,
+ "veterans": 95,
  "firstResponders": 66,
  "resources": 359,
- "siteReady": 199,
+ "siteReady": 200,
  "canTow": 182,
- "own": 360,
- "insured": 142,
- "veteranFr": 136,
+ "own": 361,
+ "insured": 143,
+ "veteranFr": 137,
  "hours": [
   {
    "hour": "00",
@@ -146,7 +146,7 @@
   {
    "hour": "16",
    "label": "4 PM",
-   "count": 23
+   "count": 24
   },
   {
    "hour": "17",
@@ -233,7 +233,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 284,
+   "count": 285,
    "towns": [
     {
      "town": "Milton",
@@ -241,7 +241,7 @@
     },
     {
      "town": "Pace",
-     "count": 31
+     "count": 32
     },
     {
      "town": "Jay",
@@ -355,7 +355,7 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 284,
+  "Santa Rosa County": 285,
   "Escambia County": 204,
   "Okaloosa County": 38,
   "unassigned": 73,
@@ -363,7 +363,7 @@
   "Bay County": 5
  },
  "towns": {
-  "Pace": 31,
+  "Pace": 32,
   "Jay": 23,
   "Milton": 195,
   "Cantonment": 11,
@@ -450,6 +450,10 @@
   {
    "label": "8",
    "count": 2
+  },
+  {
+   "label": "9",
+   "count": 1
   }
  ],
  "bands": [
@@ -465,7 +469,7 @@
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
-   "households": 14,
+   "households": 15,
    "rigs": 0
   }
  ],
@@ -475,26 +479,41 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 1344,
+ "daDestroyedMajor": 1351,
  "daBreakdown": {
   "fdem": 678,
   "escambia_ia": 366,
-  "red_cross": 300
+  "red_cross": 307
  },
  "signals": [
-  "1344 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "621 families asking for help — 1605 people",
+  "1351 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "622 families asking for help — 1614 people",
   "342 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "10 RVs delivered",
-  "199 families site-ready for immediate placement",
+  "200 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.5809,
+   "lon": -87.15422,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 9,
+   "recv": "Oct 24",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.60765,
    "lon": -87.15243,
