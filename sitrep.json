@@ -1,65 +1,65 @@
 {
- "verified_as_of": "Oct 24, 2026 · 1:03 PM CT",
- "requestsLast24h": 13,
+ "verified_as_of": "Oct 24, 2026 · 1:26 PM CT",
+ "requestsLast24h": 15,
  "tiles": {
-  "people": 1595,
-  "requests": 617,
+  "people": 1598,
+  "requests": 619,
   "resources": 359,
-  "delivered": 3
+  "delivered": 10
  },
  "metrics": [
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 475,
-   "denominator": 617,
-   "pct": 77.0
+   "count": 477,
+   "denominator": 619,
+   "pct": 77.1
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 338,
-   "denominator": 617,
-   "pct": 54.8
+   "count": 340,
+   "denominator": 619,
+   "pct": 54.9
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 93,
-   "denominator": 617,
-   "pct": 15.1
+   "denominator": 619,
+   "pct": 15.0
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 65,
-   "denominator": 617,
+   "denominator": 619,
    "pct": 10.5
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 199,
-   "denominator": 617,
-   "pct": 32.3
+   "denominator": 619,
+   "pct": 32.1
   }
  ],
  "chips": {
-  "uninsured_pct": 77.0,
-  "medical_pct": 54.8,
-  "veteran_pct": 15.1,
+  "uninsured_pct": 77.1,
+  "medical_pct": 54.9,
+  "veteran_pct": 15.0,
   "first_responder_pct": 10.5,
-  "site_ready_pct": 32.3
+  "site_ready_pct": 32.1
  },
- "intakes": 617,
- "people": 1595,
- "medical": 338,
+ "intakes": 619,
+ "people": 1598,
+ "medical": 340,
  "veterans": 93,
  "firstResponders": 65,
  "resources": 359,
  "siteReady": 199,
- "canTow": 180,
- "own": 359,
+ "canTow": 182,
+ "own": 360,
  "insured": 142,
  "veteranFr": 135,
  "hours": [
@@ -131,7 +131,7 @@
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 34
+   "count": 36
   },
   {
    "hour": "14",
@@ -187,7 +187,7 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 203,
+   "count": 204,
    "towns": [
     {
      "town": "Pensacola",
@@ -195,7 +195,7 @@
     },
     {
      "town": "Cantonment",
-     "count": 10
+     "count": 11
     },
     {
      "town": "Town not yet confirmed",
@@ -233,11 +233,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 281,
+   "count": 282,
    "towns": [
     {
      "town": "Milton",
-     "count": 194
+     "count": 195
     },
     {
      "town": "Pace",
@@ -355,15 +355,16 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 281,
+  "Santa Rosa County": 282,
+  "Escambia County": 204,
   "Okaloosa County": 38,
-  "Escambia County": 203,
   "unassigned": 73,
   "Walton County": 17,
   "Bay County": 5
  },
  "towns": {
-  "Milton": 194,
+  "Milton": 195,
+  "Cantonment": 11,
   "Fort Walton Beach": 12,
   "Pensacola": 178,
   "Gulf Breeze": 15,
@@ -388,7 +389,6 @@
   "DeFuniak Springs": 7,
   "Panama City": 2,
   "Leon": 1,
-  "Cantonment": 10,
   "Cervantes St Pensacola": 1,
   "Ludlow St Pensacola": 1,
   "Miramar Beach": 1,
@@ -421,11 +421,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 193
+   "count": 194
   },
   {
    "label": "2",
-   "count": 166
+   "count": 167
   },
   {
    "label": "3",
@@ -455,7 +455,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 359,
+   "households": 361,
    "rigs": 59
   },
   {
@@ -475,26 +475,53 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 1335,
+ "daDestroyedMajor": 1339,
  "daBreakdown": {
-  "fdem": 673,
+  "fdem": 676,
   "escambia_ia": 366,
-  "red_cross": 296
+  "red_cross": 297
  },
  "signals": [
-  "1335 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "617 families asking for help — 1595 people",
-  "338 households with medical conditions"
+  "1339 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "619 families asking for help — 1598 people",
+  "340 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
-  "3 RVs delivered",
+  "10 RVs delivered",
   "199 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.59303,
+   "lon": -87.07246,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 24",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.55553,
+   "lon": -87.30757,
+   "town": "Cantonment",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 24",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": null
+  },
   {
    "lat": 30.59812,
    "lon": -87.0813,
@@ -4343,7 +4370,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.4602,
@@ -6915,7 +6943,8 @@
     "Medical",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.64567,
@@ -7373,7 +7402,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 22"
   },
   {
    "lat": 30.55105,
@@ -7556,7 +7586,7 @@
     "Owns home"
    ],
    "da": null,
-   "delivered": "Oct 19"
+   "delivered": "Oct 22"
   },
   {
    "lat": 30.54237,
@@ -7740,7 +7770,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.65114,
@@ -7756,7 +7787,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 22"
   },
   {
    "lat": 30.63714,
@@ -7809,7 +7841,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.63335,
@@ -7971,7 +8004,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 23"
   }
  ],
  "damageLayers": {
