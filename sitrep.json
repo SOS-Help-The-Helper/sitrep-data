@@ -1,11 +1,11 @@
 {
- "verified_as_of": "Oct 25, 2026 · 5:00 PM CT",
- "requestsLast24h": 11,
+ "verified_as_of": "Oct 25, 2026 · 5:26 PM CT",
+ "requestsLast24h": 10,
  "tiles": {
   "people": 1641,
   "requests": 636,
   "resources": 359,
-  "delivered": 10
+  "delivered": 25
  },
  "metrics": [
   {
@@ -498,7 +498,7 @@
  ],
  "action": [
   "359 rigs standing by",
-  "10 RVs delivered",
+  "25 RVs delivered",
   "204 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
@@ -2938,7 +2938,8 @@
    "n": 1,
    "recv": "Oct 20",
    "flags": [],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.46337,
@@ -3011,7 +3012,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": "Affected"
+   "da": "Affected",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.40038,
@@ -5605,7 +5607,8 @@
    "flags": [
     "Medical"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.44561,
@@ -6296,7 +6299,8 @@
     "Medical",
     "Site ready"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.42743,
@@ -6336,7 +6340,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.63503,
@@ -6418,7 +6423,8 @@
     "Medical",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.62678,
@@ -6506,7 +6512,8 @@
    "flags": [
     "Medical"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.83318,
@@ -7440,7 +7447,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.43058,
@@ -7535,7 +7543,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.43944,
@@ -7664,7 +7673,8 @@
     "Veteran / First responder",
     "Can tow"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.75151,
@@ -7745,7 +7755,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.45727,
@@ -7898,7 +7909,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.62915,
@@ -7952,7 +7964,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.55048,
@@ -8079,7 +8092,8 @@
    "flags": [
     "Site ready"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.51268,
