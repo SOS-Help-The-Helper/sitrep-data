@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 26, 2026 · 5:41 PM CT",
- "requestsLast24h": 15,
+ "verified_as_of": "Oct 26, 2026 · 6:36 PM CT",
+ "requestsLast24h": 16,
  "tiles": {
-  "people": 1689,
-  "requests": 655,
+  "people": 1690,
+  "requests": 656,
   "resources": 359,
   "delivered": 28
  },
@@ -11,54 +11,54 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 507,
-   "denominator": 655,
+   "count": 508,
+   "denominator": 656,
    "pct": 77.4
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 362,
-   "denominator": 655,
-   "pct": 55.3
+   "denominator": 656,
+   "pct": 55.2
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 100,
-   "denominator": 655,
-   "pct": 15.3
+   "denominator": 656,
+   "pct": 15.2
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 71,
-   "denominator": 655,
+   "denominator": 656,
    "pct": 10.8
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 215,
-   "denominator": 655,
+   "denominator": 656,
    "pct": 32.8
   }
  ],
  "chips": {
   "uninsured_pct": 77.4,
-  "medical_pct": 55.3,
-  "veteran_pct": 15.3,
+  "medical_pct": 55.2,
+  "veteran_pct": 15.2,
   "first_responder_pct": 10.8,
   "site_ready_pct": 32.8
  },
- "intakes": 655,
- "people": 1689,
+ "intakes": 656,
+ "people": 1690,
  "medical": 362,
  "veterans": 100,
  "firstResponders": 71,
  "resources": 359,
  "siteReady": 215,
- "canTow": 189,
+ "canTow": 190,
  "own": 385,
  "insured": 148,
  "veteranFr": 146,
@@ -156,7 +156,7 @@
   {
    "hour": "18",
    "label": "6 PM",
-   "count": 19
+   "count": 20
   },
   {
    "hour": "19",
@@ -395,13 +395,13 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 11,
   "Escambia County": 240,
   "Santa Rosa County": 311,
   "Walton County": 25,
   "Sarasota County": 1,
   "Okaloosa County": 43,
   "Broward County": 2,
-  "unassigned": 10,
   "Fulton County": 1,
   "Burke County": 1,
   "Holmes County": 4,
@@ -418,10 +418,10 @@
   "Conecuh County": 1
  },
  "towns": {
+  "unresolved": 69,
   "Pensacola": 191,
   "Milton": 204,
   "Pace": 35,
-  "unresolved": 68,
   "Navarre": 12,
   "Ponce de Leon": 1,
   "Nokomis": 1,
@@ -478,7 +478,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 203
+   "count": 204
   },
   {
    "label": "2",
@@ -516,7 +516,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 385,
+   "households": 386,
    "rigs": 59
   },
   {
@@ -544,7 +544,7 @@
  },
  "signals": [
   "1364 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "655 families asking for help — 1689 people",
+  "656 families asking for help — 1690 people",
   "362 households with medical conditions"
  ],
  "action": [
@@ -556,6 +556,18 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.46073,
+   "lon": -87.30802,
+   "town": "",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 26",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
   {
    "lat": 30.48986,
    "lon": -87.2533,
