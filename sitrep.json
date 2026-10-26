@@ -1,6 +1,6 @@
 {
- "verified_as_of": "Oct 25, 2026 · 11:38 PM CT",
- "requestsLast24h": 9,
+ "verified_as_of": "Oct 26, 2026 · 12:04 AM CT",
+ "requestsLast24h": 11,
  "tiles": {
   "people": 1656,
   "requests": 640,
@@ -505,6 +505,32 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.60688,
+   "lon": -87.07783,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 25",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63241,
+   "lon": -87.03969,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Oct 25",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.63571,
    "lon": -86.85237,
