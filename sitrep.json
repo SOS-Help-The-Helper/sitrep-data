@@ -1,11 +1,11 @@
 {
- "verified_as_of": "Oct 26, 2026 · 1:27 PM CT",
- "requestsLast24h": 16,
+ "verified_as_of": "Oct 26, 2026 · 2:04 PM CT",
+ "requestsLast24h": 14,
  "tiles": {
   "people": 1680,
   "requests": 651,
   "resources": 359,
-  "delivered": 25
+  "delivered": 28
  },
  "metrics": [
   {
@@ -498,7 +498,7 @@
  ],
  "action": [
   "359 rigs standing by",
-  "25 RVs delivered",
+  "28 RVs delivered",
   "215 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
@@ -1922,7 +1922,8 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.62861,
@@ -8028,7 +8029,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.79752,
@@ -8359,7 +8361,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.63027,
