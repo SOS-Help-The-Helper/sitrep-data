@@ -1,6 +1,6 @@
 {
- "verified_as_of": "Oct 26, 2026 · 3:49 PM CT",
- "requestsLast24h": 16,
+ "verified_as_of": "Oct 26, 2026 · 4:22 PM CT",
+ "requestsLast24h": 15,
  "tiles": {
   "people": 1686,
   "requests": 654,
@@ -187,19 +187,23 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 217,
+   "count": 239,
    "towns": [
     {
      "town": "Pensacola",
      "count": 190
     },
     {
+     "town": "Town not yet confirmed",
+     "count": 20
+    },
+    {
      "town": "Cantonment",
      "count": 11
     },
     {
-     "town": "Town not yet confirmed",
-     "count": 8
+     "town": "Florida",
+     "count": 6
     },
     {
      "town": "Century",
@@ -207,6 +211,10 @@
     },
     {
      "town": "Gulf Breeze",
+     "count": 1
+    },
+    {
+     "town": "Cantonement",
      "count": 1
     },
     {
@@ -226,14 +234,26 @@
      "count": 1
     },
     {
+     "town": "Altona",
+     "count": 1
+    },
+    {
+     "town": "Flomaton",
+     "count": 1
+    },
+    {
      "town": "Ensley",
+     "count": 1
+    },
+    {
+     "town": "Brewton",
      "count": 1
     }
    ]
   },
   {
    "county": "Santa Rosa County",
-   "count": 299,
+   "count": 311,
    "towns": [
     {
      "town": "Milton",
@@ -252,12 +272,20 @@
      "count": 14
     },
     {
+     "town": "Town not yet confirmed",
+     "count": 12
+    },
+    {
      "town": "Navarre",
      "count": 12
     },
     {
-     "town": "Town not yet confirmed",
-     "count": 5
+     "town": "Florida",
+     "count": 4
+    },
+    {
+     "town": "Munson",
+     "count": 2
     },
     {
      "town": "Santa Rosa",
@@ -272,10 +300,6 @@
      "count": 1
     },
     {
-     "town": "Munson",
-     "count": 1
-    },
-    {
      "town": "Allentown",
      "count": 1
     }
@@ -283,7 +307,7 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 38,
+   "count": 43,
    "towns": [
     {
      "town": "Fort Walton Beach",
@@ -295,7 +319,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 3
+     "count": 7
     },
     {
      "town": "Mary Esther",
@@ -314,6 +338,10 @@
      "count": 2
     },
     {
+     "town": "Ft Walton Beach",
+     "count": 1
+    },
+    {
      "town": "Holt",
      "count": 1
     },
@@ -329,19 +357,23 @@
   },
   {
    "county": "Walton County",
-   "count": 18,
+   "count": 25,
    "towns": [
     {
      "town": "DeFuniak Springs",
      "count": 7
     },
     {
+     "town": "Town not yet confirmed",
+     "count": 4
+    },
+    {
      "town": "Ponce De Leon",
      "count": 4
     },
     {
-     "town": "Town not yet confirmed",
-     "count": 2
+     "town": "Freeport",
+     "count": 4
     },
     {
      "town": "PDL",
@@ -354,17 +386,36 @@
     {
      "town": "Ponce de Leon",
      "count": 1
+    },
+    {
+     "town": "Miramar Beach",
+     "count": 1
     }
    ]
   }
  ],
  "countyCounts": {
-  "Escambia County": 217,
-  "Santa Rosa County": 299,
-  "unassigned": 77,
-  "Walton County": 18,
-  "Okaloosa County": 38,
-  "Bay County": 5
+  "Escambia County": 239,
+  "Santa Rosa County": 311,
+  "Walton County": 25,
+  "Sarasota County": 1,
+  "Okaloosa County": 43,
+  "Broward County": 2,
+  "unassigned": 10,
+  "Fulton County": 1,
+  "Burke County": 1,
+  "Holmes County": 4,
+  "Bay County": 5,
+  "Citrus County": 1,
+  "Suwannee County": 2,
+  "Pinellas County": 1,
+  "Duval County": 1,
+  "Taylor County": 1,
+  "Leon County": 1,
+  "Jackson County": 2,
+  "Washington County": 1,
+  "Levy County": 1,
+  "Conecuh County": 1
  },
  "towns": {
   "Pensacola": 190,
@@ -679,7 +730,7 @@
    "lat": 30.61943,
    "lon": -86.89433,
    "town": "",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 26",
    "flags": [
@@ -803,7 +854,7 @@
    "lat": 30.80197,
    "lon": -87.03758,
    "town": "",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 25",
    "flags": [
@@ -1530,7 +1581,7 @@
    "lat": 30.61218,
    "lon": -87.1679,
    "town": "",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 22",
    "flags": [],
@@ -1565,7 +1616,7 @@
    "lat": 30.4807,
    "lon": -86.12751,
    "town": "Freeport",
-   "county": "",
+   "county": "Walton",
    "n": 2,
    "recv": "Oct 22",
    "flags": [],
@@ -1575,7 +1626,7 @@
    "lat": 30.43318,
    "lon": -86.60841,
    "town": "Ft Walton Beach",
-   "county": "",
+   "county": "Okaloosa",
    "n": 2,
    "recv": "Oct 22",
    "flags": [
@@ -1660,7 +1711,7 @@
    "lat": 30.60482,
    "lon": -87.33195,
    "town": "Cantonement",
-   "county": "",
+   "county": "Escambia",
    "n": 4,
    "recv": "Oct 22",
    "flags": [
@@ -1938,7 +1989,7 @@
    "lat": 30.7206,
    "lon": -87.39139,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 22",
    "flags": [
@@ -2289,7 +2340,7 @@
    "lat": 30.4039,
    "lon": -86.30522,
    "town": "",
-   "county": "",
+   "county": "Walton",
    "n": 1,
    "recv": "Oct 21",
    "flags": [
@@ -2341,7 +2392,7 @@
    "lat": 30.41388,
    "lon": -86.63491,
    "town": "",
-   "county": "",
+   "county": "Okaloosa",
    "n": 4,
    "recv": "Oct 21",
    "flags": [
@@ -2393,7 +2444,7 @@
    "lat": 30.41388,
    "lon": -86.63491,
    "town": "",
-   "county": "",
+   "county": "Okaloosa",
    "n": 4,
    "recv": "Oct 21",
    "flags": [
@@ -2511,7 +2562,7 @@
    "lat": 30.51801,
    "lon": -86.13064,
    "town": "Freeport",
-   "county": "",
+   "county": "Walton",
    "n": 2,
    "recv": "Oct 21",
    "flags": [
@@ -2604,7 +2655,7 @@
    "lat": 30.64729,
    "lon": -87.01842,
    "town": "",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 21",
    "flags": [],
@@ -2641,7 +2692,7 @@
    "lat": 30.85115,
    "lon": -86.0525,
    "town": "Ponce De Leon",
-   "county": "",
+   "county": "Holmes",
    "n": 1,
    "recv": "Oct 20",
    "flags": [
@@ -2668,7 +2719,7 @@
    "lat": 30.85115,
    "lon": -86.0525,
    "town": "Leon",
-   "county": "",
+   "county": "Holmes",
    "n": 1,
    "recv": "Oct 20",
    "flags": [
@@ -2776,7 +2827,7 @@
    "lat": 30.41414,
    "lon": -87.25138,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 3,
    "recv": "Oct 20",
    "flags": [],
@@ -2830,7 +2881,7 @@
    "lat": 30.37356,
    "lon": -86.32674,
    "town": "Miramar Beach",
-   "county": "",
+   "county": "Walton",
    "n": 1,
    "recv": "Oct 20",
    "flags": [
@@ -2854,7 +2905,7 @@
    "lat": 30.42125,
    "lon": -87.25267,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 20",
    "flags": [
@@ -3136,7 +3187,7 @@
    "lat": 30.44543,
    "lon": -86.0671,
    "town": "Freeport",
-   "county": "",
+   "county": "Walton",
    "n": 1,
    "recv": "Oct 20",
    "flags": [
@@ -3787,7 +3838,7 @@
    "lat": 30.484,
    "lon": -86.32815,
    "town": "",
-   "county": "",
+   "county": "Walton",
    "n": 5,
    "recv": "Oct 20",
    "flags": [
@@ -4126,7 +4177,7 @@
    "lat": 30.89907,
    "lon": -86.51132,
    "town": "",
-   "county": "",
+   "county": "Okaloosa",
    "n": 2,
    "recv": "Oct 20",
    "flags": [
@@ -4334,7 +4385,7 @@
    "lat": 30.45256,
    "lon": -84.28958,
    "town": "",
-   "county": "",
+   "county": "Leon",
    "n": 1,
    "recv": "Oct 20",
    "flags": [],
@@ -4777,7 +4828,7 @@
    "lat": 30.54786,
    "lon": -87.39343,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 4,
    "recv": "Oct 20",
    "flags": [
@@ -4802,7 +4853,7 @@
    "lat": 30.4474,
    "lon": -86.64437,
    "town": "",
-   "county": "",
+   "county": "Okaloosa",
    "n": 1,
    "recv": "Oct 20",
    "flags": [
@@ -5127,7 +5178,7 @@
    "lat": 30.42627,
    "lon": -87.27174,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 4,
    "recv": "Oct 19",
    "flags": [
@@ -5178,7 +5229,7 @@
    "lat": 30.40114,
    "lon": -86.96353,
    "town": "Florida",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 19",
    "flags": [
@@ -5213,7 +5264,7 @@
    "lat": 30.66603,
    "lon": -87.04654,
    "town": "Florida",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 19",
    "flags": [
@@ -5237,7 +5288,7 @@
    "lat": 30.60003,
    "lon": -87.1012,
    "town": "Florida",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 2,
    "recv": "Oct 18",
    "flags": [
@@ -5369,7 +5420,7 @@
    "lat": 30.50314,
    "lon": -87.19151,
    "town": "Florida",
-   "county": "",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 18",
    "flags": [
@@ -5460,7 +5511,7 @@
    "lat": 30.43524,
    "lon": -87.26452,
    "town": "Florida",
-   "county": "",
+   "county": "Escambia",
    "n": 1,
    "recv": "Oct 18",
    "flags": [],
@@ -5583,7 +5634,7 @@
    "lat": 30.70251,
    "lon": -86.97853,
    "town": "Munson",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 18",
    "flags": [
@@ -6037,7 +6088,7 @@
    "lat": 30.59138,
    "lon": -85.99086,
    "town": "Ponce De Leon",
-   "county": "",
+   "county": "Holmes",
    "n": 2,
    "recv": "Oct 18",
    "flags": [
@@ -6216,7 +6267,7 @@
    "lat": 30.42362,
    "lon": -87.21832,
    "town": "Florida",
-   "county": "",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 18",
    "flags": [
@@ -6329,7 +6380,7 @@
    "lat": 30.62355,
    "lon": -85.71843,
    "town": "Vernon",
-   "county": "",
+   "county": "Washington",
    "n": 4,
    "recv": "Oct 18",
    "flags": [
@@ -6430,7 +6481,7 @@
    "lat": 30.96356,
    "lon": -85.54554,
    "town": "Graceville",
-   "county": "",
+   "county": "Jackson",
    "n": 1,
    "recv": "Oct 18",
    "flags": [
@@ -6685,7 +6736,7 @@
    "lat": 30.59634,
    "lon": -87.0613,
    "town": "Florida",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 3,
    "recv": "Oct 17",
    "flags": [],
@@ -6721,7 +6772,7 @@
    "lat": 30.4807,
    "lon": -86.12751,
    "town": "Freeport",
-   "county": "",
+   "county": "Walton",
    "n": 2,
    "recv": "Oct 17",
    "flags": [
@@ -6760,7 +6811,7 @@
    "lat": 30.83318,
    "lon": -85.921,
    "town": "Westville",
-   "county": "",
+   "county": "Holmes",
    "n": 1,
    "recv": "Oct 17",
    "flags": [
@@ -6972,7 +7023,7 @@
    "lat": 30.39681,
    "lon": -87.27026,
    "town": "Florida",
-   "county": "",
+   "county": "Escambia",
    "n": 4,
    "recv": "Oct 17",
    "flags": [
@@ -7191,7 +7242,7 @@
    "lat": 31.03515,
    "lon": -87.18544,
    "town": "Flomaton",
-   "county": "",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 16",
    "flags": [
@@ -7454,7 +7505,7 @@
    "lat": 31.13584,
    "lon": -87.06193,
    "town": "Brewton",
-   "county": "",
+   "county": "Escambia",
    "n": 2,
    "recv": "Oct 16",
    "flags": [
@@ -7468,7 +7519,7 @@
    "lat": 31.26966,
    "lon": -87.11584,
    "town": "Castleberry",
-   "county": "",
+   "county": "Conecuh",
    "n": 3,
    "recv": "Oct 16",
    "flags": [
