@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 27, 2026 · 7:58 AM CT",
+ "verified_as_of": "Oct 27, 2026 · 9:37 AM CT",
  "requestsLast24h": 5,
  "tiles": {
-  "people": 1690,
-  "requests": 656,
+  "people": 1691,
+  "requests": 657,
   "resources": 359,
   "delivered": 28
  },
@@ -11,54 +11,54 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 508,
-   "denominator": 656,
-   "pct": 77.4
+   "count": 509,
+   "denominator": 657,
+   "pct": 77.5
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 362,
-   "denominator": 656,
-   "pct": 55.2
+   "count": 363,
+   "denominator": 657,
+   "pct": 55.3
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 100,
-   "denominator": 656,
+   "denominator": 657,
    "pct": 15.2
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 71,
-   "denominator": 656,
+   "denominator": 657,
    "pct": 10.8
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 215,
-   "denominator": 656,
-   "pct": 32.8
+   "denominator": 657,
+   "pct": 32.7
   }
  ],
  "chips": {
-  "uninsured_pct": 77.4,
-  "medical_pct": 55.2,
+  "uninsured_pct": 77.5,
+  "medical_pct": 55.3,
   "veteran_pct": 15.2,
   "first_responder_pct": 10.8,
-  "site_ready_pct": 32.8
+  "site_ready_pct": 32.7
  },
- "intakes": 656,
- "people": 1690,
- "medical": 362,
+ "intakes": 657,
+ "people": 1691,
+ "medical": 363,
  "veterans": 100,
  "firstResponders": 71,
  "resources": 359,
  "siteReady": 215,
- "canTow": 190,
+ "canTow": 191,
  "own": 385,
  "insured": 148,
  "veteranFr": 146,
@@ -111,7 +111,7 @@
   {
    "hour": "09",
    "label": "9 AM",
-   "count": 20
+   "count": 21
   },
   {
    "hour": "10",
@@ -395,7 +395,7 @@
   }
  ],
  "countyCounts": {
-  "unassigned": 11,
+  "unassigned": 12,
   "Escambia County": 240,
   "Santa Rosa County": 311,
   "Walton County": 25,
@@ -418,6 +418,7 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Interlachen": 1,
   "unresolved": 69,
   "Pensacola": 191,
   "Milton": 204,
@@ -478,7 +479,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 204
+   "count": 205
   },
   {
    "label": "2",
@@ -516,7 +517,7 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 386,
+   "households": 387,
    "rigs": 59
   },
   {
@@ -542,8 +543,8 @@
  },
  "signals": [
   "685 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "656 families asking for help — 1690 people",
-  "362 households with medical conditions"
+  "657 families asking for help — 1691 people",
+  "363 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
