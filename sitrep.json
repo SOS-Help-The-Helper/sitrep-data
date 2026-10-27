@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 27, 2026 · 4:31 PM CT",
- "requestsLast24h": 11,
+ "verified_as_of": "Oct 27, 2026 · 6:31 PM CT",
+ "requestsLast24h": 12,
  "tiles": {
-  "people": 1710,
-  "requests": 667,
+  "people": 1714,
+  "requests": 668,
   "resources": 359,
   "delivered": 28
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 518,
-   "denominator": 667,
+   "count": 519,
+   "denominator": 668,
    "pct": 77.7
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 371,
-   "denominator": 667,
-   "pct": 55.6
+   "denominator": 668,
+   "pct": 55.5
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 100,
-   "denominator": 667,
+   "denominator": 668,
    "pct": 15.0
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 72,
-   "denominator": 667,
+   "denominator": 668,
    "pct": 10.8
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 215,
-   "denominator": 667,
-   "pct": 32.2
+   "count": 216,
+   "denominator": 668,
+   "pct": 32.3
   }
  ],
  "chips": {
   "uninsured_pct": 77.7,
-  "medical_pct": 55.6,
+  "medical_pct": 55.5,
   "veteran_pct": 15.0,
   "first_responder_pct": 10.8,
-  "site_ready_pct": 32.2
+  "site_ready_pct": 32.3
  },
- "intakes": 667,
- "people": 1710,
+ "intakes": 668,
+ "people": 1714,
  "medical": 371,
  "veterans": 100,
  "firstResponders": 72,
  "resources": 359,
- "siteReady": 215,
+ "siteReady": 216,
  "canTow": 194,
- "own": 394,
+ "own": 395,
  "insured": 149,
  "veteranFr": 147,
  "hours": [
@@ -156,7 +156,7 @@
   {
    "hour": "18",
    "label": "6 PM",
-   "count": 20
+   "count": 21
   },
   {
    "hour": "19",
@@ -403,9 +403,9 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 15,
   "Walton County": 27,
   "Escambia County": 243,
-  "unassigned": 14,
   "Santa Rosa County": 314,
   "Sarasota County": 1,
   "Okaloosa County": 43,
@@ -426,6 +426,7 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Seminole": 1,
   "Defuniak Springs": 1,
   "Pensacola": 194,
   "unresolved": 71,
@@ -501,7 +502,7 @@
   },
   {
    "label": "4",
-   "count": 76
+   "count": 77
   },
   {
    "label": "5",
@@ -532,7 +533,7 @@
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 256,
+   "households": 257,
    "rigs": 300
   },
   {
@@ -553,18 +554,31 @@
  },
  "signals": [
   "689 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "667 families asking for help — 1710 people",
+  "668 families asking for help — 1714 people",
   "371 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "28 RVs delivered",
-  "215 families site-ready for immediate placement",
+  "216 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.51596,
+   "lon": -87.46824,
+   "town": "Seminole",
+   "county": "",
+   "n": 4,
+   "recv": "Oct 27",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.66676,
    "lon": -86.13238,
