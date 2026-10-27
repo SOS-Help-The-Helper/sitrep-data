@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 27, 2026 · 10:19 AM CT",
+ "verified_as_of": "Oct 27, 2026 · 10:56 AM CT",
  "requestsLast24h": 5,
  "tiles": {
   "people": 1692,
@@ -560,6 +560,20 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.59954,
+   "lon": -87.03144,
+   "town": "Bagdad",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 27",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.46073,
    "lon": -87.30802,
