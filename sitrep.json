@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 26, 2026 · 9:26 PM CT",
+ "verified_as_of": "Oct 26, 2026 · 9:59 PM CT",
  "requestsLast24h": 16,
  "tiles": {
   "people": 1690,
@@ -536,14 +536,12 @@
   "sleep4_6": 300,
   "total": 359
  },
- "daDestroyedMajor": 1364,
+ "daDestroyedMajor": 685,
  "daBreakdown": {
-  "fdem": 685,
-  "escambia_ia": 366,
-  "red_cross": 313
+  "fdem": 685
  },
  "signals": [
-  "1364 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
+  "685 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
   "656 families asking for help — 1690 people",
   "362 households with medical conditions"
  ],
@@ -553,7 +551,7 @@
   "215 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
- "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey, Escambia County IA, American Red Cross).",
+ "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
   {
@@ -2020,7 +2018,8 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.62861,
@@ -2137,7 +2136,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 26"
   },
   {
    "lat": 30.46462,
@@ -3254,7 +3254,8 @@
    "n": 1,
    "recv": "Oct 20",
    "flags": [],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.46337,
@@ -3327,7 +3328,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": "Affected"
+   "da": "Affected",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.40038,
@@ -4883,7 +4885,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.4602,
@@ -5907,7 +5910,8 @@
    "flags": [
     "Medical"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.44561,
@@ -6598,7 +6602,8 @@
     "Medical",
     "Site ready"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.42743,
@@ -6638,7 +6643,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.63503,
@@ -6720,7 +6726,8 @@
     "Medical",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.62678,
@@ -6808,7 +6815,8 @@
    "flags": [
     "Medical"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.83318,
@@ -7741,7 +7749,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.43058,
@@ -7836,7 +7845,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.43944,
@@ -7900,7 +7910,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 26"
   },
   {
    "lat": 30.55105,
@@ -7964,7 +7975,8 @@
     "Veteran / First responder",
     "Can tow"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.75151,
@@ -8045,7 +8057,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.45727,
@@ -8082,7 +8095,8 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 22"
   },
   {
    "lat": 30.54237,
@@ -8111,7 +8125,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.79752,
@@ -8197,7 +8212,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.62915,
@@ -8251,7 +8267,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.55048,
@@ -8266,7 +8283,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.65114,
@@ -8282,7 +8300,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 22"
   },
   {
    "lat": 30.63714,
@@ -8335,7 +8354,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.63335,
@@ -8375,7 +8395,8 @@
    "flags": [
     "Site ready"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.51268,
@@ -8436,7 +8457,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.63027,
@@ -8452,7 +8474,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 19"
   },
   {
    "lat": 30.59812,
@@ -8480,7 +8503,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 19"
   },
   {
    "lat": 30.59081,
@@ -8495,7 +8519,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 23"
   }
  ],
  "damageLayers": {
