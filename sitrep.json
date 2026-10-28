@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Oct 27, 2026 · 10:24 PM CT",
+ "verified_as_of": "Oct 27, 2026 · 10:31 PM CT",
  "requestsLast24h": 14,
  "tiles": {
   "people": 1722,
@@ -566,6 +566,19 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.64416,
+   "lon": -87.0507,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 7,
+   "recv": "Oct 27",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
   {
    "lat": 30.43065,
    "lon": -87.28926,
