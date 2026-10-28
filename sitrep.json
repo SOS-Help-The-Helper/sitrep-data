@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 28, 2026 · 7:17 AM CT",
- "requestsLast24h": 9,
+ "verified_as_of": "Oct 28, 2026 · 11:00 AM CT",
+ "requestsLast24h": 7,
  "tiles": {
-  "people": 1727,
-  "requests": 672,
+  "people": 1729,
+  "requests": 674,
   "resources": 359,
   "delivered": 30
  },
@@ -11,56 +11,56 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 523,
-   "denominator": 672,
-   "pct": 77.8
+   "count": 524,
+   "denominator": 674,
+   "pct": 77.7
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 375,
-   "denominator": 672,
+   "count": 376,
+   "denominator": 674,
    "pct": 55.8
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 100,
-   "denominator": 672,
-   "pct": 14.9
+   "denominator": 674,
+   "pct": 14.8
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 73,
-   "denominator": 672,
-   "pct": 10.9
+   "denominator": 674,
+   "pct": 10.8
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 217,
-   "denominator": 672,
-   "pct": 32.3
+   "denominator": 674,
+   "pct": 32.2
   }
  ],
  "chips": {
-  "uninsured_pct": 77.8,
+  "uninsured_pct": 77.7,
   "medical_pct": 55.8,
-  "veteran_pct": 14.9,
-  "first_responder_pct": 10.9,
-  "site_ready_pct": 32.3
+  "veteran_pct": 14.8,
+  "first_responder_pct": 10.8,
+  "site_ready_pct": 32.2
  },
- "intakes": 672,
- "people": 1727,
- "medical": 375,
+ "intakes": 674,
+ "people": 1729,
+ "medical": 376,
  "veterans": 100,
  "firstResponders": 73,
  "resources": 359,
  "siteReady": 217,
  "canTow": 194,
- "own": 397,
- "insured": 149,
+ "own": 398,
+ "insured": 150,
  "veteranFr": 148,
  "hours": [
   {
@@ -106,12 +106,12 @@
   {
    "hour": "08",
    "label": "8 AM",
-   "count": 6
+   "count": 7
   },
   {
    "hour": "09",
    "label": "9 AM",
-   "count": 21
+   "count": 22
   },
   {
    "hour": "10",
@@ -253,11 +253,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 316,
+   "count": 317,
    "towns": [
     {
      "town": "Milton",
-     "count": 207
+     "count": 209
     },
     {
      "town": "Pace",
@@ -403,8 +403,9 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 317,
+  "Bay County": 6,
   "Escambia County": 245,
-  "Santa Rosa County": 316,
   "unassigned": 15,
   "Walton County": 27,
   "Sarasota County": 1,
@@ -413,7 +414,6 @@
   "Fulton County": 1,
   "Burke County": 1,
   "Holmes County": 4,
-  "Bay County": 5,
   "Citrus County": 1,
   "Suwannee County": 2,
   "Pinellas County": 1,
@@ -426,8 +426,9 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Milton": 208,
+  "Panama City": 3,
   "Pensacola": 196,
-  "Milton": 207,
   "Seminole": 1,
   "Defuniak Springs": 1,
   "unresolved": 71,
@@ -457,7 +458,6 @@
   "Mary Esther": 3,
   "Holt": 1,
   "DeFuniak Springs": 7,
-  "Panama City": 2,
   "Leon": 1,
   "Cervantes St Pensacola": 1,
   "Ludlow St Pensacola": 1,
@@ -490,7 +490,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 210
+   "count": 212
   },
   {
    "label": "2",
@@ -528,9 +528,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 398,
+   "households": 400,
    "rigs": 59,
-   "delta": -339
+   "delta": -341
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -557,8 +557,8 @@
  },
  "signals": [
   "689 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "672 families asking for help — 1727 people",
-  "375 households with medical conditions"
+  "674 families asking for help — 1729 people",
+  "376 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -569,6 +569,20 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.39434,
+   "lon": -87.02161,
+   "town": "Panama City",
+   "county": "Bay",
+   "n": 1,
+   "recv": "Oct 28",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.45435,
    "lon": -87.25003,
