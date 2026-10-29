@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 28, 2026 · 3:40 PM CT",
- "requestsLast24h": 15,
+ "verified_as_of": "Oct 29, 2026 · 7:20 AM CT",
+ "requestsLast24h": 14,
  "tiles": {
-  "people": 1753,
-  "requests": 685,
+  "people": 1776,
+  "requests": 692,
   "resources": 359,
   "delivered": 37
  },
@@ -11,67 +11,67 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 535,
-   "denominator": 685,
-   "pct": 78.1
+   "count": 539,
+   "denominator": 692,
+   "pct": 77.9
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 381,
-   "denominator": 685,
-   "pct": 55.6
+   "count": 384,
+   "denominator": 692,
+   "pct": 55.5
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 101,
-   "denominator": 685,
-   "pct": 14.7
+   "count": 103,
+   "denominator": 692,
+   "pct": 14.9
   },
   {
    "key": "first_responder",
    "label": "First Responders",
-   "count": 73,
-   "denominator": 685,
+   "count": 74,
+   "denominator": 692,
    "pct": 10.7
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 222,
-   "denominator": 685,
+   "count": 224,
+   "denominator": 692,
    "pct": 32.4
   }
  ],
  "chips": {
-  "uninsured_pct": 78.1,
-  "medical_pct": 55.6,
-  "veteran_pct": 14.7,
+  "uninsured_pct": 77.9,
+  "medical_pct": 55.5,
+  "veteran_pct": 14.9,
   "first_responder_pct": 10.7,
   "site_ready_pct": 32.4
  },
- "intakes": 685,
- "people": 1753,
- "medical": 381,
- "veterans": 101,
- "firstResponders": 73,
+ "intakes": 692,
+ "people": 1776,
+ "medical": 384,
+ "veterans": 103,
+ "firstResponders": 74,
  "resources": 359,
- "siteReady": 222,
- "canTow": 198,
- "own": 406,
- "insured": 150,
- "veteranFr": 149,
+ "siteReady": 224,
+ "canTow": 199,
+ "own": 410,
+ "insured": 153,
+ "veteranFr": 151,
  "hours": [
   {
    "hour": "00",
    "label": "12 AM",
-   "count": 1
+   "count": 2
   },
   {
    "hour": "01",
    "label": "1 AM",
-   "count": 1
+   "count": 2
   },
   {
    "hour": "02",
@@ -86,7 +86,7 @@
   {
    "hour": "04",
    "label": "4 AM",
-   "count": 0
+   "count": 1
   },
   {
    "hour": "05",
@@ -101,7 +101,7 @@
   {
    "hour": "07",
    "label": "7 AM",
-   "count": 11
+   "count": 13
   },
   {
    "hour": "08",
@@ -146,12 +146,12 @@
   {
    "hour": "16",
    "label": "4 PM",
-   "count": 27
+   "count": 28
   },
   {
    "hour": "17",
    "label": "5 PM",
-   "count": 42
+   "count": 43
   },
   {
    "hour": "18",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 249,
+   "count": 251,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 199
+     "count": 201
     },
     {
      "town": "Town not yet confirmed",
@@ -257,11 +257,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 321,
+   "count": 324,
    "towns": [
     {
      "town": "Milton",
-     "count": 212
+     "count": 214
     },
     {
      "town": "Pace",
@@ -269,7 +269,7 @@
     },
     {
      "town": "Jay",
-     "count": 24
+     "count": 25
     },
     {
      "town": "Gulf Breeze",
@@ -365,7 +365,7 @@
   },
   {
    "county": "Walton County",
-   "count": 28,
+   "count": 29,
    "towns": [
     {
      "town": "DeFuniak Springs",
@@ -373,7 +373,7 @@
     },
     {
      "town": "Freeport",
-     "count": 5
+     "count": 6
     },
     {
      "town": "Town not yet confirmed",
@@ -407,10 +407,10 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 321,
-  "Escambia County": 249,
-  "Walton County": 28,
-  "unassigned": 17,
+  "Escambia County": 251,
+  "Walton County": 29,
+  "Santa Rosa County": 324,
+  "unassigned": 18,
   "Bay County": 6,
   "Sarasota County": 1,
   "Okaloosa County": 43,
@@ -430,23 +430,23 @@
   "Conecuh County": 1
  },
  "towns": {
-  "Milton": 212,
-  "Pensacola": 199,
+  "Pensacola": 201,
+  "Freeport": 6,
+  "Jay": 25,
+  "unresolved": 73,
+  "Milton": 214,
   "Ponce de Leon": 2,
   "Eastpoint": 1,
-  "unresolved": 72,
   "Molino": 1,
   "Panama City": 3,
   "Seminole": 1,
   "Defuniak Springs": 1,
-  "Freeport": 5,
   "Pace": 36,
   "Bagdad": 1,
   "Interlachen": 1,
   "Navarre": 12,
   "Nokomis": 1,
   "Century": 2,
-  "Jay": 24,
   "Cantonment": 11,
   "Fort Walton Beach": 12,
   "Gulf Breeze": 15,
@@ -496,11 +496,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 218
+   "count": 220
   },
   {
    "label": "2",
-   "count": 190
+   "count": 192
   },
   {
    "label": "3",
@@ -512,11 +512,11 @@
   },
   {
    "label": "5",
-   "count": 48
+   "count": 49
   },
   {
    "label": "6",
-   "count": 26
+   "count": 28
   },
   {
    "label": "7",
@@ -534,15 +534,15 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 408,
+   "households": 412,
    "rigs": 59,
-   "delta": -349
+   "delta": -353
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 260,
+   "households": 263,
    "rigs": 300,
-   "delta": 40
+   "delta": 37
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
@@ -563,18 +563,109 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "685 families asking for help — 1753 people",
-  "381 households with medical conditions"
+  "692 families asking for help — 1776 people",
+  "384 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "37 RVs delivered",
-  "222 families site-ready for immediate placement",
+  "224 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.38588,
+   "lon": -87.29311,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 29",
+   "flags": [
+    "Medical",
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.48157,
+   "lon": -86.13053,
+   "town": "Freeport",
+   "county": "Walton",
+   "n": 6,
+   "recv": "Oct 29",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.94718,
+   "lon": -87.14847,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 29",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.64166,
+   "lon": -87.03549,
+   "town": "",
+   "county": "",
+   "n": 5,
+   "recv": "Oct 29",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.64734,
+   "lon": -86.95486,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 29",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.74433,
+   "lon": -86.94699,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 28",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45503,
+   "lon": -87.29352,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 6,
+   "recv": "Oct 28",
+   "flags": [],
+   "da": null
+  },
   {
    "lat": 30.59376,
    "lon": -87.1619,
@@ -10619,7 +10710,7 @@
  },
  "operations36h": {
   "filed": 0,
-  "delivered": 11,
+  "delivered": 10,
   "days_to_delivery": 7.8,
   "en_route": 2
  },
