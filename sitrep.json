@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 30, 2026 · 11:21 AM CT",
- "requestsLast24h": 2,
+ "verified_as_of": "Oct 30, 2026 · 1:15 PM CT",
+ "requestsLast24h": 4,
  "tiles": {
-  "people": 1798,
-  "requests": 704,
+  "people": 1800,
+  "requests": 706,
   "resources": 359,
   "delivered": 40
  },
@@ -11,53 +11,53 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 549,
-   "denominator": 704,
+   "count": 551,
+   "denominator": 706,
    "pct": 78.0
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 391,
-   "denominator": 704,
+   "count": 392,
+   "denominator": 706,
    "pct": 55.5
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 106,
-   "denominator": 704,
-   "pct": 15.1
+   "denominator": 706,
+   "pct": 15.0
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 74,
-   "denominator": 704,
+   "denominator": 706,
    "pct": 10.5
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 228,
-   "denominator": 704,
+   "count": 229,
+   "denominator": 706,
    "pct": 32.4
   }
  ],
  "chips": {
   "uninsured_pct": 78.0,
   "medical_pct": 55.5,
-  "veteran_pct": 15.1,
+  "veteran_pct": 15.0,
   "first_responder_pct": 10.5,
   "site_ready_pct": 32.4
  },
- "intakes": 704,
- "people": 1798,
- "medical": 391,
+ "intakes": 706,
+ "people": 1800,
+ "medical": 392,
  "veterans": 106,
  "firstResponders": 74,
  "resources": 359,
- "siteReady": 228,
+ "siteReady": 229,
  "canTow": 204,
  "own": 418,
  "insured": 155,
@@ -126,12 +126,12 @@
   {
    "hour": "12",
    "label": "12 PM",
-   "count": 56
+   "count": 57
   },
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 44
+   "count": 45
   },
   {
    "hour": "14",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 254,
+   "count": 255,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 204
+     "count": 205
     },
     {
      "town": "Town not yet confirmed",
@@ -257,11 +257,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 330,
+   "count": 331,
    "towns": [
     {
      "town": "Milton",
-     "count": 219
+     "count": 220
     },
     {
      "town": "Pace",
@@ -407,9 +407,9 @@
   }
  ],
  "countyCounts": {
-  "Santa Rosa County": 330,
+  "Santa Rosa County": 331,
+  "Escambia County": 255,
   "Bay County": 7,
-  "Escambia County": 254,
   "unassigned": 19,
   "Walton County": 30,
   "Sarasota County": 1,
@@ -430,10 +430,10 @@
   "Conecuh County": 1
  },
  "towns": {
-  "Milton": 219,
+  "Milton": 220,
+  "Pensacola": 205,
   "Pace": 37,
   "Panama City": 4,
-  "Pensacola": 204,
   "unresolved": 74,
   "Defuniak Springs": 2,
   "Freeport": 6,
@@ -496,7 +496,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 225
+   "count": 227
   },
   {
    "label": "2",
@@ -534,9 +534,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 422,
+   "households": 424,
    "rigs": 59,
-   "delta": -363
+   "delta": -365
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -563,18 +563,42 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "704 families asking for help — 1798 people",
-  "391 households with medical conditions"
+  "706 families asking for help — 1800 people",
+  "392 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "40 RVs delivered",
-  "228 families site-ready for immediate placement",
+  "229 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.67385,
+   "lon": -86.98263,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 30",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43345,
+   "lon": -87.26339,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 30",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
   {
    "lat": 30.60096,
    "lon": -87.07829,
