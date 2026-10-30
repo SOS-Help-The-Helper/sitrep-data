@@ -1,6 +1,6 @@
 {
- "verified_as_of": "Oct 29, 2026 · 3:43 PM CT",
- "requestsLast24h": 14,
+ "verified_as_of": "Oct 30, 2026 · 7:15 AM CT",
+ "requestsLast24h": 2,
  "tiles": {
   "people": 1795,
   "requests": 702,
@@ -8863,7 +8863,7 @@
     "Owns home"
    ],
    "da": null,
-   "delivered": "Oct 25"
+   "delivered": "Oct 29"
   },
   {
    "lat": 30.55048,
@@ -10845,7 +10845,7 @@
  },
  "operations36h": {
   "filed": 0,
-  "delivered": 13,
+  "delivered": 4,
   "days_to_delivery": 7.8,
   "en_route": 2
  },
@@ -10867,6 +10867,12 @@
    "type": "RV DELIVERED",
    "town": "Pensacola",
    "household_size": 1
+  },
+  {
+   "ts": "2026-10-29T12:00:00+00:00",
+   "type": "RV DELIVERED",
+   "town": "Jay",
+   "household_size": 2
   },
   {
    "ts": "2026-10-28T12:01:00+00:00",
@@ -10993,13 +10999,7 @@
    "type": "NEW INTAKE",
    "town": "Pace",
    "household_size": 5
-  },
-  {
-   "ts": "2026-10-25T12:00:00+00:00",
-   "type": "RV DELIVERED",
-   "town": "Jay",
-   "household_size": 5
   }
  ],
- "last_event_at": "2026-10-29T20:04:05.044489+00:00"
+ "last_event_at": "2026-10-30T11:39:42.144500+00:00"
 }
