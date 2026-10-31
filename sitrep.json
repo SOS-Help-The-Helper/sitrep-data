@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Oct 31, 2026 · 7:18 AM CT",
- "requestsLast24h": 12,
+ "verified_as_of": "Oct 31, 2026 · 11:12 AM CT",
+ "requestsLast24h": 10,
  "tiles": {
-  "people": 1820,
-  "requests": 717,
+  "people": 1823,
+  "requests": 719,
   "resources": 359,
   "delivered": 40
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 561,
-   "denominator": 717,
-   "pct": 78.2
+   "count": 563,
+   "denominator": 719,
+   "pct": 78.3
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 396,
-   "denominator": 717,
+   "count": 397,
+   "denominator": 719,
    "pct": 55.2
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 107,
-   "denominator": 717,
+   "denominator": 719,
    "pct": 14.9
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 75,
-   "denominator": 717,
-   "pct": 10.5
+   "denominator": 719,
+   "pct": 10.4
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 232,
-   "denominator": 717,
-   "pct": 32.4
+   "denominator": 719,
+   "pct": 32.3
   }
  ],
  "chips": {
-  "uninsured_pct": 78.2,
+  "uninsured_pct": 78.3,
   "medical_pct": 55.2,
   "veteran_pct": 14.9,
-  "first_responder_pct": 10.5,
-  "site_ready_pct": 32.4
+  "first_responder_pct": 10.4,
+  "site_ready_pct": 32.3
  },
- "intakes": 717,
- "people": 1820,
- "medical": 396,
+ "intakes": 719,
+ "people": 1823,
+ "medical": 397,
  "veterans": 107,
  "firstResponders": 75,
  "resources": 359,
  "siteReady": 232,
  "canTow": 207,
- "own": 422,
+ "own": 424,
  "insured": 156,
  "veteranFr": 156,
  "hours": [
@@ -106,7 +106,7 @@
   {
    "hour": "08",
    "label": "8 AM",
-   "count": 8
+   "count": 9
   },
   {
    "hour": "09",
@@ -121,7 +121,7 @@
   {
    "hour": "11",
    "label": "11 AM",
-   "count": 178
+   "count": 179
   },
   {
    "hour": "12",
@@ -257,7 +257,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 332,
+   "count": 333,
    "towns": [
     {
      "town": "Milton",
@@ -269,7 +269,7 @@
     },
     {
      "town": "Jay",
-     "count": 25
+     "count": 26
     },
     {
      "town": "Gulf Breeze",
@@ -411,14 +411,14 @@
   }
  ],
  "countyCounts": {
+  "Broward County": 3,
+  "Santa Rosa County": 333,
   "Escambia County": 264,
-  "Santa Rosa County": 332,
   "Okaloosa County": 44,
   "Bay County": 7,
   "unassigned": 19,
   "Walton County": 30,
   "Sarasota County": 1,
-  "Broward County": 2,
   "Fulton County": 1,
   "Burke County": 1,
   "Holmes County": 4,
@@ -434,6 +434,8 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Hollywood": 2,
+  "Jay": 26,
   "Pensacola": 214,
   "Milton": 221,
   "FWB": 1,
@@ -442,7 +444,6 @@
   "unresolved": 74,
   "Defuniak Springs": 2,
   "Freeport": 6,
-  "Jay": 25,
   "Ponce de Leon": 2,
   "Eastpoint": 1,
   "Molino": 1,
@@ -456,7 +457,6 @@
   "Fort Walton Beach": 12,
   "Gulf Breeze": 15,
   "Ponce De Leon": 6,
-  "Hollywood": 1,
   "Crestview": 11,
   "Ft Walton Beach": 1,
   "Cantonement": 1,
@@ -501,11 +501,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 234
+   "count": 235
   },
   {
    "label": "2",
-   "count": 198
+   "count": 199
   },
   {
    "label": "3",
@@ -539,9 +539,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 432,
+   "households": 434,
    "rigs": 59,
-   "delta": -373
+   "delta": -375
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -568,8 +568,8 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "717 families asking for help — 1820 people",
-  "396 households with medical conditions"
+  "719 families asking for help — 1823 people",
+  "397 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -580,6 +580,18 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.95158,
+   "lon": -87.14706,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Oct 31",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.40824,
    "lon": -87.23635,
@@ -8221,7 +8233,7 @@
     "Owns home"
    ],
    "da": null,
-   "delivered": "Oct 29"
+   "delivered": "Oct 30"
   },
   {
    "lat": 30.60545,
@@ -11037,11 +11049,17 @@
  },
  "operations36h": {
   "filed": 0,
-  "delivered": 0,
+  "delivered": 1,
   "days_to_delivery": 7.8,
   "en_route": 2
  },
  "event_stream": [
+  {
+   "ts": "2026-10-30T12:00:00+00:00",
+   "type": "RV DELIVERED",
+   "town": "Pensacola",
+   "household_size": 5
+  },
   {
    "ts": "2026-10-29T19:59:07.740958+00:00",
    "type": "RV DELIVERED",
@@ -11185,12 +11203,6 @@
    "type": "NEW INTAKE",
    "town": "Ponce de Leon",
    "household_size": 1
-  },
-  {
-   "ts": "2026-10-25T12:01:24+00:00",
-   "type": "NEW INTAKE",
-   "town": "Pace",
-   "household_size": 5
   }
  ],
  "last_event_at": "2026-10-30T20:35:07.412299+00:00"
