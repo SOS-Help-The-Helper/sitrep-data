@@ -1,5 +1,5 @@
 {
- "verified_as_of": "Nov 1, 2026 · 7:22 AM CT",
+ "verified_as_of": "Nov 1, 2026 · 11:10 AM CT",
  "requestsLast24h": 5,
  "tiles": {
   "people": 1830,
@@ -581,8 +581,8 @@
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
   {
-   "lat": 30.41888,
-   "lon": -87.22016,
+   "lat": 30.41915,
+   "lon": -87.22917,
    "town": "Pensacola",
    "county": "Escambia",
    "n": 1,
