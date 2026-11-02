@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 2, 2026 · 1:23 PM CT",
- "requestsLast24h": 5,
+ "verified_as_of": "Nov 2, 2026 · 3:33 PM CT",
+ "requestsLast24h": 8,
  "tiles": {
-  "people": 1838,
-  "requests": 730,
+  "people": 1842,
+  "requests": 733,
   "resources": 359,
   "delivered": 42
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 571,
-   "denominator": 730,
-   "pct": 78.2
+   "count": 574,
+   "denominator": 733,
+   "pct": 78.3
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 404,
-   "denominator": 730,
-   "pct": 55.3
+   "count": 406,
+   "denominator": 733,
+   "pct": 55.4
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 109,
-   "denominator": 730,
-   "pct": 14.9
+   "count": 110,
+   "denominator": 733,
+   "pct": 15.0
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 730,
+   "denominator": 733,
    "pct": 10.4
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 234,
-   "denominator": 730,
-   "pct": 32.1
+   "denominator": 733,
+   "pct": 31.9
   }
  ],
  "chips": {
-  "uninsured_pct": 78.2,
-  "medical_pct": 55.3,
-  "veteran_pct": 14.9,
+  "uninsured_pct": 78.3,
+  "medical_pct": 55.4,
+  "veteran_pct": 15.0,
   "first_responder_pct": 10.4,
-  "site_ready_pct": 32.1
+  "site_ready_pct": 31.9
  },
- "intakes": 730,
- "people": 1838,
- "medical": 404,
- "veterans": 109,
+ "intakes": 733,
+ "people": 1842,
+ "medical": 406,
+ "veterans": 110,
  "firstResponders": 76,
  "resources": 359,
  "siteReady": 234,
- "canTow": 212,
- "own": 430,
+ "canTow": 213,
+ "own": 432,
  "insured": 159,
- "veteranFr": 158,
+ "veteranFr": 159,
  "hours": [
   {
    "hour": "00",
@@ -136,12 +136,12 @@
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 23
+   "count": 24
   },
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 55
+   "count": 57
   },
   {
    "hour": "16",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 267,
+   "count": 268,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 216
+     "count": 217
     },
     {
      "town": "Town not yet confirmed",
@@ -261,7 +261,7 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 336,
+   "count": 337,
    "towns": [
     {
      "town": "Milton",
@@ -281,7 +281,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 12
+     "count": 13
     },
     {
      "town": "Navarre",
@@ -415,10 +415,10 @@
   }
  ],
  "countyCounts": {
-  "unassigned": 21,
+  "unassigned": 22,
+  "Santa Rosa County": 337,
+  "Escambia County": 268,
   "Okaloosa County": 47,
-  "Escambia County": 267,
-  "Santa Rosa County": 336,
   "Broward County": 3,
   "Bay County": 7,
   "Walton County": 30,
@@ -438,10 +438,11 @@
   "Conecuh County": 1
  },
  "towns": {
-  "unresolved": 78,
+  "Lakeland": 1,
+  "unresolved": 79,
+  "Pensacola": 217,
   "Shoemaker St Pensacola": 1,
   "Milton": 223,
-  "Pensacola": 216,
   "Gulf Breeze": 16,
   "Crestview": 12,
   "Hollywood": 2,
@@ -506,11 +507,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 244
+   "count": 246
   },
   {
    "label": "2",
-   "count": 199
+   "count": 200
   },
   {
    "label": "3",
@@ -544,9 +545,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 443,
+   "households": 446,
    "rigs": 59,
-   "delta": -384
+   "delta": -387
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -573,8 +574,8 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "730 families asking for help — 1838 people",
-  "404 households with medical conditions"
+  "733 families asking for help — 1842 people",
+  "406 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -585,6 +586,30 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.95919,
+   "lon": -87.16812,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Nov 2",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45435,
+   "lon": -87.25003,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 2",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
   {
    "lat": 30.7465,
    "lon": -86.57236,
