@@ -1578,8 +1578,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": "Major damage",
-   "delivered": "Oct 27"
+   "da": "Major damage"
   },
   {
    "lat": 30.68046,
@@ -2877,8 +2876,7 @@
    "flags": [
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 25"
+   "da": null
   },
   {
    "lat": 30.62861,
@@ -2995,8 +2993,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 26"
+   "da": null
   },
   {
    "lat": 30.46462,
@@ -3745,8 +3742,7 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 28"
+   "da": null
   },
   {
    "lat": 30.37356,
@@ -3835,8 +3831,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 31"
+   "da": null
   },
   {
    "lat": 30.49515,
@@ -3851,8 +3846,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": "Major damage",
-   "delivered": "Oct 27"
+   "da": "Major damage"
   },
   {
    "lat": 30.61833,
@@ -4116,8 +4110,7 @@
    "n": 1,
    "recv": "Oct 20",
    "flags": [],
-   "da": null,
-   "delivered": "Oct 25"
+   "da": null
   },
   {
    "lat": 30.46337,
@@ -4190,8 +4183,7 @@
     "Site ready",
     "Owns home"
    ],
-   "da": "Affected",
-   "delivered": "Oct 25"
+   "da": "Affected"
   },
   {
    "lat": 30.40038,
@@ -5252,8 +5244,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 31"
+   "da": null
   },
   {
    "lat": 30.45256,
@@ -5748,8 +5739,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 23"
+   "da": null
   },
   {
    "lat": 30.4602,
@@ -6620,8 +6610,7 @@
     "Medical",
     "Owns home"
    ],
-   "da": "Destroyed",
-   "delivered": "Oct 28"
+   "da": "Destroyed"
   },
   {
    "lat": 30.60224,
@@ -6710,8 +6699,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 27"
+   "da": null
   },
   {
    "lat": 30.46742,
@@ -6775,8 +6763,7 @@
    "flags": [
     "Medical"
    ],
-   "da": "Major damage",
-   "delivered": "Oct 25"
+   "da": "Major damage"
   },
   {
    "lat": 30.44561,
@@ -7024,8 +7011,7 @@
    "flags": [
     "Medical"
    ],
-   "da": "Destroyed",
-   "delivered": "Oct 28"
+   "da": "Destroyed"
   },
   {
    "lat": 30.54602,
@@ -7468,8 +7454,7 @@
     "Medical",
     "Site ready"
    ],
-   "da": "Destroyed",
-   "delivered": "Oct 24"
+   "da": "Destroyed"
   },
   {
    "lat": 30.42743,
@@ -7509,8 +7494,7 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 25"
+   "da": null
   },
   {
    "lat": 30.63503,
@@ -7592,8 +7576,7 @@
     "Medical",
     "Owns home"
    ],
-   "da": "Destroyed",
-   "delivered": "Oct 25"
+   "da": "Destroyed"
   },
   {
    "lat": 30.62678,
@@ -7681,8 +7664,7 @@
    "flags": [
     "Medical"
    ],
-   "da": "Destroyed",
-   "delivered": "Oct 25"
+   "da": "Destroyed"
   },
   {
    "lat": 30.83318,
@@ -7723,8 +7705,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Nov 1"
+   "da": null
   },
   {
    "lat": 30.62702,
@@ -7935,8 +7916,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 28"
+   "da": null
   },
   {
    "lat": 30.43143,
@@ -8305,8 +8285,7 @@
    "flags": [
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 30"
+   "da": null
   },
   {
    "lat": 30.60545,
@@ -8319,8 +8298,7 @@
     "Medical",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 26"
+   "da": null
   },
   {
    "lat": 30.64567,
@@ -8619,8 +8597,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 25"
+   "da": null
   },
   {
    "lat": 30.43058,
@@ -8715,8 +8692,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 25"
+   "da": null
   },
   {
    "lat": 30.43944,
@@ -8780,8 +8756,7 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 26"
+   "da": null
   },
   {
    "lat": 30.55105,
@@ -8845,8 +8820,7 @@
     "Veteran / First responder",
     "Can tow"
    ],
-   "da": null,
-   "delivered": "Oct 24"
+   "da": null
   },
   {
    "lat": 30.75151,
@@ -8927,8 +8901,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 24"
+   "da": null
   },
   {
    "lat": 30.45727,
@@ -8953,8 +8926,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 28"
+   "da": null
   },
   {
    "lat": 30.54155,
@@ -8966,8 +8938,7 @@
    "flags": [
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 22"
+   "da": null
   },
   {
    "lat": 30.54237,
@@ -8996,8 +8967,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed",
-   "delivered": "Oct 25"
+   "da": "Destroyed"
   },
   {
    "lat": 30.79752,
@@ -9046,8 +9016,7 @@
    "flags": [
     "Site ready"
    ],
-   "da": "Major damage",
-   "delivered": "Oct 27"
+   "da": "Major damage"
   },
   {
    "lat": 30.67995,
@@ -9084,8 +9053,7 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 24"
+   "da": null
   },
   {
    "lat": 30.62915,
@@ -9139,8 +9107,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null,
-   "delivered": "Oct 29"
+   "da": null
   },
   {
    "lat": 30.55048,
@@ -9155,8 +9122,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": "Major damage",
-   "delivered": "Oct 23"
+   "da": "Major damage"
   },
   {
    "lat": 30.65114,
@@ -9172,8 +9138,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 22"
+   "da": null
   },
   {
    "lat": 30.63714,
@@ -9226,8 +9191,7 @@
     "Site ready",
     "Owns home"
    ],
-   "da": "Major damage",
-   "delivered": "Oct 23"
+   "da": "Major damage"
   },
   {
    "lat": 30.63335,
@@ -9242,8 +9206,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 27"
+   "da": null
   },
   {
    "lat": 30.90625,
@@ -9268,8 +9231,7 @@
    "flags": [
     "Site ready"
    ],
-   "da": null,
-   "delivered": "Oct 25"
+   "da": null
   },
   {
    "lat": 30.51268,
@@ -9316,8 +9278,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 27"
+   "da": null
   },
   {
    "lat": 30.97747,
@@ -9331,8 +9292,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 25"
+   "da": null
   },
   {
    "lat": 30.63027,
@@ -9348,8 +9308,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 19"
+   "da": null
   },
   {
    "lat": 30.59812,
@@ -9377,8 +9336,7 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed",
-   "delivered": "Oct 19"
+   "da": "Destroyed"
   },
   {
    "lat": 30.59081,
@@ -9393,8 +9351,7 @@
     "Owns home",
     "Insured"
    ],
-   "da": null,
-   "delivered": "Oct 23"
+   "da": null
   }
  ],
  "damageLayers": {
