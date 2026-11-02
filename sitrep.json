@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 2, 2026 · 11:22 AM CT",
- "requestsLast24h": 2,
+ "verified_as_of": "Nov 2, 2026 · 1:23 PM CT",
+ "requestsLast24h": 5,
  "tiles": {
-  "people": 1835,
-  "requests": 727,
+  "people": 1838,
+  "requests": 730,
   "resources": 359,
   "delivered": 42
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 568,
-   "denominator": 727,
-   "pct": 78.1
+   "count": 571,
+   "denominator": 730,
+   "pct": 78.2
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 402,
-   "denominator": 727,
+   "count": 404,
+   "denominator": 730,
    "pct": 55.3
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 109,
-   "denominator": 727,
-   "pct": 15.0
+   "denominator": 730,
+   "pct": 14.9
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 727,
-   "pct": 10.5
+   "denominator": 730,
+   "pct": 10.4
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 234,
-   "denominator": 727,
-   "pct": 32.2
+   "denominator": 730,
+   "pct": 32.1
   }
  ],
  "chips": {
-  "uninsured_pct": 78.1,
+  "uninsured_pct": 78.2,
   "medical_pct": 55.3,
-  "veteran_pct": 15.0,
-  "first_responder_pct": 10.5,
-  "site_ready_pct": 32.2
+  "veteran_pct": 14.9,
+  "first_responder_pct": 10.4,
+  "site_ready_pct": 32.1
  },
- "intakes": 727,
- "people": 1835,
- "medical": 402,
+ "intakes": 730,
+ "people": 1838,
+ "medical": 404,
  "veterans": 109,
  "firstResponders": 76,
  "resources": 359,
  "siteReady": 234,
- "canTow": 211,
- "own": 429,
+ "canTow": 212,
+ "own": 430,
  "insured": 159,
  "veteranFr": 158,
  "hours": [
@@ -121,7 +121,7 @@
   {
    "hour": "11",
    "label": "11 AM",
-   "count": 181
+   "count": 182
   },
   {
    "hour": "12",
@@ -131,7 +131,7 @@
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 46
+   "count": 48
   },
   {
    "hour": "14",
@@ -319,7 +319,7 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 46,
+   "count": 47,
    "towns": [
     {
      "town": "Crestview",
@@ -331,7 +331,7 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 8
+     "count": 9
     },
     {
      "town": "Mary Esther",
@@ -415,12 +415,12 @@
   }
  ],
  "countyCounts": {
-  "Okaloosa County": 46,
+  "unassigned": 21,
+  "Okaloosa County": 47,
   "Escambia County": 267,
   "Santa Rosa County": 336,
   "Broward County": 3,
   "Bay County": 7,
-  "unassigned": 19,
   "Walton County": 30,
   "Sarasota County": 1,
   "Fulton County": 1,
@@ -438,7 +438,7 @@
   "Conecuh County": 1
  },
  "towns": {
-  "unresolved": 75,
+  "unresolved": 78,
   "Shoemaker St Pensacola": 1,
   "Milton": 223,
   "Pensacola": 216,
@@ -506,7 +506,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 241
+   "count": 244
   },
   {
    "label": "2",
@@ -544,9 +544,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 440,
+   "households": 443,
    "rigs": 59,
-   "delta": -381
+   "delta": -384
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -573,8 +573,8 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "727 families asking for help — 1835 people",
-  "402 households with medical conditions"
+  "730 families asking for help — 1838 people",
+  "404 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -585,6 +585,19 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.7465,
+   "lon": -86.57236,
+   "town": "",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Nov 2",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.52071,
    "lon": -86.48146,
@@ -608,6 +621,18 @@
    "flags": [
     "Medical",
     "Veteran / First responder",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60277,
+   "lon": -87.03654,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Nov 1",
+   "flags": [
     "Can tow"
    ],
    "da": null
@@ -1248,6 +1273,16 @@
    "da": null
   },
   {
+   "lat": 30.5905,
+   "lon": -87.0332,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 28",
+   "flags": [],
+   "da": null
+  },
+  {
    "lat": 30.39434,
    "lon": -87.02161,
    "town": "Panama City",
@@ -1453,6 +1488,20 @@
    "recv": "Oct 26",
    "flags": [
     "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43372,
+   "lon": -87.26457,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 26",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
    ],
    "da": null
   },
@@ -1854,6 +1903,16 @@
    "flags": [
     "Medical"
    ],
+   "da": null
+  },
+  {
+   "lat": 30.54517,
+   "lon": -87.10941,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 24",
+   "flags": [],
    "da": null
   },
   {
@@ -2908,7 +2967,8 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.62861,
@@ -3025,7 +3085,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 26"
   },
   {
    "lat": 30.46462,
@@ -3774,7 +3835,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 28"
   },
   {
    "lat": 30.37356,
@@ -3878,7 +3940,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 27"
   },
   {
    "lat": 30.61833,
@@ -4142,7 +4205,8 @@
    "n": 1,
    "recv": "Oct 20",
    "flags": [],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.46337,
@@ -4215,7 +4279,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": "Affected"
+   "da": "Affected",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.40038,
@@ -4271,6 +4336,21 @@
    "da": null
   },
   {
+   "lat": 30.58358,
+   "lon": -87.03537,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": "Major damage"
+  },
+  {
    "lat": 30.58729,
    "lon": -87.09168,
    "town": "Milton",
@@ -4293,6 +4373,34 @@
     "Can tow"
    ],
    "da": null
+  },
+  {
+   "lat": 30.41588,
+   "lon": -87.24398,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.43004,
+   "lon": -87.21351,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 5,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": "Major damage"
   },
   {
    "lat": 30.56934,
@@ -5099,6 +5207,20 @@
    "da": null
   },
   {
+   "lat": 30.5307,
+   "lon": -87.24146,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.63659,
    "lon": -87.04564,
    "town": "Milton",
@@ -5276,7 +5398,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 31"
   },
   {
    "lat": 30.45256,
@@ -5326,6 +5449,18 @@
     "Medical",
     "Can tow",
     "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42685,
+   "lon": -87.2522,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 6,
+   "recv": "Oct 20",
+   "flags": [
+    "Veteran / First responder"
    ],
    "da": null
   },
@@ -5771,7 +5906,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.4602,
@@ -6642,7 +6778,8 @@
     "Medical",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 28"
   },
   {
    "lat": 30.60224,
@@ -6731,7 +6868,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 27"
   },
   {
    "lat": 30.46742,
@@ -6795,7 +6933,8 @@
    "flags": [
     "Medical"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.44561,
@@ -7043,7 +7182,8 @@
    "flags": [
     "Medical"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 28"
   },
   {
    "lat": 30.54602,
@@ -7210,6 +7350,18 @@
     "Medical",
     "Site ready",
     "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.79461,
+   "lon": -85.37484,
+   "town": "Cottondale",
+   "county": "Jackson",
+   "n": 5,
+   "recv": "Oct 18",
+   "flags": [
     "Owns home"
    ],
    "da": null
@@ -7476,6 +7628,18 @@
    "da": null
   },
   {
+   "lat": 30.42145,
+   "lon": -87.25698,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Site ready"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.4755,
    "lon": -87.26165,
    "town": "Pensacola",
@@ -7486,7 +7650,8 @@
     "Medical",
     "Site ready"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.42743,
@@ -7526,7 +7691,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.63503,
@@ -7608,7 +7774,8 @@
     "Medical",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.62678,
@@ -7696,7 +7863,8 @@
    "flags": [
     "Medical"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.83318,
@@ -7737,7 +7905,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Nov 1"
   },
   {
    "lat": 30.62702,
@@ -7847,6 +8016,16 @@
    "da": null
   },
   {
+   "lat": 30.63283,
+   "lon": -87.05595,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 17",
+   "flags": [],
+   "da": null
+  },
+  {
    "lat": 30.47053,
    "lon": -87.2227,
    "town": "Pensacola",
@@ -7948,7 +8127,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 28"
   },
   {
    "lat": 30.43143,
@@ -8317,7 +8497,8 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 30"
   },
   {
    "lat": 30.60545,
@@ -8330,7 +8511,8 @@
     "Medical",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 26"
   },
   {
    "lat": 30.64567,
@@ -8629,7 +8811,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.43058,
@@ -8724,7 +8907,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.43944,
@@ -8788,7 +8972,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 26"
   },
   {
    "lat": 30.55105,
@@ -8852,7 +9037,8 @@
     "Veteran / First responder",
     "Can tow"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.75151,
@@ -8933,7 +9119,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.45727,
@@ -8958,7 +9145,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 28"
   },
   {
    "lat": 30.54155,
@@ -8970,7 +9158,8 @@
    "flags": [
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 22"
   },
   {
    "lat": 30.54237,
@@ -8999,7 +9188,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.79752,
@@ -9048,7 +9238,8 @@
    "flags": [
     "Site ready"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 27"
   },
   {
    "lat": 30.67995,
@@ -9085,7 +9276,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 24"
   },
   {
    "lat": 30.62915,
@@ -9139,7 +9331,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 29"
   },
   {
    "lat": 30.55048,
@@ -9154,7 +9347,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.65114,
@@ -9170,7 +9364,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 22"
   },
   {
    "lat": 30.63714,
@@ -9223,7 +9418,8 @@
     "Site ready",
     "Owns home"
    ],
-   "da": "Major damage"
+   "da": "Major damage",
+   "delivered": "Oct 23"
   },
   {
    "lat": 30.63335,
@@ -9238,7 +9434,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 27"
   },
   {
    "lat": 30.90625,
@@ -9263,7 +9460,8 @@
    "flags": [
     "Site ready"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.51268,
@@ -9310,7 +9508,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 27"
   },
   {
    "lat": 30.97747,
@@ -9324,7 +9523,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 25"
   },
   {
    "lat": 30.63027,
@@ -9340,7 +9540,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 19"
   },
   {
    "lat": 30.59812,
@@ -9368,7 +9569,39 @@
     "Can tow",
     "Owns home"
    ],
-   "da": "Destroyed"
+   "da": "Destroyed",
+   "delivered": "Oct 19"
+  },
+  {
+   "lat": 30.64044,
+   "lon": -87.07151,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null,
+   "delivered": "Oct 24"
+  },
+  {
+   "lat": 30.61934,
+   "lon": -87.03785,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
   },
   {
    "lat": 30.59081,
@@ -9383,7 +9616,8 @@
     "Owns home",
     "Insured"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Oct 23"
   }
  ],
  "damageLayers": {
