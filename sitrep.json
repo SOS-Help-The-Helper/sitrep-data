@@ -1,11 +1,11 @@
 {
- "verified_as_of": "Nov 3, 2026 · 1:29 PM CT",
- "requestsLast24h": 9,
+ "verified_as_of": "Nov 3, 2026 · 3:26 PM CT",
+ "requestsLast24h": 8,
  "tiles": {
   "people": 1858,
   "requests": 743,
   "resources": 359,
-  "delivered": 46
+  "delivered": 47
  },
  "metrics": [
   {
@@ -590,7 +590,7 @@
  ],
  "action": [
   "359 rigs standing by",
-  "46 RVs delivered",
+  "47 RVs delivered",
   "238 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
@@ -7041,7 +7041,8 @@
     "Can tow",
     "Owns home"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Nov 3"
   },
   {
    "lat": 30.50314,
@@ -12057,8 +12058,8 @@
  },
  "operations36h": {
   "filed": 0,
-  "delivered": 4,
-  "days_to_delivery": 8.6,
+  "delivered": 5,
+  "days_to_delivery": 8.7,
   "en_route": 2
  },
  "event_stream": [
@@ -12067,6 +12068,12 @@
    "type": "RV DELIVERED",
    "town": "Milton",
    "household_size": 4
+  },
+  {
+   "ts": "2026-11-03T12:00:00+00:00",
+   "type": "RV DELIVERED",
+   "town": "DeFuniak Springs",
+   "household_size": 2
   },
   {
    "ts": "2026-11-02T22:16:24.830580+00:00",
@@ -12205,12 +12212,6 @@
    "type": "RV DELIVERED",
    "town": "Pace",
    "household_size": 3
-  },
-  {
-   "ts": "2026-10-26T12:00:00+00:00",
-   "type": "RV DELIVERED",
-   "town": "Milton",
-   "household_size": 2
   }
  ],
  "last_event_at": "2026-11-03T12:22:31.139710+00:00"
