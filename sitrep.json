@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 3, 2026 · 11:24 AM CT",
- "requestsLast24h": 5,
+ "verified_as_of": "Nov 3, 2026 · 1:29 PM CT",
+ "requestsLast24h": 9,
  "tiles": {
-  "people": 1852,
-  "requests": 738,
+  "people": 1858,
+  "requests": 743,
   "resources": 359,
   "delivered": 46
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 579,
-   "denominator": 738,
-   "pct": 78.5
+   "count": 582,
+   "denominator": 743,
+   "pct": 78.3
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 410,
-   "denominator": 738,
-   "pct": 55.6
+   "count": 414,
+   "denominator": 743,
+   "pct": 55.7
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 110,
-   "denominator": 738,
+   "count": 111,
+   "denominator": 743,
    "pct": 14.9
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 738,
-   "pct": 10.3
+   "denominator": 743,
+   "pct": 10.2
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 237,
-   "denominator": 738,
-   "pct": 32.1
+   "count": 238,
+   "denominator": 743,
+   "pct": 32.0
   }
  ],
  "chips": {
-  "uninsured_pct": 78.5,
-  "medical_pct": 55.6,
+  "uninsured_pct": 78.3,
+  "medical_pct": 55.7,
   "veteran_pct": 14.9,
-  "first_responder_pct": 10.3,
-  "site_ready_pct": 32.1
+  "first_responder_pct": 10.2,
+  "site_ready_pct": 32.0
  },
- "intakes": 738,
- "people": 1852,
- "medical": 410,
- "veterans": 110,
+ "intakes": 743,
+ "people": 1858,
+ "medical": 414,
+ "veterans": 111,
  "firstResponders": 76,
  "resources": 359,
- "siteReady": 237,
+ "siteReady": 238,
  "canTow": 213,
- "own": 435,
- "insured": 159,
- "veteranFr": 159,
+ "own": 439,
+ "insured": 161,
+ "veteranFr": 160,
  "hours": [
   {
    "hour": "00",
@@ -126,12 +126,12 @@
   {
    "hour": "12",
    "label": "12 PM",
-   "count": 57
+   "count": 58
   },
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 48
+   "count": 52
   },
   {
    "hour": "14",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 271,
+   "count": 273,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 220
+     "count": 222
     },
     {
      "town": "Town not yet confirmed",
@@ -319,7 +319,7 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 47,
+   "count": 49,
    "towns": [
     {
      "town": "Crestview",
@@ -348,6 +348,14 @@
     {
      "town": "Shalimar",
      "count": 2
+    },
+    {
+     "town": "Orange Beach",
+     "count": 1
+    },
+    {
+     "town": "32579",
+     "count": 1
     },
     {
      "town": "FWB",
@@ -415,10 +423,10 @@
   }
  ],
  "countyCounts": {
-  "Escambia County": 271,
+  "Okaloosa County": 49,
+  "Escambia County": 273,
+  "unassigned": 23,
   "Santa Rosa County": 339,
-  "unassigned": 22,
-  "Okaloosa County": 47,
   "Broward County": 3,
   "Bay County": 7,
   "Walton County": 30,
@@ -438,7 +446,10 @@
   "Conecuh County": 1
  },
  "towns": {
-  "Pensacola": 220,
+  "Orange Beach": 1,
+  "32579": 1,
+  "Pensacola": 222,
+  "33566": 1,
   "Pace": 39,
   "Lakeland": 1,
   "unresolved": 79,
@@ -507,11 +518,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 247
+   "count": 251
   },
   {
    "label": "2",
-   "count": 203
+   "count": 204
   },
   {
    "label": "3",
@@ -545,9 +556,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 450,
+   "households": 455,
    "rigs": 59,
-   "delta": -391
+   "delta": -396
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -574,18 +585,85 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "738 families asking for help — 1852 people",
-  "410 households with medical conditions"
+  "743 families asking for help — 1858 people",
+  "414 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "46 RVs delivered",
-  "237 families site-ready for immediate placement",
+  "238 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.44177,
+   "lon": -86.58223,
+   "town": "Orange Beach",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Nov 3",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44177,
+   "lon": -86.58223,
+   "town": "32579",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Nov 3",
+   "flags": [
+    "Medical",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44284,
+   "lon": -87.31063,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Nov 3",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 27.58396,
+   "lon": -81.14053,
+   "town": "33566",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 3",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.45435,
+   "lon": -87.25003,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 3",
+   "flags": [
+    "Veteran / First responder"
+   ],
+   "da": null
+  },
   {
    "lat": 30.44284,
    "lon": -87.31063,
@@ -652,6 +730,21 @@
    "da": null
   },
   {
+   "lat": 28.04145,
+   "lon": -81.99051,
+   "town": "Lakeland",
+   "county": "",
+   "n": 2,
+   "recv": "Nov 2",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.95919,
    "lon": -87.16812,
    "town": "",
@@ -676,6 +769,19 @@
    "da": null
   },
   {
+   "lat": 37.54529,
+   "lon": -77.32679,
+   "town": "",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 2",
+   "flags": [
+    "Medical",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.7465,
    "lon": -86.57236,
    "town": "",
@@ -686,6 +792,16 @@
     "Medical",
     "Owns home"
    ],
+   "da": null
+  },
+  {
+   "lat": 35.20433,
+   "lon": -80.87211,
+   "town": "",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 2",
+   "flags": [],
    "da": null
   },
   {
@@ -794,6 +910,19 @@
     "Can tow",
     "Owns home",
     "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 26.01215,
+   "lon": -80.11897,
+   "town": "Hollywood",
+   "county": "Broward",
+   "n": 1,
+   "recv": "Oct 31",
+   "flags": [
+    "Medical",
+    "Owns home"
    ],
    "da": null
   },
@@ -1479,6 +1608,19 @@
    "da": null
   },
   {
+   "lat": 38.59295,
+   "lon": -121.48625,
+   "town": "",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 27",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.52797,
    "lon": -87.27096,
    "town": "Pensacola",
@@ -1566,6 +1708,19 @@
     "Medical",
     "Veteran / First responder",
     "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 29.62386,
+   "lon": -81.89037,
+   "town": "Interlachen",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 27",
+   "flags": [
+    "Medical",
+    "Can tow"
    ],
    "da": null
   },
@@ -1932,6 +2087,35 @@
    "da": null
   },
   {
+   "lat": 42.3734,
+   "lon": -71.04087,
+   "town": "",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 25",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 27.15711,
+   "lon": -82.46466,
+   "town": "Nokomis",
+   "county": "Sarasota",
+   "n": 1,
+   "recv": "Oct 24",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.96665,
    "lon": -87.40299,
    "town": "Century",
@@ -2285,6 +2469,20 @@
    "da": null
   },
   {
+   "lat": 42.36763,
+   "lon": -83.08936,
+   "town": "",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 23",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.45212,
    "lon": -87.24279,
    "town": "Pensacola",
@@ -2627,6 +2825,19 @@
    "da": null
   },
   {
+   "lat": 32.45639,
+   "lon": -93.78164,
+   "town": "Hollywood",
+   "county": "Broward",
+   "n": 1,
+   "recv": "Oct 22",
+   "flags": [
+    "Site ready",
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.61218,
    "lon": -87.1679,
    "town": "",
@@ -2669,6 +2880,19 @@
    "n": 2,
    "recv": "Oct 22",
    "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.72381,
+   "lon": -87.31491,
+   "town": "",
+   "county": "Escambia",
+   "n": 4,
+   "recv": "Oct 22",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
    "da": null
   },
   {
@@ -3070,6 +3294,32 @@
    "flags": [
     "Site ready",
     "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 43.04037,
+   "lon": -74.37982,
+   "town": "Gloversville",
+   "county": "Fulton",
+   "n": 3,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 43.04037,
+   "lon": -74.37982,
+   "town": "",
+   "county": "",
+   "n": 3,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical",
     "Owns home"
    ],
    "da": null
@@ -3609,6 +3859,16 @@
    "da": null
   },
   {
+   "lat": 37.78336,
+   "lon": -122.46681,
+   "town": "",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 21",
+   "flags": [],
+   "da": null
+  },
+  {
    "lat": 30.51801,
    "lon": -86.13064,
    "town": "Freeport",
@@ -3709,6 +3969,19 @@
    "n": 2,
    "recv": "Oct 21",
    "flags": [],
+   "da": null
+  },
+  {
+   "lat": 32.83347,
+   "lon": -82.23429,
+   "town": "",
+   "county": "Burke",
+   "n": 2,
+   "recv": "Oct 21",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
    "da": null
   },
   {
@@ -4426,6 +4699,21 @@
    "da": null
   },
   {
+   "lat": 42.50382,
+   "lon": -72.63343,
+   "town": "Fort Lauderdale",
+   "county": "Broward",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.58358,
    "lon": -87.03537,
    "town": "Milton",
@@ -4622,6 +4910,31 @@
    "da": null
   },
   {
+   "lat": 28.93489,
+   "lon": -82.52254,
+   "town": "Beverly Hills",
+   "county": "Citrus",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 38.89822,
+   "lon": -77.02538,
+   "town": "",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [],
+   "da": null
+  },
+  {
    "lat": 30.18417,
    "lon": -85.78662,
    "town": "Panama City Beach",
@@ -4656,6 +4969,22 @@
    "n": 4,
    "recv": "Oct 20",
    "flags": [
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.32464,
+   "lon": -83.14849,
+   "town": "Live Oak",
+   "county": "Suwannee",
+   "n": 5,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
     "Site ready",
     "Owns home",
     "Insured"
@@ -4780,6 +5109,19 @@
    "da": null
   },
   {
+   "lat": 38.25624,
+   "lon": -76.76775,
+   "town": "",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.42131,
    "lon": -87.21691,
    "town": "Pensacola",
@@ -4788,6 +5130,19 @@
    "recv": "Oct 20",
    "flags": [
     "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.3025,
+   "lon": -82.98352,
+   "town": "Live Oak",
+   "county": "Suwannee",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home"
    ],
    "da": null
   },
@@ -4803,6 +5158,19 @@
     "Veteran / First responder",
     "Owns home",
     "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 45.51236,
+   "lon": -123.0714,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Owns home"
    ],
    "da": null
   },
@@ -4972,6 +5340,19 @@
    "da": null
   },
   {
+   "lat": 30.5687,
+   "lon": -87.24572,
+   "town": "",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Oct 20",
+   "flags": [
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.93937,
    "lon": -87.12228,
    "town": "Jay",
@@ -5027,6 +5408,19 @@
    ],
    "da": null,
    "delivered": "Nov 1"
+  },
+  {
+   "lat": 30.66259,
+   "lon": -87.34511,
+   "town": "",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
   },
   {
    "lat": 30.87932,
@@ -5171,6 +5565,20 @@
    "da": "Destroyed"
   },
   {
+   "lat": 44.89072,
+   "lon": -73.59808,
+   "town": "Altona",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.42498,
    "lon": -87.24691,
    "town": "Pensacola",
@@ -5312,6 +5720,21 @@
    "da": null
   },
   {
+   "lat": 27.82049,
+   "lon": -82.8161,
+   "town": "North Redington Beach",
+   "county": "Pinellas",
+   "n": 5,
+   "recv": "Oct 20",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.63659,
    "lon": -87.04564,
    "town": "Milton",
@@ -5335,6 +5758,20 @@
    "flags": [
     "Medical",
     "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 41.91985,
+   "lon": -88.32815,
+   "town": "Jacksonville",
+   "county": "Duval",
+   "n": 3,
+   "recv": "Oct 20",
+   "flags": [
+    "Veteran / First responder",
+    "Can tow",
+    "Owns home"
    ],
    "da": null
   },
@@ -5423,6 +5860,19 @@
    "recv": "Oct 20",
    "flags": [
     "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 31.23847,
+   "lon": -82.25571,
+   "town": "",
+   "county": "Taylor",
+   "n": 4,
+   "recv": "Oct 20",
+   "flags": [
+    "Owns home",
+    "Insured"
    ],
    "da": null
   },
@@ -5552,6 +6002,18 @@
    "recv": "Oct 20",
    "flags": [
     "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 35.45999,
+   "lon": -94.39672,
+   "town": "",
+   "county": "",
+   "n": 6,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical"
    ],
    "da": null
   },
@@ -5739,6 +6201,20 @@
     "Site ready",
     "Can tow",
     "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.60218,
+   "lon": -87.15861,
+   "town": "Pace",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready",
     "Insured"
    ],
    "da": null
@@ -5961,6 +6437,20 @@
    "da": null
   },
   {
+   "lat": 42.47024,
+   "lon": -93.84211,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Oct 20",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.86036,
    "lon": -86.85272,
    "town": "Munson",
@@ -6172,6 +6662,20 @@
    "flags": [
     "Medical",
     "Veteran / First responder",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 35.98909,
+   "lon": -95.81514,
+   "town": "",
+   "county": "Santa Rosa",
+   "n": 5,
+   "recv": "Oct 20",
+   "flags": [
+    "Can tow",
     "Owns home",
     "Insured"
    ],
@@ -6590,6 +7094,18 @@
    "da": null
   },
   {
+   "lat": 39.48887,
+   "lon": -80.15046,
+   "town": "Florida",
+   "county": "",
+   "n": 2,
+   "recv": "Oct 18",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.64451,
    "lon": -87.03894,
    "town": "Milton",
@@ -6627,6 +7143,18 @@
     "Veteran / First responder",
     "Can tow",
     "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 26.11655,
+   "lon": -80.37356,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
    ],
    "da": null
   },
@@ -6736,6 +7264,20 @@
    "recv": "Oct 18",
    "flags": [
     "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 33.44108,
+   "lon": -82.04168,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
    ],
    "da": null
   },
@@ -6882,6 +7424,18 @@
    "flags": [
     "Medical",
     "Veteran / First responder"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.74965,
+   "lon": -86.56265,
+   "town": "Crestview",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
    ],
    "da": null
   },
@@ -7038,6 +7592,18 @@
     "Veteran / First responder",
     "Owns home",
     "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 26.01792,
+   "lon": -80.2019,
+   "town": "Florida",
+   "county": "",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical"
    ],
    "da": null
   },
@@ -7515,6 +8081,19 @@
    "da": null
   },
   {
+   "lat": 41.78,
+   "lon": -87.61596,
+   "town": "Florida",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Oct 18",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
    "lat": 30.62355,
    "lon": -85.71843,
    "town": "Vernon",
@@ -7554,6 +8133,20 @@
    "recv": "Oct 18",
    "flags": [
     "Site ready"
+   ],
+   "da": null
+  },
+  {
+   "lat": 26.10608,
+   "lon": -80.36237,
+   "town": "Florida",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Oct 18",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
    ],
    "da": null
   },
@@ -7836,6 +8429,18 @@
     "Medical",
     "Veteran / First responder",
     "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 29.49484,
+   "lon": -82.95658,
+   "town": "Chiefland",
+   "county": "Levy",
+   "n": 4,
+   "recv": "Oct 17",
+   "flags": [
+    "Can tow"
    ],
    "da": null
   },
@@ -9636,6 +10241,19 @@
    ],
    "da": null,
    "delivered": "Oct 19"
+  },
+  {
+   "lat": 30.39748,
+   "lon": -86.61262,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 4,
+   "recv": "Oct 16",
+   "flags": [
+    "Medical",
+    "Veteran / First responder"
+   ],
+   "da": null
   },
   {
    "lat": 30.59812,
