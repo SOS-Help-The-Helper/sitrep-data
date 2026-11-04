@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 4, 2026 · 1:03 PM CT",
- "requestsLast24h": 1,
+ "verified_as_of": "Nov 4, 2026 · 3:31 PM CT",
+ "requestsLast24h": 5,
  "tiles": {
-  "people": 1866,
-  "requests": 747,
+  "people": 1871,
+  "requests": 751,
   "resources": 359,
   "delivered": 47
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 585,
-   "denominator": 747,
-   "pct": 78.3
+   "count": 589,
+   "denominator": 751,
+   "pct": 78.4
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 415,
-   "denominator": 747,
-   "pct": 55.6
+   "count": 417,
+   "denominator": 751,
+   "pct": 55.5
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 111,
-   "denominator": 747,
-   "pct": 14.9
+   "denominator": 751,
+   "pct": 14.8
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 747,
-   "pct": 10.2
+   "denominator": 751,
+   "pct": 10.1
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 240,
-   "denominator": 747,
-   "pct": 32.1
+   "count": 242,
+   "denominator": 751,
+   "pct": 32.2
   }
  ],
  "chips": {
-  "uninsured_pct": 78.3,
-  "medical_pct": 55.6,
-  "veteran_pct": 14.9,
-  "first_responder_pct": 10.2,
-  "site_ready_pct": 32.1
+  "uninsured_pct": 78.4,
+  "medical_pct": 55.5,
+  "veteran_pct": 14.8,
+  "first_responder_pct": 10.1,
+  "site_ready_pct": 32.2
  },
- "intakes": 747,
- "people": 1866,
- "medical": 415,
+ "intakes": 751,
+ "people": 1871,
+ "medical": 417,
  "veterans": 111,
  "firstResponders": 76,
  "resources": 359,
- "siteReady": 240,
- "canTow": 213,
- "own": 442,
+ "siteReady": 242,
+ "canTow": 215,
+ "own": 444,
  "insured": 162,
  "veteranFr": 160,
  "hours": [
@@ -141,7 +141,7 @@
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 58
+   "count": 62
   },
   {
    "hour": "16",
@@ -187,15 +187,15 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 274,
+   "count": 280,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 223
+     "count": 224
     },
     {
      "town": "Town not yet confirmed",
-     "count": 20
+     "count": 24
     },
     {
      "town": "Cantonment",
@@ -204,6 +204,10 @@
     {
      "town": "Florida",
      "count": 6
+    },
+    {
+     "town": "Brewton",
+     "count": 2
     },
     {
      "town": "Century",
@@ -252,16 +256,12 @@
     {
      "town": "Ensley",
      "count": 1
-    },
-    {
-     "town": "Brewton",
-     "count": 1
     }
    ]
   },
   {
    "county": "Santa Rosa County",
-   "count": 339,
+   "count": 341,
    "towns": [
     {
      "town": "Milton",
@@ -276,12 +276,12 @@
      "count": 26
     },
     {
-     "town": "Gulf Breeze",
+     "town": "Town not yet confirmed",
      "count": 15
     },
     {
-     "town": "Town not yet confirmed",
-     "count": 13
+     "town": "Gulf Breeze",
+     "count": 15
     },
     {
      "town": "Navarre",
@@ -319,7 +319,7 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 49,
+   "count": 52,
    "towns": [
     {
      "town": "Crestview",
@@ -331,11 +331,15 @@
     },
     {
      "town": "Town not yet confirmed",
-     "count": 9
+     "count": 11
     },
     {
      "town": "Mary Esther",
      "count": 3
+    },
+    {
+     "town": "Ft Walton Beach",
+     "count": 2
     },
     {
      "town": "Niceville",
@@ -359,10 +363,6 @@
     },
     {
      "town": "FWB",
-     "count": 1
-    },
-    {
-     "town": "Ft Walton Beach",
      "count": 1
     },
     {
@@ -423,13 +423,19 @@
   }
  ],
  "countyCounts": {
-  "Escambia County": 274,
-  "unassigned": 26,
-  "Okaloosa County": 49,
-  "Santa Rosa County": 339,
-  "Broward County": 3,
+  "Okaloosa County": 52,
+  "unassigned": 11,
+  "Escambia County": 280,
+  "Washington County": 2,
+  "Santa Rosa County": 341,
+  "Polk County": 1,
+  "Broward County": 5,
   "Bay County": 7,
   "Walton County": 30,
+  "Franklin County": 1,
+  "Baldwin County": 1,
+  "Madera County": 1,
+  "Putnam County": 1,
   "Sarasota County": 1,
   "Fulton County": 1,
   "Burke County": 1,
@@ -441,12 +447,14 @@
   "Taylor County": 1,
   "Leon County": 1,
   "Jackson County": 2,
-  "Washington County": 1,
   "Levy County": 1,
   "Conecuh County": 1
  },
  "towns": {
-  "Pensacola": 223,
+  "Ft Walton Beach": 2,
+  "unresolved": 80,
+  "Tallahassee": 1,
+  "Pensacola": 224,
   "Chipley": 2,
   "Brewton": 2,
   "Orange Beach": 1,
@@ -454,7 +462,6 @@
   "33566": 1,
   "Pace": 39,
   "Lakeland": 1,
-  "unresolved": 79,
   "Shoemaker St Pensacola": 1,
   "Milton": 223,
   "Gulf Breeze": 16,
@@ -477,7 +484,6 @@
   "Cantonment": 11,
   "Fort Walton Beach": 12,
   "Ponce De Leon": 6,
-  "Ft Walton Beach": 1,
   "Cantonement": 1,
   "Santa Rosa": 1,
   "PDL": 2,
@@ -519,11 +525,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 252
+   "count": 255
   },
   {
    "label": "2",
-   "count": 206
+   "count": 207
   },
   {
    "label": "3",
@@ -557,9 +563,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 458,
+   "households": 462,
    "rigs": 59,
-   "delta": -399
+   "delta": -403
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -586,18 +592,70 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "747 families asking for help — 1866 people",
-  "415 households with medical conditions"
+  "751 families asking for help — 1871 people",
+  "417 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "47 RVs delivered",
-  "240 families site-ready for immediate placement",
+  "242 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.40576,
+   "lon": -86.61884,
+   "town": "Ft Walton Beach",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Nov 4",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.40972,
+   "lon": -86.6796,
+   "town": "",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 4",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.50449,
+   "lon": -84.23532,
+   "town": "Tallahassee",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 4",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.52873,
+   "lon": -87.26943,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Nov 4",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.43599,
    "lon": -87.2655,
@@ -627,7 +685,7 @@
    "lat": 30.77411,
    "lon": -85.53307,
    "town": "Chipley",
-   "county": "",
+   "county": "Washington",
    "n": 3,
    "recv": "Nov 4",
    "flags": [
@@ -641,7 +699,7 @@
    "lat": 31.09693,
    "lon": -87.03501,
    "town": "Brewton",
-   "county": "",
+   "county": "Escambia",
    "n": 2,
    "recv": "Nov 3",
    "flags": [
@@ -785,7 +843,7 @@
    "lat": 28.04145,
    "lon": -81.99051,
    "town": "Lakeland",
-   "county": "",
+   "county": "Polk",
    "n": 2,
    "recv": "Nov 2",
    "flags": [
@@ -824,7 +882,7 @@
    "lat": 37.54529,
    "lon": -77.32679,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 1,
    "recv": "Nov 2",
    "flags": [
@@ -850,7 +908,7 @@
    "lat": 35.20433,
    "lon": -80.87211,
    "town": "",
-   "county": "",
+   "county": "Okaloosa",
    "n": 1,
    "recv": "Nov 2",
    "flags": [],
@@ -1245,7 +1303,7 @@
    "lat": 30.44917,
    "lon": -87.31127,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 4,
    "recv": "Oct 29",
    "flags": [
@@ -1352,7 +1410,7 @@
    "lat": 30.64166,
    "lon": -87.03549,
    "town": "",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 5,
    "recv": "Oct 29",
    "flags": [
@@ -1482,7 +1540,7 @@
    "lat": 29.76529,
    "lon": -84.83278,
    "town": "Eastpoint",
-   "county": "",
+   "county": "Franklin",
    "n": 7,
    "recv": "Oct 28",
    "flags": [
@@ -1496,7 +1554,7 @@
    "lat": 30.40253,
    "lon": -86.99951,
    "town": "",
-   "county": "",
+   "county": "Santa Rosa",
    "n": 1,
    "recv": "Oct 28",
    "flags": [
@@ -1623,7 +1681,7 @@
    "lat": 30.51596,
    "lon": -87.46824,
    "town": "Seminole",
-   "county": "",
+   "county": "Baldwin",
    "n": 4,
    "recv": "Oct 27",
    "flags": [
@@ -1663,7 +1721,7 @@
    "lat": 38.59295,
    "lon": -121.48625,
    "town": "",
-   "county": "",
+   "county": "Madera",
    "n": 2,
    "recv": "Oct 27",
    "flags": [
@@ -1740,7 +1798,7 @@
    "lat": 30.42519,
    "lon": -87.29338,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 1,
    "recv": "Oct 27",
    "flags": [
@@ -1767,7 +1825,7 @@
    "lat": 29.62386,
    "lon": -81.89037,
    "town": "Interlachen",
-   "county": "",
+   "county": "Putnam",
    "n": 1,
    "recv": "Oct 27",
    "flags": [
@@ -1780,7 +1838,7 @@
    "lat": 30.46073,
    "lon": -87.30802,
    "town": "",
-   "county": "",
+   "county": "Escambia",
    "n": 1,
    "recv": "Oct 26",
    "flags": [
@@ -3178,7 +3236,7 @@
    "lat": 30.42743,
    "lon": -86.63838,
    "town": "",
-   "county": "",
+   "county": "Okaloosa",
    "n": 3,
    "recv": "Oct 22",
    "flags": [
@@ -7203,7 +7261,7 @@
    "lat": 26.11655,
    "lon": -80.37356,
    "town": "Florida",
-   "county": "",
+   "county": "Broward",
    "n": 1,
    "recv": "Oct 18",
    "flags": [
@@ -7652,7 +7710,7 @@
    "lat": 26.01792,
    "lon": -80.2019,
    "town": "Florida",
-   "county": "",
+   "county": "Broward",
    "n": 1,
    "recv": "Oct 18",
    "flags": [
