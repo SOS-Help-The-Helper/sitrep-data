@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 3, 2026 · 3:26 PM CT",
- "requestsLast24h": 8,
+ "verified_as_of": "Nov 4, 2026 · 7:14 AM CT",
+ "requestsLast24h": 6,
  "tiles": {
-  "people": 1858,
-  "requests": 743,
+  "people": 1865,
+  "requests": 746,
   "resources": 359,
   "delivered": 47
  },
@@ -11,56 +11,56 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 582,
-   "denominator": 743,
+   "count": 584,
+   "denominator": 746,
    "pct": 78.3
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 414,
-   "denominator": 743,
-   "pct": 55.7
+   "count": 415,
+   "denominator": 746,
+   "pct": 55.6
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 111,
-   "denominator": 743,
+   "denominator": 746,
    "pct": 14.9
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 743,
+   "denominator": 746,
    "pct": 10.2
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 238,
-   "denominator": 743,
+   "count": 239,
+   "denominator": 746,
    "pct": 32.0
   }
  ],
  "chips": {
   "uninsured_pct": 78.3,
-  "medical_pct": 55.7,
+  "medical_pct": 55.6,
   "veteran_pct": 14.9,
   "first_responder_pct": 10.2,
   "site_ready_pct": 32.0
  },
- "intakes": 743,
- "people": 1858,
- "medical": 414,
+ "intakes": 746,
+ "people": 1865,
+ "medical": 415,
  "veterans": 111,
  "firstResponders": 76,
  "resources": 359,
- "siteReady": 238,
+ "siteReady": 239,
  "canTow": 213,
- "own": 439,
- "insured": 161,
+ "own": 442,
+ "insured": 162,
  "veteranFr": 160,
  "hours": [
   {
@@ -101,7 +101,7 @@
   {
    "hour": "07",
    "label": "7 AM",
-   "count": 24
+   "count": 26
   },
   {
    "hour": "08",
@@ -141,7 +141,7 @@
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 57
+   "count": 58
   },
   {
    "hour": "16",
@@ -423,9 +423,9 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 26,
   "Okaloosa County": 49,
   "Escambia County": 273,
-  "unassigned": 23,
   "Santa Rosa County": 339,
   "Broward County": 3,
   "Bay County": 7,
@@ -446,6 +446,8 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Chipley": 2,
+  "Brewton": 2,
   "Orange Beach": 1,
   "32579": 1,
   "Pensacola": 222,
@@ -512,7 +514,6 @@
   "Baker": 1,
   "Ensley": 1,
   "Allentown": 1,
-  "Brewton": 1,
   "Castleberry": 1
  },
  "sizes": [
@@ -522,11 +523,11 @@
   },
   {
    "label": "2",
-   "count": 204
+   "count": 206
   },
   {
    "label": "3",
-   "count": 113
+   "count": 114
   },
   {
    "label": "4",
@@ -556,15 +557,15 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 455,
+   "households": 457,
    "rigs": 59,
-   "delta": -396
+   "delta": -398
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 271,
+   "households": 272,
    "rigs": 300,
-   "delta": 29
+   "delta": 28
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
@@ -585,18 +586,57 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "743 families asking for help — 1858 people",
-  "414 households with medical conditions"
+  "746 families asking for help — 1865 people",
+  "415 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "47 RVs delivered",
-  "238 families site-ready for immediate placement",
+  "239 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 38.44042,
+   "lon": -122.7147,
+   "town": "Chipley",
+   "county": "",
+   "n": 2,
+   "recv": "Nov 4",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.77411,
+   "lon": -85.53307,
+   "town": "Chipley",
+   "county": "",
+   "n": 3,
+   "recv": "Nov 4",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 31.09693,
+   "lon": -87.03501,
+   "town": "Brewton",
+   "county": "",
+   "n": 2,
+   "recv": "Nov 3",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.44177,
    "lon": -86.58223,
@@ -12054,11 +12094,11 @@
  },
  "funnel": {
   "target": 150,
-  "unit_assigned": 34
+  "unit_assigned": 35
  },
  "operations36h": {
   "filed": 0,
-  "delivered": 5,
+  "delivered": 2,
   "days_to_delivery": 8.7,
   "en_route": 2
  },
@@ -12214,5 +12254,5 @@
    "household_size": 3
   }
  ],
- "last_event_at": "2026-11-03T12:22:31.139710+00:00"
+ "last_event_at": "2026-11-04T12:12:17.428253+00:00"
 }
