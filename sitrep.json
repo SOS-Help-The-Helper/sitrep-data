@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 4, 2026 · 3:31 PM CT",
- "requestsLast24h": 5,
+ "verified_as_of": "Nov 5, 2026 · 6:14 AM CT",
+ "requestsLast24h": 7,
  "tiles": {
-  "people": 1871,
-  "requests": 751,
+  "people": 1875,
+  "requests": 754,
   "resources": 359,
   "delivered": 47
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 589,
-   "denominator": 751,
-   "pct": 78.4
+   "count": 592,
+   "denominator": 754,
+   "pct": 78.5
   },
   {
    "key": "medical",
    "label": "With Medical Need",
    "count": 417,
-   "denominator": 751,
-   "pct": 55.5
+   "denominator": 754,
+   "pct": 55.3
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 111,
-   "denominator": 751,
-   "pct": 14.8
+   "denominator": 754,
+   "pct": 14.7
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 751,
+   "denominator": 754,
    "pct": 10.1
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 242,
-   "denominator": 751,
+   "count": 243,
+   "denominator": 754,
    "pct": 32.2
   }
  ],
  "chips": {
-  "uninsured_pct": 78.4,
-  "medical_pct": 55.5,
-  "veteran_pct": 14.8,
+  "uninsured_pct": 78.5,
+  "medical_pct": 55.3,
+  "veteran_pct": 14.7,
   "first_responder_pct": 10.1,
   "site_ready_pct": 32.2
  },
- "intakes": 751,
- "people": 1871,
+ "intakes": 754,
+ "people": 1875,
  "medical": 417,
  "veterans": 111,
  "firstResponders": 76,
  "resources": 359,
- "siteReady": 242,
- "canTow": 215,
- "own": 444,
+ "siteReady": 243,
+ "canTow": 216,
+ "own": 445,
  "insured": 162,
  "veteranFr": 160,
  "hours": [
@@ -71,7 +71,7 @@
   {
    "hour": "01",
    "label": "1 AM",
-   "count": 2
+   "count": 3
   },
   {
    "hour": "02",
@@ -96,7 +96,7 @@
   {
    "hour": "06",
    "label": "6 AM",
-   "count": 8
+   "count": 10
   },
   {
    "hour": "07",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 280,
+   "count": 281,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 224
+     "count": 225
     },
     {
      "town": "Town not yet confirmed",
@@ -261,11 +261,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 341,
+   "count": 343,
    "towns": [
     {
      "town": "Milton",
-     "count": 223
+     "count": 225
     },
     {
      "town": "Pace",
@@ -423,11 +423,11 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 343,
+  "Escambia County": 281,
   "Okaloosa County": 52,
   "unassigned": 11,
-  "Escambia County": 280,
   "Washington County": 2,
-  "Santa Rosa County": 341,
   "Polk County": 1,
   "Broward County": 5,
   "Bay County": 7,
@@ -451,10 +451,11 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Milton": 225,
+  "Pensacola": 225,
   "Ft Walton Beach": 2,
   "unresolved": 80,
   "Tallahassee": 1,
-  "Pensacola": 224,
   "Chipley": 2,
   "Brewton": 2,
   "Orange Beach": 1,
@@ -463,7 +464,6 @@
   "Pace": 39,
   "Lakeland": 1,
   "Shoemaker St Pensacola": 1,
-  "Milton": 223,
   "Gulf Breeze": 16,
   "Crestview": 12,
   "Hollywood": 2,
@@ -525,11 +525,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 255
+   "count": 257
   },
   {
    "label": "2",
-   "count": 207
+   "count": 208
   },
   {
    "label": "3",
@@ -563,9 +563,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 462,
+   "households": 465,
    "rigs": 59,
-   "delta": -403
+   "delta": -406
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -592,18 +592,52 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "751 families asking for help — 1871 people",
+  "754 families asking for help — 1875 people",
   "417 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "47 RVs delivered",
-  "242 families site-ready for immediate placement",
+  "243 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.66256,
+   "lon": -87.09661,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Nov 5",
+   "flags": [
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.47047,
+   "lon": -87.28626,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 5",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.70813,
+   "lon": -86.92228,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Nov 5",
+   "flags": [],
+   "da": null
+  },
   {
    "lat": 30.40576,
    "lon": -86.61884,
@@ -12168,7 +12202,7 @@
  },
  "operations36h": {
   "filed": 0,
-  "delivered": 2,
+  "delivered": 0,
   "days_to_delivery": 8.7,
   "en_route": 2
  },
