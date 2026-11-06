@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 6, 2026 · 1:09 PM CT",
- "requestsLast24h": 3,
+ "verified_as_of": "Nov 6, 2026 · 4:11 PM CT",
+ "requestsLast24h": 6,
  "tiles": {
-  "people": 1905,
-  "requests": 767,
+  "people": 1909,
+  "requests": 770,
   "resources": 359,
   "delivered": 47
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 605,
-   "denominator": 767,
-   "pct": 78.9
+   "count": 608,
+   "denominator": 770,
+   "pct": 79.0
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 425,
-   "denominator": 767,
-   "pct": 55.4
+   "count": 428,
+   "denominator": 770,
+   "pct": 55.6
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 112,
-   "denominator": 767,
-   "pct": 14.6
+   "count": 113,
+   "denominator": 770,
+   "pct": 14.7
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 767,
+   "denominator": 770,
    "pct": 9.9
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 249,
-   "denominator": 767,
-   "pct": 32.5
+   "denominator": 770,
+   "pct": 32.3
   }
  ],
  "chips": {
-  "uninsured_pct": 78.9,
-  "medical_pct": 55.4,
-  "veteran_pct": 14.6,
+  "uninsured_pct": 79.0,
+  "medical_pct": 55.6,
+  "veteran_pct": 14.7,
   "first_responder_pct": 9.9,
-  "site_ready_pct": 32.5
+  "site_ready_pct": 32.3
  },
- "intakes": 767,
- "people": 1905,
- "medical": 425,
- "veterans": 112,
+ "intakes": 770,
+ "people": 1909,
+ "medical": 428,
+ "veterans": 113,
  "firstResponders": 76,
  "resources": 359,
  "siteReady": 249,
  "canTow": 219,
- "own": 452,
+ "own": 454,
  "insured": 162,
- "veteranFr": 161,
+ "veteranFr": 162,
  "hours": [
   {
    "hour": "00",
@@ -136,12 +136,12 @@
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 24
+   "count": 25
   },
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 62
+   "count": 64
   },
   {
    "hour": "16",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 287,
+   "count": 288,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 231
+     "count": 232
     },
     {
      "town": "Town not yet confirmed",
@@ -261,11 +261,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 348,
+   "count": 349,
    "towns": [
     {
      "town": "Milton",
-     "count": 228
+     "count": 229
     },
     {
      "town": "Pace",
@@ -319,7 +319,7 @@
   },
   {
    "county": "Okaloosa County",
-   "count": 53,
+   "count": 54,
    "towns": [
     {
      "town": "Town not yet confirmed",
@@ -334,15 +334,15 @@
      "count": 12
     },
     {
+     "town": "Niceville",
+     "count": 3
+    },
+    {
      "town": "Mary Esther",
      "count": 3
     },
     {
      "town": "Ft Walton Beach",
-     "count": 2
-    },
-    {
-     "town": "Niceville",
      "count": 2
     },
     {
@@ -423,10 +423,10 @@
   }
  ],
  "countyCounts": {
-  "Escambia County": 287,
-  "Santa Rosa County": 348,
+  "Escambia County": 288,
+  "Okaloosa County": 54,
+  "Santa Rosa County": 349,
   "unassigned": 12,
-  "Okaloosa County": 53,
   "Washington County": 2,
   "Polk County": 1,
   "Broward County": 5,
@@ -451,9 +451,10 @@
   "Conecuh County": 1
  },
  "towns": {
-  "Pensacola": 231,
+  "Pensacola": 232,
+  "Niceville": 3,
+  "Milton": 229,
   "Jay": 27,
-  "Milton": 228,
   "unresolved": 82,
   "Gulf Breeze": 17,
   "Ft Walton Beach": 2,
@@ -498,7 +499,6 @@
   "Cervantes St Pensacola": 1,
   "Ludlow St Pensacola": 1,
   "Miramar Beach": 1,
-  "Niceville": 2,
   "Panama City Beach": 2,
   "Fort Lauderdale": 1,
   "Beverly Hills": 1,
@@ -525,11 +525,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 263
+   "count": 265
   },
   {
    "label": "2",
-   "count": 211
+   "count": 212
   },
   {
    "label": "3",
@@ -563,9 +563,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 474,
+   "households": 477,
    "rigs": 59,
-   "delta": -415
+   "delta": -418
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -592,8 +592,8 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "767 families asking for help — 1905 people",
-  "425 households with medical conditions"
+  "770 families asking for help — 1909 people",
+  "428 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -604,6 +604,45 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.51111,
+   "lon": -87.2909,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 6",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.51126,
+   "lon": -86.4656,
+   "town": "Niceville",
+   "county": "Okaloosa",
+   "n": 1,
+   "recv": "Nov 6",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.58884,
+   "lon": -87.15646,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Nov 6",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
   {
    "lat": 30.43521,
    "lon": -87.24259,
@@ -12363,7 +12402,7 @@
  },
  "funnel": {
   "target": 150,
-  "unit_assigned": 42
+  "unit_assigned": 43
  },
  "operations36h": {
   "filed": 0,
@@ -12523,5 +12562,5 @@
    "household_size": 3
   }
  ],
- "last_event_at": "2026-11-06T18:30:21.751105+00:00"
+ "last_event_at": "2026-11-06T21:43:22.017051+00:00"
 }
