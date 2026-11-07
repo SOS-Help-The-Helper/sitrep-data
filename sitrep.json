@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 6, 2026 · 4:11 PM CT",
+ "verified_as_of": "Nov 7, 2026 · 6:14 AM CT",
  "requestsLast24h": 6,
  "tiles": {
-  "people": 1909,
-  "requests": 770,
+  "people": 1914,
+  "requests": 773,
   "resources": 359,
   "delivered": 47
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 608,
-   "denominator": 770,
+   "count": 611,
+   "denominator": 773,
    "pct": 79.0
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 428,
-   "denominator": 770,
+   "count": 430,
+   "denominator": 773,
    "pct": 55.6
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 113,
-   "denominator": 770,
-   "pct": 14.7
+   "count": 115,
+   "denominator": 773,
+   "pct": 14.9
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 770,
-   "pct": 9.9
+   "denominator": 773,
+   "pct": 9.8
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 249,
-   "denominator": 770,
+   "count": 250,
+   "denominator": 773,
    "pct": 32.3
   }
  ],
  "chips": {
   "uninsured_pct": 79.0,
   "medical_pct": 55.6,
-  "veteran_pct": 14.7,
-  "first_responder_pct": 9.9,
+  "veteran_pct": 14.9,
+  "first_responder_pct": 9.8,
   "site_ready_pct": 32.3
  },
- "intakes": 770,
- "people": 1909,
- "medical": 428,
- "veterans": 113,
+ "intakes": 773,
+ "people": 1914,
+ "medical": 430,
+ "veterans": 115,
  "firstResponders": 76,
  "resources": 359,
- "siteReady": 249,
+ "siteReady": 250,
  "canTow": 219,
- "own": 454,
+ "own": 457,
  "insured": 162,
- "veteranFr": 162,
+ "veteranFr": 164,
  "hours": [
   {
    "hour": "00",
@@ -96,7 +96,7 @@
   {
    "hour": "06",
    "label": "6 AM",
-   "count": 10
+   "count": 11
   },
   {
    "hour": "07",
@@ -146,7 +146,7 @@
   {
    "hour": "16",
    "label": "4 PM",
-   "count": 31
+   "count": 32
   },
   {
    "hour": "17",
@@ -161,7 +161,7 @@
   {
    "hour": "19",
    "label": "7 PM",
-   "count": 12
+   "count": 13
   },
   {
    "hour": "20",
@@ -261,11 +261,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 349,
+   "count": 351,
    "towns": [
     {
      "town": "Milton",
-     "count": 229
+     "count": 231
     },
     {
      "town": "Pace",
@@ -423,10 +423,10 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 13,
+  "Santa Rosa County": 351,
   "Escambia County": 288,
   "Okaloosa County": 54,
-  "Santa Rosa County": 349,
-  "unassigned": 12,
   "Washington County": 2,
   "Polk County": 1,
   "Broward County": 5,
@@ -451,11 +451,11 @@
   "Conecuh County": 1
  },
  "towns": {
+  "unresolved": 83,
+  "Milton": 231,
   "Pensacola": 232,
   "Niceville": 3,
-  "Milton": 229,
   "Jay": 27,
-  "unresolved": 82,
   "Gulf Breeze": 17,
   "Ft Walton Beach": 2,
   "Tallahassee": 1,
@@ -525,7 +525,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 265
+   "count": 267
   },
   {
    "label": "2",
@@ -533,7 +533,7 @@
   },
   {
    "label": "3",
-   "count": 115
+   "count": 116
   },
   {
    "label": "4",
@@ -563,15 +563,15 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 477,
+   "households": 479,
    "rigs": 59,
-   "delta": -418
+   "delta": -420
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 276,
+   "households": 277,
    "rigs": 300,
-   "delta": 24
+   "delta": 23
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
@@ -592,18 +592,59 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "770 families asking for help — 1909 people",
-  "428 households with medical conditions"
+  "773 families asking for help — 1914 people",
+  "430 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "47 RVs delivered",
-  "249 families site-ready for immediate placement",
+  "250 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.43891,
+   "lon": -87.27209,
+   "town": "",
+   "county": "",
+   "n": 3,
+   "recv": "Nov 7",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.62312,
+   "lon": -87.1483,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Nov 6",
+   "flags": [
+    "Veteran / First responder",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.68122,
+   "lon": -87.04588,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 1,
+   "recv": "Nov 6",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.51111,
    "lon": -87.2909,
@@ -12406,7 +12447,7 @@
  },
  "operations36h": {
   "filed": 0,
-  "delivered": 3,
+  "delivered": 1,
   "days_to_delivery": 8.8,
   "en_route": 2
  },
