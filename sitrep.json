@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 7, 2026 · 1:02 PM CT",
- "requestsLast24h": 3,
+ "verified_as_of": "Nov 7, 2026 · 4:07 PM CT",
+ "requestsLast24h": 5,
  "tiles": {
-  "people": 1918,
-  "requests": 776,
+  "people": 1921,
+  "requests": 778,
   "resources": 359,
   "delivered": 47
  },
@@ -11,57 +11,57 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 614,
-   "denominator": 776,
-   "pct": 79.1
+   "count": 615,
+   "denominator": 778,
+   "pct": 79.0
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 431,
-   "denominator": 776,
+   "count": 432,
+   "denominator": 778,
    "pct": 55.5
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 116,
-   "denominator": 776,
-   "pct": 14.9
+   "count": 117,
+   "denominator": 778,
+   "pct": 15.0
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 776,
+   "denominator": 778,
    "pct": 9.8
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 252,
-   "denominator": 776,
+   "count": 253,
+   "denominator": 778,
    "pct": 32.5
   }
  ],
  "chips": {
-  "uninsured_pct": 79.1,
+  "uninsured_pct": 79.0,
   "medical_pct": 55.5,
-  "veteran_pct": 14.9,
+  "veteran_pct": 15.0,
   "first_responder_pct": 9.8,
   "site_ready_pct": 32.5
  },
- "intakes": 776,
- "people": 1918,
- "medical": 431,
- "veterans": 116,
+ "intakes": 778,
+ "people": 1921,
+ "medical": 432,
+ "veterans": 117,
  "firstResponders": 76,
  "resources": 359,
- "siteReady": 252,
+ "siteReady": 253,
  "canTow": 220,
- "own": 459,
- "insured": 162,
- "veteranFr": 165,
+ "own": 461,
+ "insured": 163,
+ "veteranFr": 166,
  "hours": [
   {
    "hour": "00",
@@ -136,12 +136,12 @@
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 25
+   "count": 26
   },
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 64
+   "count": 65
   },
   {
    "hour": "16",
@@ -261,11 +261,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 352,
+   "count": 353,
    "towns": [
     {
      "town": "Milton",
-     "count": 232
+     "count": 233
     },
     {
      "town": "Pace",
@@ -423,9 +423,9 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 15,
+  "Santa Rosa County": 353,
   "Escambia County": 289,
-  "unassigned": 14,
-  "Santa Rosa County": 352,
   "Okaloosa County": 54,
   "Washington County": 2,
   "Polk County": 1,
@@ -451,9 +451,10 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Palm Bay": 1,
+  "Milton": 233,
   "Pensacola": 233,
   "Chipley": 3,
-  "Milton": 232,
   "unresolved": 83,
   "Niceville": 3,
   "Jay": 27,
@@ -525,11 +526,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 269
+   "count": 270
   },
   {
    "label": "2",
-   "count": 213
+   "count": 214
   },
   {
    "label": "3",
@@ -563,9 +564,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 482,
+   "households": 484,
    "rigs": 59,
-   "delta": -423
+   "delta": -425
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -592,18 +593,61 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "776 families asking for help — 1918 people",
-  "431 households with medical conditions"
+  "778 families asking for help — 1921 people",
+  "432 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "47 RVs delivered",
-  "252 families site-ready for immediate placement",
+  "253 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 28.0383,
+   "lon": -80.58671,
+   "town": "Palm Bay",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 7",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.6582,
+   "lon": -86.87981,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Nov 7",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44127,
+   "lon": -87.24671,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 7",
+   "flags": [
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.78311,
    "lon": -85.54112,
