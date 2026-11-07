@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 7, 2026 · 11:13 AM CT",
+ "verified_as_of": "Nov 7, 2026 · 11:25 AM CT",
  "requestsLast24h": 3,
  "tiles": {
-  "people": 1915,
-  "requests": 774,
+  "people": 1917,
+  "requests": 775,
   "resources": 359,
   "delivered": 47
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 612,
-   "denominator": 774,
+   "count": 613,
+   "denominator": 775,
    "pct": 79.1
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 430,
-   "denominator": 774,
+   "count": 431,
+   "denominator": 775,
    "pct": 55.6
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 115,
-   "denominator": 774,
-   "pct": 14.9
+   "denominator": 775,
+   "pct": 14.8
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 774,
+   "denominator": 775,
    "pct": 9.8
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 250,
-   "denominator": 774,
-   "pct": 32.3
+   "count": 251,
+   "denominator": 775,
+   "pct": 32.4
   }
  ],
  "chips": {
   "uninsured_pct": 79.1,
   "medical_pct": 55.6,
-  "veteran_pct": 14.9,
+  "veteran_pct": 14.8,
   "first_responder_pct": 9.8,
-  "site_ready_pct": 32.3
+  "site_ready_pct": 32.4
  },
- "intakes": 774,
- "people": 1915,
- "medical": 430,
+ "intakes": 775,
+ "people": 1917,
+ "medical": 431,
  "veterans": 115,
  "firstResponders": 76,
  "resources": 359,
- "siteReady": 250,
+ "siteReady": 251,
  "canTow": 219,
- "own": 457,
+ "own": 458,
  "insured": 162,
  "veteranFr": 164,
  "hours": [
@@ -121,7 +121,7 @@
   {
    "hour": "11",
    "label": "11 AM",
-   "count": 188
+   "count": 189
   },
   {
    "hour": "12",
@@ -423,8 +423,8 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 14,
   "Santa Rosa County": 352,
-  "unassigned": 13,
   "Escambia County": 288,
   "Okaloosa County": 54,
   "Washington County": 2,
@@ -451,6 +451,7 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Chipley": 3,
   "Milton": 232,
   "unresolved": 83,
   "Pensacola": 232,
@@ -459,7 +460,6 @@
   "Gulf Breeze": 17,
   "Ft Walton Beach": 2,
   "Tallahassee": 1,
-  "Chipley": 2,
   "Brewton": 2,
   "Orange Beach": 1,
   "32579": 1,
@@ -529,7 +529,7 @@
   },
   {
    "label": "2",
-   "count": 212
+   "count": 213
   },
   {
    "label": "3",
@@ -563,9 +563,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 480,
+   "households": 481,
    "rigs": 59,
-   "delta": -421
+   "delta": -422
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -592,18 +592,32 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "774 families asking for help — 1915 people",
-  "430 households with medical conditions"
+  "775 families asking for help — 1917 people",
+  "431 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "47 RVs delivered",
-  "250 families site-ready for immediate placement",
+  "251 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.78311,
+   "lon": -85.54112,
+   "town": "Chipley",
+   "county": "",
+   "n": 2,
+   "recv": "Nov 7",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.63081,
    "lon": -87.04766,
