@@ -12525,7 +12525,7 @@
  },
  "funnel": {
   "target": 150,
-  "unit_assigned": 43
+  "unit_assigned": 44
  },
  "operations36h": {
   "filed": 0,
@@ -12685,5 +12685,5 @@
    "household_size": 3
   }
  ],
- "last_event_at": "2026-11-06T21:43:22.017051+00:00"
+ "last_event_at": "2026-11-08T17:18:08.106815+00:00"
 }
