@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 8, 2026 · 11:12 AM CT",
- "requestsLast24h": 2,
+ "verified_as_of": "Nov 9, 2026 · 6:09 AM CT",
+ "requestsLast24h": 3,
  "tiles": {
-  "people": 1926,
-  "requests": 780,
+  "people": 1942,
+  "requests": 786,
   "resources": 359,
   "delivered": 47
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 616,
-   "denominator": 780,
-   "pct": 79.0
+   "count": 622,
+   "denominator": 786,
+   "pct": 79.1
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 434,
-   "denominator": 780,
+   "count": 437,
+   "denominator": 786,
    "pct": 55.6
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 117,
-   "denominator": 780,
-   "pct": 15.0
+   "denominator": 786,
+   "pct": 14.9
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 780,
+   "denominator": 786,
    "pct": 9.7
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 253,
-   "denominator": 780,
-   "pct": 32.4
+   "denominator": 786,
+   "pct": 32.2
   }
  ],
  "chips": {
-  "uninsured_pct": 79.0,
+  "uninsured_pct": 79.1,
   "medical_pct": 55.6,
-  "veteran_pct": 15.0,
+  "veteran_pct": 14.9,
   "first_responder_pct": 9.7,
-  "site_ready_pct": 32.4
+  "site_ready_pct": 32.2
  },
- "intakes": 780,
- "people": 1926,
- "medical": 434,
+ "intakes": 786,
+ "people": 1942,
+ "medical": 437,
  "veterans": 117,
  "firstResponders": 76,
  "resources": 359,
  "siteReady": 253,
  "canTow": 220,
- "own": 463,
+ "own": 465,
  "insured": 164,
  "veteranFr": 166,
  "hours": [
@@ -71,7 +71,7 @@
   {
    "hour": "01",
    "label": "1 AM",
-   "count": 3
+   "count": 7
   },
   {
    "hour": "02",
@@ -131,7 +131,7 @@
   {
    "hour": "13",
    "label": "1 PM",
-   "count": 55
+   "count": 56
   },
   {
    "hour": "14",
@@ -141,7 +141,7 @@
   {
    "hour": "15",
    "label": "3 PM",
-   "count": 65
+   "count": 66
   },
   {
    "hour": "16",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 290,
+   "count": 292,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 234
+     "count": 235
     },
     {
      "town": "Town not yet confirmed",
@@ -206,6 +206,10 @@
      "count": 6
     },
     {
+     "town": "Molino",
+     "count": 2
+    },
+    {
      "town": "Brewton",
      "count": 2
     },
@@ -215,10 +219,6 @@
     },
     {
      "town": "Shoemaker St Pensacola",
-     "count": 1
-    },
-    {
-     "town": "Molino",
      "count": 1
     },
     {
@@ -261,11 +261,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 353,
+   "count": 354,
    "towns": [
     {
      "town": "Milton",
-     "count": 233
+     "count": 234
     },
     {
      "town": "Pace",
@@ -381,7 +381,7 @@
   },
   {
    "county": "Walton County",
-   "count": 30,
+   "count": 31,
    "towns": [
     {
      "town": "DeFuniak Springs",
@@ -400,6 +400,10 @@
      "count": 4
     },
     {
+     "town": "Santa Rosa Beach",
+     "count": 3
+    },
+    {
      "town": "Defuniak Springs",
      "count": 2
     },
@@ -412,10 +416,6 @@
      "count": 2
     },
     {
-     "town": "Santa Rosa Beach",
-     "count": 2
-    },
-    {
      "town": "Miramar Beach",
      "count": 1
     }
@@ -423,15 +423,15 @@
   }
  ],
  "countyCounts": {
-  "Escambia County": 290,
-  "unassigned": 16,
-  "Santa Rosa County": 353,
+  "unassigned": 18,
+  "Escambia County": 292,
+  "Walton County": 31,
+  "Santa Rosa County": 354,
   "Okaloosa County": 54,
   "Washington County": 2,
   "Polk County": 1,
   "Broward County": 5,
   "Bay County": 7,
-  "Walton County": 30,
   "Franklin County": 1,
   "Baldwin County": 1,
   "Madera County": 1,
@@ -451,10 +451,12 @@
   "Conecuh County": 1
  },
  "towns": {
-  "Pensacola": 234,
-  "unresolved": 84,
+  "unresolved": 86,
+  "Pensacola": 235,
+  "Molino": 2,
+  "Santa Rosa Beach": 3,
+  "Milton": 234,
   "Palm Bay": 1,
-  "Milton": 233,
   "Chipley": 3,
   "Niceville": 3,
   "Jay": 27,
@@ -476,7 +478,6 @@
   "Freeport": 6,
   "Ponce de Leon": 2,
   "Eastpoint": 1,
-  "Molino": 1,
   "Seminole": 1,
   "Bagdad": 1,
   "Interlachen": 1,
@@ -511,7 +512,6 @@
   "Jacksonville": 1,
   "Munson": 2,
   "Shalimar": 2,
-  "Santa Rosa Beach": 2,
   "Cottondale": 1,
   "Vernon": 1,
   "Graceville": 1,
@@ -526,15 +526,15 @@
  "sizes": [
   {
    "label": "1",
-   "count": 271
+   "count": 273
   },
   {
    "label": "2",
-   "count": 214
+   "count": 215
   },
   {
    "label": "3",
-   "count": 116
+   "count": 118
   },
   {
    "label": "4",
@@ -546,7 +546,7 @@
   },
   {
    "label": "6",
-   "count": 28
+   "count": 29
   },
   {
    "label": "7",
@@ -564,15 +564,15 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 485,
+   "households": 488,
    "rigs": 59,
-   "delta": -426
+   "delta": -429
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 278,
+   "households": 281,
    "rigs": 300,
-   "delta": 22
+   "delta": 19
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
@@ -593,8 +593,8 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "780 families asking for help — 1926 people",
-  "434 households with medical conditions"
+  "786 families asking for help — 1942 people",
+  "437 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -605,6 +605,75 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 39.72753,
+   "lon": -105.00178,
+   "town": "",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 9",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 39.68642,
+   "lon": -84.21958,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Nov 9",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.71044,
+   "lon": -87.32702,
+   "town": "Molino",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Nov 9",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.39658,
+   "lon": -86.22615,
+   "town": "Santa Rosa Beach",
+   "county": "Walton",
+   "n": 1,
+   "recv": "Nov 9",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 35.26501,
+   "lon": -81.544,
+   "town": "",
+   "county": "",
+   "n": 3,
+   "recv": "Nov 8",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.63497,
+   "lon": -87.03408,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Nov 8",
+   "flags": [],
+   "da": null
+  },
   {
    "lat": 30.55636,
    "lon": -87.28047,
@@ -12525,7 +12594,7 @@
  },
  "funnel": {
   "target": 150,
-  "unit_assigned": 44
+  "unit_assigned": 45
  },
  "operations36h": {
   "filed": 0,
@@ -12685,5 +12754,5 @@
    "household_size": 3
   }
  ],
- "last_event_at": "2026-11-08T17:18:08.106815+00:00"
+ "last_event_at": "2026-11-09T07:06:57.519073+00:00"
 }
