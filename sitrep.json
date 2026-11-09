@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 9, 2026 · 6:09 AM CT",
- "requestsLast24h": 3,
+ "verified_as_of": "Nov 9, 2026 · 12:27 PM CT",
+ "requestsLast24h": 2,
  "tiles": {
-  "people": 1942,
-  "requests": 786,
+  "people": 1945,
+  "requests": 788,
   "resources": 359,
   "delivered": 47
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 622,
-   "denominator": 786,
-   "pct": 79.1
+   "count": 624,
+   "denominator": 788,
+   "pct": 79.2
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 437,
-   "denominator": 786,
+   "count": 438,
+   "denominator": 788,
    "pct": 55.6
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 117,
-   "denominator": 786,
-   "pct": 14.9
+   "denominator": 788,
+   "pct": 14.8
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 786,
-   "pct": 9.7
+   "denominator": 788,
+   "pct": 9.6
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 253,
-   "denominator": 786,
-   "pct": 32.2
+   "denominator": 788,
+   "pct": 32.1
   }
  ],
  "chips": {
-  "uninsured_pct": 79.1,
+  "uninsured_pct": 79.2,
   "medical_pct": 55.6,
-  "veteran_pct": 14.9,
-  "first_responder_pct": 9.7,
-  "site_ready_pct": 32.2
+  "veteran_pct": 14.8,
+  "first_responder_pct": 9.6,
+  "site_ready_pct": 32.1
  },
- "intakes": 786,
- "people": 1942,
- "medical": 437,
+ "intakes": 788,
+ "people": 1945,
+ "medical": 438,
  "veterans": 117,
  "firstResponders": 76,
  "resources": 359,
  "siteReady": 253,
- "canTow": 220,
- "own": 465,
+ "canTow": 222,
+ "own": 466,
  "insured": 164,
  "veteranFr": 166,
  "hours": [
@@ -126,7 +126,7 @@
   {
    "hour": "12",
    "label": "12 PM",
-   "count": 60
+   "count": 62
   },
   {
    "hour": "13",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 292,
+   "count": 294,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 235
+     "count": 237
     },
     {
      "town": "Town not yet confirmed",
@@ -423,8 +423,8 @@
   }
  ],
  "countyCounts": {
+  "Escambia County": 294,
   "unassigned": 18,
-  "Escambia County": 292,
   "Walton County": 31,
   "Santa Rosa County": 354,
   "Okaloosa County": 54,
@@ -451,8 +451,8 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Pensacola": 237,
   "unresolved": 86,
-  "Pensacola": 235,
   "Molino": 2,
   "Santa Rosa Beach": 3,
   "Milton": 234,
@@ -526,11 +526,11 @@
  "sizes": [
   {
    "label": "1",
-   "count": 273
+   "count": 274
   },
   {
    "label": "2",
-   "count": 215
+   "count": 216
   },
   {
    "label": "3",
@@ -564,9 +564,9 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 488,
+   "households": 490,
    "rigs": 59,
-   "delta": -429
+   "delta": -431
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
@@ -593,8 +593,8 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "786 families asking for help — 1942 people",
-  "437 households with medical conditions"
+  "788 families asking for help — 1945 people",
+  "438 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -605,6 +605,32 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.54297,
+   "lon": -87.23935,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Nov 9",
+   "flags": [
+    "Can tow"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44638,
+   "lon": -87.21992,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 9",
+   "flags": [
+    "Medical",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 39.72753,
    "lon": -105.00178,
@@ -12594,12 +12620,12 @@
  },
  "funnel": {
   "target": 150,
-  "unit_assigned": 45
+  "unit_assigned": null
  },
  "operations36h": {
-  "filed": 0,
-  "delivered": 0,
-  "days_to_delivery": 8.8,
+  "filed": null,
+  "delivered": null,
+  "days_to_delivery": null,
   "en_route": 2
  },
  "event_stream": [
@@ -12754,5 +12780,5 @@
    "household_size": 3
   }
  ],
- "last_event_at": "2026-11-09T07:06:57.519073+00:00"
+ "last_event_at": null
 }
