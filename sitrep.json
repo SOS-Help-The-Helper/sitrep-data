@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 9, 2026 · 12:27 PM CT",
- "requestsLast24h": 2,
+ "verified_as_of": "Nov 9, 2026 · 2:22 PM CT",
+ "requestsLast24h": 4,
  "tiles": {
-  "people": 1945,
-  "requests": 788,
+  "people": 1953,
+  "requests": 790,
   "resources": 359,
   "delivered": 47
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 624,
-   "denominator": 788,
+   "count": 626,
+   "denominator": 790,
    "pct": 79.2
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 438,
-   "denominator": 788,
-   "pct": 55.6
+   "count": 440,
+   "denominator": 790,
+   "pct": 55.7
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 117,
-   "denominator": 788,
+   "denominator": 790,
    "pct": 14.8
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 76,
-   "denominator": 788,
+   "denominator": 790,
    "pct": 9.6
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 253,
-   "denominator": 788,
-   "pct": 32.1
+   "count": 255,
+   "denominator": 790,
+   "pct": 32.3
   }
  ],
  "chips": {
   "uninsured_pct": 79.2,
-  "medical_pct": 55.6,
+  "medical_pct": 55.7,
   "veteran_pct": 14.8,
   "first_responder_pct": 9.6,
-  "site_ready_pct": 32.1
+  "site_ready_pct": 32.3
  },
- "intakes": 788,
- "people": 1945,
- "medical": 438,
+ "intakes": 790,
+ "people": 1953,
+ "medical": 440,
  "veterans": 117,
  "firstResponders": 76,
  "resources": 359,
- "siteReady": 253,
- "canTow": 222,
- "own": 466,
+ "siteReady": 255,
+ "canTow": 223,
+ "own": 468,
  "insured": 164,
  "veteranFr": 166,
  "hours": [
@@ -136,7 +136,7 @@
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 26
+   "count": 28
   },
   {
    "hour": "15",
@@ -261,11 +261,11 @@
   },
   {
    "county": "Santa Rosa County",
-   "count": 354,
+   "count": 356,
    "towns": [
     {
      "town": "Milton",
-     "count": 234
+     "count": 235
     },
     {
      "town": "Pace",
@@ -273,7 +273,7 @@
     },
     {
      "town": "Jay",
-     "count": 27
+     "count": 28
     },
     {
      "town": "Gulf Breeze",
@@ -423,10 +423,10 @@
   }
  ],
  "countyCounts": {
+  "Santa Rosa County": 356,
   "Escambia County": 294,
   "unassigned": 18,
   "Walton County": 31,
-  "Santa Rosa County": 354,
   "Okaloosa County": 54,
   "Washington County": 2,
   "Polk County": 1,
@@ -451,15 +451,15 @@
   "Conecuh County": 1
  },
  "towns": {
+  "Jay": 28,
+  "Milton": 235,
   "Pensacola": 237,
   "unresolved": 86,
   "Molino": 2,
   "Santa Rosa Beach": 3,
-  "Milton": 234,
   "Palm Bay": 1,
   "Chipley": 3,
   "Niceville": 3,
-  "Jay": 27,
   "Gulf Breeze": 17,
   "Ft Walton Beach": 2,
   "Tallahassee": 1,
@@ -530,7 +530,7 @@
   },
   {
    "label": "2",
-   "count": 216
+   "count": 217
   },
   {
    "label": "3",
@@ -546,7 +546,7 @@
   },
   {
    "label": "6",
-   "count": 29
+   "count": 30
   },
   {
    "label": "7",
@@ -564,15 +564,15 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 490,
+   "households": 491,
    "rigs": 59,
-   "delta": -431
+   "delta": -432
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 281,
+   "households": 282,
    "rigs": 300,
-   "delta": 19
+   "delta": 18
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
@@ -593,18 +593,47 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "788 families asking for help — 1945 people",
-  "438 households with medical conditions"
+  "790 families asking for help — 1953 people",
+  "440 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
   "47 RVs delivered",
-  "253 families site-ready for immediate placement",
+  "255 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.92439,
+   "lon": -87.22361,
+   "town": "Jay",
+   "county": "Santa Rosa",
+   "n": 2,
+   "recv": "Nov 9",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.72712,
+   "lon": -86.95405,
+   "town": "Milton",
+   "county": "Santa Rosa",
+   "n": 6,
+   "recv": "Nov 9",
+   "flags": [
+    "Medical",
+    "Site ready",
+    "Can tow",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.54297,
    "lon": -87.23935,
@@ -12620,12 +12649,12 @@
  },
  "funnel": {
   "target": 150,
-  "unit_assigned": null
+  "unit_assigned": 45
  },
  "operations36h": {
-  "filed": null,
-  "delivered": null,
-  "days_to_delivery": null,
+  "filed": 0,
+  "delivered": 0,
+  "days_to_delivery": 8.8,
   "en_route": 2
  },
  "event_stream": [
@@ -12780,5 +12809,5 @@
    "household_size": 3
   }
  ],
- "last_event_at": null
+ "last_event_at": "2026-11-09T18:04:39.660162+00:00"
 }
