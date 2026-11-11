@@ -1,9 +1,9 @@
 {
- "verified_as_of": "Nov 11, 2026 · 12:29 PM CT",
+ "verified_as_of": "Nov 11, 2026 · 2:20 PM CT",
  "requestsLast24h": 12,
  "tiles": {
-  "people": 2004,
-  "requests": 822,
+  "people": 2009,
+  "requests": 824,
   "resources": 359,
   "delivered": 54
  },
@@ -11,55 +11,55 @@
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 655,
-   "denominator": 822,
+   "count": 657,
+   "denominator": 824,
    "pct": 79.7
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 460,
-   "denominator": 822,
-   "pct": 56.0
+   "count": 461,
+   "denominator": 824,
+   "pct": 55.9
   },
   {
    "key": "veteran",
    "label": "Veteran",
    "count": 119,
-   "denominator": 822,
-   "pct": 14.5
+   "denominator": 824,
+   "pct": 14.4
   },
   {
    "key": "first_responder",
    "label": "First Responders",
    "count": 79,
-   "denominator": 822,
+   "denominator": 824,
    "pct": 9.6
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
    "count": 260,
-   "denominator": 822,
+   "denominator": 824,
    "pct": 31.6
   }
  ],
  "chips": {
   "uninsured_pct": 79.7,
-  "medical_pct": 56.0,
-  "veteran_pct": 14.5,
+  "medical_pct": 55.9,
+  "veteran_pct": 14.4,
   "first_responder_pct": 9.6,
   "site_ready_pct": 31.6
  },
- "intakes": 822,
- "people": 2004,
- "medical": 460,
+ "intakes": 824,
+ "people": 2009,
+ "medical": 461,
  "veterans": 119,
  "firstResponders": 79,
  "resources": 359,
  "siteReady": 260,
  "canTow": 234,
- "own": 489,
+ "own": 491,
  "insured": 167,
  "veteranFr": 170,
  "hours": [
@@ -136,7 +136,7 @@
   {
    "hour": "14",
    "label": "2 PM",
-   "count": 29
+   "count": 31
   },
   {
    "hour": "15",
@@ -427,8 +427,8 @@
   }
  ],
  "countyCounts": {
+  "unassigned": 27,
   "Escambia County": 309,
-  "unassigned": 25,
   "Santa Rosa County": 364,
   "Okaloosa County": 56,
   "Walton County": 31,
@@ -455,9 +455,9 @@
   "Conecuh County": 1
  },
  "towns": {
+  "unresolved": 92,
+  "Chipley": 5,
   "Pensacola": 252,
-  "unresolved": 91,
-  "Chipley": 4,
   "Milton": 242,
   "Tallahassee": 2,
   "Panama City": 5,
@@ -530,7 +530,7 @@
  "sizes": [
   {
    "label": "1",
-   "count": 293
+   "count": 294
   },
   {
    "label": "2",
@@ -542,7 +542,7 @@
   },
   {
    "label": "4",
-   "count": 82
+   "count": 83
   },
   {
    "label": "5",
@@ -568,15 +568,15 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 517,
+   "households": 518,
    "rigs": 59,
-   "delta": -458
+   "delta": -459
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 288,
+   "households": 289,
    "rigs": 300,
-   "delta": 12
+   "delta": 11
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
@@ -597,8 +597,8 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "822 families asking for help — 2004 people",
-  "460 households with medical conditions"
+  "824 families asking for help — 2009 people",
+  "461 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
@@ -609,6 +609,31 @@
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 39.72753,
+   "lon": -105.00178,
+   "town": "",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 11",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.77411,
+   "lon": -85.53307,
+   "town": "Chipley",
+   "county": "",
+   "n": 4,
+   "recv": "Nov 11",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
   {
    "lat": 30.43923,
    "lon": -87.21052,
