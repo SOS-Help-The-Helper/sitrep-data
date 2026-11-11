@@ -1,67 +1,67 @@
 {
- "verified_as_of": "Nov 11, 2026 · 6:18 AM CT",
- "requestsLast24h": 13,
+ "verified_as_of": "Nov 11, 2026 · 12:29 PM CT",
+ "requestsLast24h": 12,
  "tiles": {
-  "people": 1993,
-  "requests": 815,
+  "people": 2004,
+  "requests": 822,
   "resources": 359,
-  "delivered": 53
+  "delivered": 54
  },
  "metrics": [
   {
    "key": "uninsured",
    "label": "Uninsured",
-   "count": 650,
-   "denominator": 815,
-   "pct": 79.8
+   "count": 655,
+   "denominator": 822,
+   "pct": 79.7
   },
   {
    "key": "medical",
    "label": "With Medical Need",
-   "count": 456,
-   "denominator": 815,
+   "count": 460,
+   "denominator": 822,
    "pct": 56.0
   },
   {
    "key": "veteran",
    "label": "Veteran",
-   "count": 118,
-   "denominator": 815,
+   "count": 119,
+   "denominator": 822,
    "pct": 14.5
   },
   {
    "key": "first_responder",
    "label": "First Responders",
-   "count": 78,
-   "denominator": 815,
+   "count": 79,
+   "denominator": 822,
    "pct": 9.6
   },
   {
    "key": "site_ready",
    "label": "Site Ready",
-   "count": 259,
-   "denominator": 815,
-   "pct": 31.8
+   "count": 260,
+   "denominator": 822,
+   "pct": 31.6
   }
  ],
  "chips": {
-  "uninsured_pct": 79.8,
+  "uninsured_pct": 79.7,
   "medical_pct": 56.0,
   "veteran_pct": 14.5,
   "first_responder_pct": 9.6,
-  "site_ready_pct": 31.8
+  "site_ready_pct": 31.6
  },
- "intakes": 815,
- "people": 1993,
- "medical": 456,
- "veterans": 118,
- "firstResponders": 78,
+ "intakes": 822,
+ "people": 2004,
+ "medical": 460,
+ "veterans": 119,
+ "firstResponders": 79,
  "resources": 359,
- "siteReady": 259,
- "canTow": 233,
- "own": 485,
- "insured": 165,
- "veteranFr": 169,
+ "siteReady": 260,
+ "canTow": 234,
+ "own": 489,
+ "insured": 167,
+ "veteranFr": 170,
  "hours": [
   {
    "hour": "00",
@@ -126,7 +126,7 @@
   {
    "hour": "12",
    "label": "12 PM",
-   "count": 67
+   "count": 74
   },
   {
    "hour": "13",
@@ -187,11 +187,11 @@
  "counties": [
   {
    "county": "Escambia County",
-   "count": 304,
+   "count": 309,
    "towns": [
     {
      "town": "Pensacola",
-     "count": 247
+     "count": 252
     },
     {
      "town": "Town not yet confirmed",
@@ -427,8 +427,8 @@
   }
  ],
  "countyCounts": {
-  "Escambia County": 304,
-  "unassigned": 23,
+  "Escambia County": 309,
+  "unassigned": 25,
   "Santa Rosa County": 364,
   "Okaloosa County": 56,
   "Walton County": 31,
@@ -455,8 +455,9 @@
   "Conecuh County": 1
  },
  "towns": {
-  "Pensacola": 247,
-  "unresolved": 90,
+  "Pensacola": 252,
+  "unresolved": 91,
+  "Chipley": 4,
   "Milton": 242,
   "Tallahassee": 2,
   "Panama City": 5,
@@ -465,7 +466,6 @@
   "Molino": 2,
   "Santa Rosa Beach": 3,
   "Palm Bay": 1,
-  "Chipley": 3,
   "Niceville": 3,
   "Gulf Breeze": 17,
   "Ft Walton Beach": 2,
@@ -530,15 +530,15 @@
  "sizes": [
   {
    "label": "1",
-   "count": 289
+   "count": 293
   },
   {
    "label": "2",
-   "count": 222
+   "count": 224
   },
   {
    "label": "3",
-   "count": 123
+   "count": 124
   },
   {
    "label": "4",
@@ -568,15 +568,15 @@
  "bands": [
   {
    "label": "Sleeps 2 — households of 1–2 people",
-   "households": 511,
+   "households": 517,
    "rigs": 59,
-   "delta": -452
+   "delta": -458
   },
   {
    "label": "Sleeps 4–6 — households of 3–6 people",
-   "households": 287,
+   "households": 288,
    "rigs": 300,
-   "delta": 13
+   "delta": 12
   },
   {
    "label": "Sleeps 7+ — households of 7 or more",
@@ -597,18 +597,107 @@
  },
  "signals": [
   "690 homes destroyed or heavily damaged — Santa Rosa, Escambia, Okaloosa, Walton",
-  "815 families asking for help — 1993 people",
-  "456 households with medical conditions"
+  "822 families asking for help — 2004 people",
+  "460 households with medical conditions"
  ],
  "action": [
   "359 rigs standing by",
-  "53 RVs delivered",
-  "259 families site-ready for immediate placement",
+  "54 RVs delivered",
+  "260 families site-ready for immediate placement",
   "All intakes being vetted; rigs assigned starting with destroyed homes"
  ],
  "sourcesLine": "Combined from Emergency RV, Florida VOAD and the State of Florida damage data (FDEM survey).",
  "legalLine": "Public situation report. Aggregate counts only — no names, addresses or household stories are published.",
  "pins": [
+  {
+   "lat": 30.43923,
+   "lon": -87.21052,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 3,
+   "recv": "Nov 11",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 42.60777,
+   "lon": -83.39988,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 11",
+   "flags": [
+    "Medical",
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.589,
+   "lon": -87.09988,
+   "town": "",
+   "county": "",
+   "n": 2,
+   "recv": "Nov 11",
+   "flags": [
+    "Owns home",
+    "Insured"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.44697,
+   "lon": -87.24919,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 11",
+   "flags": [
+    "Medical"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.50581,
+   "lon": -87.25946,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 2,
+   "recv": "Nov 11",
+   "flags": [],
+   "da": null
+  },
+  {
+   "lat": 30.62806,
+   "lon": -85.59197,
+   "town": "Chipley",
+   "county": "",
+   "n": 1,
+   "recv": "Nov 11",
+   "flags": [
+    "Owns home"
+   ],
+   "da": null
+  },
+  {
+   "lat": 30.42866,
+   "lon": -87.17699,
+   "town": "Pensacola",
+   "county": "Escambia",
+   "n": 1,
+   "recv": "Nov 11",
+   "flags": [
+    "Medical",
+    "Veteran / First responder",
+    "Site ready",
+    "Can tow",
+    "Insured"
+   ],
+   "da": null
+  },
   {
    "lat": 30.4984,
    "lon": -87.18156,
@@ -7983,7 +8072,8 @@
     "Medical",
     "Veteran / First responder"
    ],
-   "da": null
+   "da": null,
+   "delivered": "Nov 11"
   },
   {
    "lat": 30.44815,
@@ -12988,11 +13078,17 @@
  },
  "operations36h": {
   "filed": 0,
-  "delivered": 7,
-  "days_to_delivery": 9.6,
+  "delivered": 8,
+  "days_to_delivery": 9.8,
   "en_route": 2
  },
  "event_stream": [
+  {
+   "ts": "2026-11-11T18:05:15.494687+00:00",
+   "type": "RV DELIVERED",
+   "town": "Florida",
+   "household_size": 2
+  },
   {
    "ts": "2026-11-11T11:02:31.885900+00:00",
    "type": "RV DELIVERED",
@@ -13136,13 +13232,7 @@
    "type": "RV DELIVERED",
    "town": "Milton",
    "household_size": 2
-  },
-  {
-   "ts": "2026-10-28T12:00:00+00:00",
-   "type": "RV DELIVERED",
-   "town": "Pensacola",
-   "household_size": 3
   }
  ],
- "last_event_at": "2026-11-11T11:02:31.885900+00:00"
+ "last_event_at": "2026-11-11T18:05:15.494687+00:00"
 }
